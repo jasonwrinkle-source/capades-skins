@@ -92,6 +92,26 @@ Alongside the JSON, add `<skin>-proposal.md` with:
   where topics are things people do together and direction matters.
   Say which you intend, and why — it's Jason's call per skin.
 
+### Map types — read BRIEFING_HYPERMAP_TYPES.md
+
+`BRIEFING_HYPERMAP_TYPES.md` in this repo is the family's type
+framework: a type is fixed by what the rating *means*. Two types are
+built and can be authored today — **stance** (positions; Advocacy /
+Receptivity placements) and **action** (practices; give / receive
+flanks). Three are envisioned only:
+
+- **Mastery** (capability — can-do / can-teach): a proposal in this
+  type is a proposal for a new type, not just a new skin. Name it as
+  such in the proposal note; Jason rules on the type before the skin.
+  If built, it twins a stance skin — same categories, leaves
+  re-authored as performances.
+- **Need** (requirement / capacity; intensity reads as urgency): same
+  — a type proposal first, a skin second.
+- **Drift** is a *meta* type: it has no taxonomy and cannot be
+  authored as a skin JSON at all — it consumes timestamped profiles
+  from other skins. If a drift idea comes up, write it as a note in
+  the proposal, not as a file.
+
 ### The file
 
 Name it `<skin>.json`, all lowercase, matching the skin's `skin` field
