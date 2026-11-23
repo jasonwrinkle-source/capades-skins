@@ -62,10 +62,118 @@ re-apply Shel's edits on the fresh file, and push again.
 - The front-matter fields (`name`, `domain`, `meter`, `about`) are Jason's
   voice for the maps. Shel's edits there are welcome — flag them in the
   commit message so they get his eye before the deploy.
-- Adding a whole NEW skin file: don't just drop it in. A new skin needs
-  wiring in the main repo (hostname routing, the icon catalog, install
-  manifests, the guide) that this repo cannot carry. Leave the file plus a
-  note in the commit message, and YoBiche will pick it up with Jason.
+- Adding a whole NEW skin file: follow "Creating a new skin whole-cloth"
+  below — file plus a short proposal note. It still won't go live from
+  here; it goes to Jason for approval and YoBiche for wiring.
 - When in doubt about how a field is used, the existing files are the best
   reference. For anything structural you can't settle from them, ask
   through Shel → Jason → YoBiche rather than guessing.
+
+## Creating a new skin whole-cloth
+
+A new skin starts here as a **proposal**: one JSON file plus one short
+markdown note. Nothing you push goes live by itself — YoBiche checks the
+structure, Jason approves the concept, and only then is it wired into the
+main repo (routing, icon catalog, install manifests, guide) and shipped
+in a deploy. Design freely; the approval gate is Jason, not the format.
+
+### The proposal note
+
+Alongside the JSON, add `<skin>-proposal.md` with:
+
+- The one-liner: what the map is about, in the family's style
+  ("lead, follow, and move together" / "the tales a table tells").
+- A proposed **meter word** — the single word for what the map measures
+  (interest, stance, belief, practice, groove, fun…). Jason rules on it.
+- A proposed **subdomain prefix** and **id prefix** (below).
+- The category list with topic counts, and the sample list.
+- The **stance-or-action call**: most maps are stance maps (topics are
+  positions people hold). A few are action maps (Sex, Dance, Quest),
+  where topics are things people do together and direction matters.
+  Say which you intend, and why — it's Jason's call per skin.
+
+### The file
+
+Name it `<skin>.json`, all lowercase, matching the skin's `skin` field
+(`dancecapades.json`, `questcapades.json`). Top-level fields, in this
+order: `skin`, `name`, `domain` (the one-liner), `meter`, `about` (one
+paragraph — what the map is, who it's for), `categories`, `samples`,
+`scribe`, `sceneSetter`. Leave `defaultLayout` OUT of a proposal —
+YoBiche generates the starter layout at wiring time; a copied one will
+only be replaced.
+
+### Ids
+
+Every skin has a short prefix: Dance topics are `xda`, Quest `xqu`,
+Nous `xno`, Chem `xch`. Pick `x` + two letters from the new skin's name
+that no existing skin uses, and propose it in the note. Then:
+
+- Categories: prefix + `c` + two digits (`xdac01`).
+- Topics: prefix + four digits (`xda0001`), numbered straight through
+  the whole file, not per category.
+- Subcategories: prefix + `s` + two digits (`xdas01`).
+
+### Categories and topics
+
+Six to ten categories is the family range. A category is
+`{id, name, about, topics}` when flat, or `{id, name, parentTopics,
+subcategories}` when layered (rule 3 above). Category names matter
+beyond this file (rule 4) — choose them as if they were permanent.
+
+Topic shapes, by what the topic IS:
+
+- **Plain affinity** — `{id, name, type: "single"}`. One number;
+  negative means aversion. Most topics on most maps.
+- **Directional pair** (action maps only) — `type: "give_receive"` with
+  `give_label` and `receive_label`. Direction is never averaged in this
+  system; only use it where the two directions are genuinely different
+  experiences.
+- **Triad** — `archetype: "multi-affinity"`, `widget: "triangle"`,
+  `poleReading: "complement"`, a `question`, and a `hovertip`:
+  `{issue, poles: [{label, text}, …]}` defining each pole. Three stances
+  that blend.
+- **Line** — `widget: "trilinear-line"`, `archetype: "line"`, `poles`
+  as `[left, middle, right]`: one dimension, the middle a real position
+  or a blend.
+- **Switchbox** — `widget: "xy-switchbox"` with two poles: two crossed
+  yes/no questions.
+
+House rule worth knowing before you design: where a topic's positions
+are really ends of one dimension, the line or switchbox form wins over
+two independent sliders — coherence over sympathy. And every multi-pole
+topic carries the hovertip with per-pole definitions; that's the
+standard Jason approved, not decoration.
+
+### Samples — personas are archetypes
+
+Four to eight sample profiles. **Personas are archetypes**: a sample
+that is a character type ("The Forever GM") gets `"kind": "archetype"`
+— the menu lists it by name alone, with its `about` in a hover tip.
+Reserve `"kind": "sample"` for real profiles and documents (Adam and
+Eve on Sexcapades; the party platforms on Polis), which list with a
+rated-topic count. Mixing these up is the one error that has actually
+shipped; don't repeat it.
+
+Each entry: `{name, count, about, links: [], payload, skin, kind}`,
+where `count` equals the number of ratings and `payload` is
+`{app: "sexcapades", version: 16, noFlash: true, profileName,
+archetype, aboutMe, ratings, skin}`. Ratings are keyed by topic id:
+a plain number for single topics, `{"give": v, "receive": v}` for
+directional pairs, `{"line": v}` for lines, and `{poleKey: v, …}` for
+triads and switchboxes. Values run −100…100; a 0 is a real rating.
+
+### What to leave out
+
+- **Communities:** skins are born with none. The per-topic community
+  links are a separate research pass done with Jason; never invent
+  links, and never guess at a Discord.
+- **`defaultLayout`:** omitted, per above.
+- **Popularity/prevalence data:** Polis carries some; new skins don't.
+
+For `scribe` and `sceneSetter`, copy the block shape from an existing
+skin in this repo and rewrite the prose for the new map — on stance
+maps the Scribe writes an informed discussion between the stances and
+the Scene Setter is a discussion moderator; on action maps they follow
+the Dance/Quest pattern instead. Keep the field structure identical.
+
+One new skin per commit: the JSON, the proposal note, nothing else.
