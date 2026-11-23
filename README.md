@@ -4,7 +4,8 @@ The content files for the two newest Flexcapades hypermaps, kept in their own
 repository so they can be edited without touching the engine:
 
 - `dancecapades.json` — Dancecapades (dance.capades.io): partner dance,
-  lead / follow, and the social floor. 73 topics, 10 categories.
+  lead / follow, and the social floor. 73 topics, 9 categories, some with
+  subcategories.
 - `questcapades.json` — Questcapades (quest.capades.io): tabletop roleplay,
   run it / play in it, and the tales a table tells. 71 topics, 8 categories.
 
@@ -19,6 +20,10 @@ plumbing that Jason and YoBiche handle:
    homes — `app/data/skins/` and
    `site-tree/public_html/hosted/data/skins/` — which must stay identical,
    and it ships with the next deploy.
+
+**Agents working in this repo: read `AGENTS.md`.** It carries the
+structural rules the bridge enforces (permanent ids, sample ratings,
+`parentTopics`, category-name warnings) in the form an agent needs them.
 
 ## Rules of the road
 
