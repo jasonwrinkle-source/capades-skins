@@ -38,8 +38,11 @@ Chemistry sits uniquely at the hinge between physics and engineering: it both ex
 4. **Catalysis & Chemical Transformation** — Homogeneous, heterogeneous, organo-, and biocatalysis; base vs. noble metals; thermal vs. photo/electrochemical activation.
 5. **Analysis, Characterization & Theory** — Structural proof standards, DFT/computation, automation/ML, purification rigor, and reproducibility.
 6. **Safety, Sustainability & Chemical Culture** — Green chemistry, lab risk tolerance, academia vs. process chemistry, openness vs. IP, aesthetics, and public perception.
+7. **Inorganic, Organometallic & Solid-State Chemistry** — Main-group mimics, non-innocent ligands, reticular frameworks (MOFs/COFs), solid-state networks, and $f$-element chemistry.
+8. **Medicinal, Chemical Biology & Polymer Chemistry** — Drug-discovery paradigms, beyond-Rule-of-5 modalities, covalent pharmacology, living polymerization, and circular plastics.
+9. **Physical, Spectroscopic & Analytical Frontiers** — Ultrafast femtochemistry, single-molecule kinetics, operando spectroscopy, separation/omics analytics, and prebiotic origins of life.
 
-## 3. Topics (34 Topics)
+## 3. Topics (52 Topics)
 
 ### Category 1: Philosophy & Ontology of Matter
 
@@ -439,7 +442,214 @@ Chemistry sits uniquely at the hinge between physics and engineering: it both ex
   - *Rebrand Around Green & Bio-Inspired Identity:* Rebuild public trust through visible commitments to sustainable, circular, and nature-inspired molecular design.
 - **Primary citations:** M. Francl (2013), "How to Counteract Chemophobia," *Nat. Chem.*; P. T. Anastas & J. C. Warner (1998), *Green Chemistry: Theory and Practice*; Paracelsus (1538) dose-response principle.
 
-## 4. Canonical Archetypes (7 Archetypes)
+---
+
+### Category 7: Inorganic, Organometallic & Solid-State Chemistry
+
+#### `CH-35` — Main-Group Mimics vs. Transition-Metal Dominance
+- **Category:** Inorganic, Organometallic & Solid-State Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Transition-Metal d-Orbital Supremacy` | `Hybrid Main-Group + Metal Synergy` | `Main-Group & FLP Bond Activation`
+- **Hovertip (`issue`):** Can p-block main-group elements (carbenes, low-valent Si/Al/Bi, Frustrated Lewis Pairs) truly rival transition metals in small-molecule activation and catalysis?
+- **Per-pole hovertips:**
+  - *Transition-Metal d-Orbital Supremacy:* Partially filled $d$-orbitals offer unmatched redox flexibility and reversible oxidative addition/reductive elimination across industrial catalysis.
+  - *Hybrid Main-Group + Metal Synergy:* Pairing main-group Lewis acids or redox-active ligands with metals unlocks cooperative bond activation neither achieves alone.
+  - *Main-Group & FLP Bond Activation:* Small HOMO–LUMO gaps in main-group multiple bonds and Frustrated Lewis Pairs prove transition metals hold no monopoly on activating $\text{H}_2$, $\text{CO}_2$, or $\text{N}_2$.
+- **Primary citations:** P. P. Power (2010), "Main-Group Elements as Transition Metals," *Nature*; D. W. Stephan & G. Erker (2010), "Frustrated Lewis Pairs," *Angew. Chem. Int. Ed.*
+
+#### `CH-36` — Formal Oxidation States vs. Redox Non-Innocent Ligands
+- **Category:** Inorganic, Organometallic & Solid-State Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classical Electron-Counting Clarity` | `Spectroscopic Oxidation-State Honesty` | `Delocalized Metal–Ligand Cooperativity`
+- **Hovertip (`issue`):** When ligands actively store electrons and participate in bond cleavage, are classical formal oxidation states still useful bookkeeping or misleading fictions?
+- **Per-pole hovertips:**
+  - *Classical Electron-Counting Clarity:* The 18-electron rule and formal oxidation states remain the sharpest pedagogical and predictive bookkeeping system in organometallic chemistry.
+  - *Spectroscopic Oxidation-State Honesty:* Keep formal counts for stoichiometry, but use X-ray absorption, EPR, and Mössbauer spectroscopy to establish physical oxidation states cleanly.
+  - *Delocalized Metal–Ligand Cooperativity:* Treating redox-active ligands as active electron reservoirs turns one-electron base metals (Fe, Co, Ni) into two-electron noble-metal mimics.
+- **Primary citations:** C. K. Jørgensen (1966), *Coord. Chem. Rev.*; P. J. Chirik & K. Wieghardt (2010), "Radical Ligands Confer Nobility on Base-Metal Catalysts," *Science*.
+
+#### `CH-37` — Reticular Frameworks (MOFs/COFs) vs. Classical Zeolites
+- **Category:** Inorganic, Organometallic & Solid-State Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Robust Inorganic Zeolites & Oxides` | `Application-Matched Porous Toolbox` | `Programmable Reticular MOFs & COFs`
+- **Hovertip (`issue`):** Do ultra-high-surface-area Metal–Organic and Covalent Organic Frameworks surpass classical aluminosilicate zeolites, or do hydrolytic fragility and cost keep zeolites king?
+- **Per-pole hovertips:**
+  - *Robust Inorganic Zeolites & Oxides:* Industrial petrochemical and carbon-capture beds run hot, wet, and acidic for years—zeolites and mesoporous oxides survive where organic linkers crumble.
+  - *Application-Matched Porous Toolbox:* Use zeolites for harsh thermal catalysis and chemically engineered zirconium/azolate MOFs for atmospheric water harvesting, sensing, and targeted gas storage.
+  - *Programmable Reticular MOFs & COFs:* Reticular chemistry gives atomic-level geometric designability of pore size, chirality, and active sites unreachable in classical solid-state zeolites.
+- **Primary citations:** O. M. Yaghi et al. (2003), "Reticular Synthesis and the Design of New Materials," *Nature*; H. Furukawa et al. (2013), *Science*; A. Corma (1997), *Chem. Rev.*
+
+#### `CH-38` — Molecular Complexes vs. Extended Solid-State Networks
+- **Category:** Inorganic, Organometallic & Solid-State Chemistry
+- **Geometry:** `linear-sliders`
+- **Poles:** `Discrete Molecular Precision` | `Extended Solid-State Band & Lattice Chemistry`
+- **Hovertip (`issue`):** How deeply do you gravitate toward discrete, isolable molecules with countable orbitals versus extended crystalline solids governed by band structure, defects, and phase diagrams?
+- **Per-pole hovertips:**
+  - *Discrete Molecular Precision:* Well-defined molecular complexes allow crisp stoichiometry, solution NMR, and single-site structural control.
+  - *Extended Solid-State Band & Lattice Chemistry:* Collective electronic, magnetic, ionic, and catalytic phenomena emerge only inside extended 2D/3D crystal lattices and interfaces.
+- **Primary citations:** R. Hoffmann (1988), *Solids and Surfaces: A Chemist's View of Bonding in Extended Structures*; A. R. West (2014), *Solid State Chemistry and Its Applications*.
+
+#### `CH-39` — Heavy-Element, $f$-Block & Relativistic Chemistry
+- **Category:** Inorganic, Organometallic & Solid-State Chemistry
+- **Geometry:** `monopole-slider`
+- **Poles:** `Investing in Actinide, Lanthanide & Relativistic Frontiers`
+- **Hovertip (`issue`):** Should mainstream chemistry pay far more attention to lanthanides, actinides, and superheavy elements where spin–orbit coupling and relativistic contractions rewrite periodic trends?
+- **Per-pole hovertips:**
+  - *Investing in Actinide, Lanthanide & Relativistic Frontiers:* From gold's color and mercury's liquidity to nuclear waste separations and single-molecule magnets, heavy-element $f$-orbital chemistry exposes the limits of light-element textbook rules.
+- **Primary citations:** P. Pyykkö (1988), "Relativistic Effects in Structural Chemistry," *Chem. Rev.*; G. T. Seaborg (1945); S. T. Liddle (2015), *Angew. Chem. Int. Ed.*
+
+#### `CH-40` — Metal–Metal Multiple Bonding & Cluster Architectures
+- **Category:** Inorganic, Organometallic & Solid-State Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Single-Center Coordination Purity` | `Bimetallic Cooperative Pairs` | `Polynuclear Clusters & Metal-Metal Bonds`
+- **Hovertip (`issue`):** Are quadruple/quintuple metal–metal bonds and polynuclear clusters esoteric curiosities, or keys to mimicking biological metalloenzymes like nitrogenase?
+- **Per-pole hovertips:**
+  - *Single-Center Coordination Purity:* Mononuclear complexes keep mechanistic pathways clean, tunable, and free of cluster-fragmentation ambiguity.
+  - *Bimetallic Cooperative Pairs:* Two proximal metal centers share redox load and activate tough diatomic substrates cooperatively while staying spectroscopically tractable.
+  - *Polynuclear Clusters & Metal-Metal Bonds:* Nature uses $\text{FeMo-co}$ and $\text{Mn}_4\text{CaO}_5$ clusters for $\text{N}_2$ fixation and water splitting—multi-electron chemistry belongs to metal clusters.
+- **Primary citations:** F. A. Cotton et al. (1964), *Science* ($\text{Re}_2\text{Cl}_8^{2-}$ quadruple bond); F. A. Cotton, C. A. Murillo & R. A. Walton (2005), *Multiple Bonds Between Metal Atoms*.
+
+---
+
+### Category 8: Medicinal, Chemical Biology & Polymer Chemistry
+
+#### `CH-41` — Target-Based vs. Phenotypic Drug Discovery
+- **Category:** Medicinal, Chemical Biology & Polymer Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Structure-Guided Target-First Design` | `Integrated Target + Phenotypic Loop` | `Phenotypic Whole-Cell Discovery First`
+- **Hovertip (`issue`):** Should medicinal chemistry start from a crystal-resolved protein binding pocket, or screen compounds against living disease phenotypes and deconvolute the target afterward?
+- **Per-pole hovertips:**
+  - *Structure-Guided Target-First Design:* High-resolution cryo-EM/X-ray co-structures and FEP binding calculations enable rational, rapid potency and selectivity optimization.
+  - *Integrated Target + Phenotypic Loop:* Validate target hypotheses early in realistic cellular phenotypes so biochemical affinity never diverges from physiological efficacy.
+  - *Phenotypic Whole-Cell Discovery First:* Most first-in-class small-molecule drugs came from phenotypic screens—complex diseases often require polypharmacology that single-target reductionism misses.
+- **Primary citations:** D. C. Swinney & J. Anthony (2011), "How Were New Medicines Discovered?," *Nat. Rev. Drug Discov.*; J. G. Moffat et al. (2017), *Nat. Rev. Drug Discov.*
+
+#### `CH-42` — Lipinski's Rule of 5 vs. Beyond-Rule-of-5 Modalities
+- **Category:** Medicinal, Chemical Biology & Polymer Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classic Small-Molecule Ro5 Discipline` | `Expanded Drug-Like Chemical Space` | `PROTACs, Macrocycles & Molecular Glues`
+- **Hovertip (`issue`):** Are classic oral-bioavailability heuristics (MW < 500, low H-bond count) timeless guardrails, or outdated cages holding back targeted protein degraders and undruggable-target binders?
+- **Per-pole hovertips:**
+  - *Classic Small-Molecule Ro5 Discipline:* Violating physicochemical property limits predictably spikes clinical attrition from poor permeability, solubility, and off-target toxicity.
+  - *Expanded Drug-Like Chemical Space:* Respect physicochemical discipline while harnessing intramolecular hydrogen bonding ("chameleonicity") to unlock oral beyond-Ro5 scaffolds.
+  - *PROTACs, Macrocycles & Molecular Glues:* Catalytic event-driven degraders and macrocycles conquer flat protein–protein interfaces and "undruggable" transcription factors classical inhibitors can never touch.
+- **Primary citations:** C. A. Lipinski et al. (1997), *Adv. Drug Deliv. Rev.*; M. Toure & C. M. Crews (2016), *Angew. Chem. Int. Ed.*; B. C. Doak et al. (2014), *Chem. Biol.*
+
+#### `CH-43` — Reversible Non-Covalent vs. Targeted Covalent Inhibitors
+- **Category:** Medicinal, Chemical Biology & Polymer Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Avoid Reactive Warheads (Reversible Only)` | `Reversible-Covalent Tuning` | `Embrace Targeted Covalent Warheads`
+- **Hovertip (`issue`):** Do electrophilic warheads invite idiosyncratic immune toxicity and off-target labeling, or deliver unbeatable duration of action and potency against shallow pockets (like KRAS G12C)?
+- **Per-pole hovertips:**
+  - *Avoid Reactive Warheads (Reversible Only):* Non-covalent equilibrium binders minimize permanent off-target protein modification and hapten-driven immunotoxicity risks.
+  - *Reversible-Covalent Tuning:* Cyanoacrylamides and boronates combine covalent residence time with reversible off-rates that avoid permanent off-target damage.
+  - *Embrace Targeted Covalent Warheads:* Precision-tuned acrylamides and sulfur(VI) fluorides unlock long target occupancy, sub-nanomolar efficacy, and mutant-selective cancer drugs.
+- **Primary citations:** J. Singh et al. (2011), "The Resurgence of Covalent Drugs," *Nat. Rev. Drug Discov.*; J. M. Ostrem et al. (2013), *Nature* (KRAS G12C).
+
+#### `CH-44` — Chemical Probes vs. Genetic Perturbation (CRISPR)
+- **Category:** Medicinal, Chemical Biology & Polymer Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Genetic Knockouts Are Cleaner` | `Orthogonal Chemical + Genetic Validation` | `Small-Molecule Chemical Biology Leads`
+- **Hovertip (`issue`):** In the CRISPR era, what unique biological truths do small-molecule chemical probes reveal that genetic editing cannot?
+- **Per-pole hovertips:**
+  - *Genetic Knockouts Are Cleaner:* CRISPR and RNAi target any gene cleanly without years of medicinal-chemistry synthesis or hidden off-target binding profiles.
+  - *Orthogonal Chemical + Genetic Validation:* Combining well-characterized chemical probes with resistant-mutant genetics provides airtight target validation.
+  - *Small-Molecule Chemical Biology Leads:* Small molecules act in seconds, reversibly, dose-dependently, and domain-selectively—inhibiting catalytic activity without deleting scaffolding roles.
+- **Primary citations:** S. L. Schreiber (2005), *Nat. Chem. Biol.*; C. H. Arrowsmith et al. (2015), "The Promise and Peril of Chemical Probes," *Nat. Chem. Biol.*
+
+#### `CH-45` — Living/Precision Polymerization vs. Commodity Macromolecules
+- **Category:** Medicinal, Chemical Biology & Polymer Chemistry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Precision Sequence & Architecture Control` | `Scalable Controlled Polymerization` | `Bulk Commodity Process Engineering`
+- **Hovertip (`issue`):** Should polymer chemistry strive for monodisperse, sequence-defined macromolecules rivaling proteins, or engineer robust, ultra-low-cost bulk polymers?
+- **Per-pole hovertips:**
+  - *Precision Sequence & Architecture Control:* ATRP, RAFT, ROMP, and iterative sequence-defined polymers unlock self-assembling nanocarriers, data-storage chains, and tunable block-copolymer morphologies.
+  - *Scalable Controlled Polymerization:* Translate controlled radical and catalytic olefin polymerizations into industrially viable, low-catalyst-residue processes.
+  - *Bulk Commodity Process Engineering:* Real global impact lies in controlling crystallinity, rheology, and additive formulations across hundreds of millions of tons of polyolefins and elastomers.
+- **Primary citations:** H. Staudinger (1920), *Ber. Dtsch. Chem. Ges.*; K. Matyjaszewski & J. Xia (2001), *Chem. Rev.* (ATRP); J.-F. Lutz et al. (2013), *Science*.
+
+#### `CH-46` — Solving the Plastics Crisis: Biodegradable vs. Chemical Circularity
+- **Category:** Medicinal, Chemical Biology & Polymer Chemistry
+- **Geometry:** `triangle`
+- **Poles:** `Drop-In Bio-Based & Compostable Polymers` | `Closed-Loop Chemical Depolymerization` | `Mechanical Recycling & Demand Reduction`
+- **Hovertip (`issue`):** Which chemical strategy offers the soundest long-term answer to global plastic accumulation?
+- **Per-pole hovertips:**
+  - *Drop-In Bio-Based & Compostable Polymers:* Replace persistent petroleum backbones with benign bio-derived polymers (PHA, PLA, furanics) that degrade harmlessly if leaked into nature.
+  - *Closed-Loop Chemical Depolymerization:* Design polymers with low ceiling temperatures and cleavable dynamic bonds (vitrimers, poly(diketoenamine)s, enzymatic PETase) that unzip cleanly back into virgin monomers.
+  - *Mechanical Recycling & Demand Reduction:* Exotic designer polymers won't fix global waste infrastructure; simplify resin grades, eliminate mixed-layer packaging, and scale clean sorting and mechanical recycling.
+- **Primary citations:** R. Geyer, J. R. Jambeck & K. L. Law (2017), *Sci. Adv.*; J.-B. Zhu et al. (2018), *Science*; P. R. Christensen et al. (2019), *Nat. Chem.*
+
+---
+
+### Category 9: Physical, Spectroscopic & Analytical Frontiers
+
+#### `CH-47` — Ultrafast Femto/Attosecond Dynamics vs. Steady-State Thermodynamics
+- **Category:** Physical, Spectroscopic & Analytical Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Equilibrium Thermodynamics & Steady Spectra` | `Bridging Ultrafast & Thermal Regimes` | `Real-Time Femto/Attosecond Filming`
+- **Hovertip (`issue`):** Do ultrafast laser pulses catching electrons and nuclei mid-bond-break reveal the true essence of chemistry, or do thermal equilibrium distributions and steady-state kinetics still govern 99% of reactions?
+- **Per-pole hovertips:**
+  - *Equilibrium Thermodynamics & Steady Spectra:* Free energies, steady-state rate laws, and equilibrium populations explain the vast majority of benchtop and industrial chemistry cleanly.
+  - *Bridging Ultrafast & Thermal Regimes:* Connect femtosecond conical intersections and vibrational redistribution directly to macroscopic branching ratios and quantum yields.
+  - *Real-Time Femto/Attosecond Filming:* Watching transition states, coherent wavepackets, and attosecond charge migration directly in real time turns arrows on a blackboard into physical movies.
+- **Primary citations:** A. H. Zewail (2000), "Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond," *J. Phys. Chem. A*; F. Krausz & M. Ivanov (2009), *Rev. Mod. Phys.*
+
+#### `CH-48` — Single-Molecule Chemistry vs. Ensemble Averaging
+- **Category:** Physical, Spectroscopic & Analytical Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Statistical Ensemble Rigor` | `Dual Single-Molecule + Bulk Cross-Check` | `Single-Molecule Heterogeneity First`
+- **Hovertip (`issue`):** Does observing one molecule at a time (single-molecule fluorescence, STM tip-induced synthesis, nanopores) expose hidden dynamic disorder, or risk mistaking rare surface-pinned outliers for bulk truth?
+- **Per-pole hovertips:**
+  - *Statistical Ensemble Rigor:* Avogadro's number averages out idiosyncratic surface artifacts; bulk calorimetry, NMR, and kinetics yield clean, reproducible macroscopic parameters.
+  - *Dual Single-Molecule + Bulk Cross-Check:* Always reconstruct ensemble averages by integrating single-molecule trajectories to confirm immobilization didn't distort the chemistry.
+  - *Single-Molecule Heterogeneity First:* Ensemble averages smear away static/dynamic disorder, transient intermediates, and non-exponential enzyme kinetics visible only one molecule at a time.
+- **Primary citations:** W. E. Moerner & M. Orrit (1999), *Science*; X. S. Xie & J. K. Trautman (1998), *Annu. Rev. Phys. Chem.*; L. Gross et al. (2009), *Science* (AFM single-molecule imaging).
+
+#### `CH-49` — Cryogenic Matrix Isolation vs. Ambient Operando Spectroscopy
+- **Category:** Physical, Spectroscopic & Analytical Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Cryogenic Matrix & Gas-Phase Purity` | `Correlating Idealized & Working States` | `Ambient Liquid & Operando Reality`
+- **Hovertip (`issue`):** Should physical chemists trap reactive intermediates at 4 K in solid neon or molecular beams for razor-sharp resolution, or probe messy room-temperature solutions and working electrode surfaces directly?
+- **Per-pole hovertips:**
+  - *Cryogenic Matrix & Gas-Phase Purity:* Stripping away solvent collisions lets you nail exact rotational constants, tunneling rates, and fleeting carbenes or radicals unambiguously.
+  - *Correlating Idealized & Working States:* Anchor spectroscopic fingerprints in gas/matrix isolation, then track how solvation and crowding shift them in working conditions.
+  - *Ambient Liquid & Operando Reality:* Solvent cages, electric double layers, and hydrogen-bond networks *are* the chemistry—gas-phase structures often invert completely in water or real reactors.
+- **Primary citations:** G. C. Pimentel (1954), matrix-isolation pioneering work; B. M. Weckhuysen (2003), *Phys. Chem. Chem. Phys.* (operando spectroscopy).
+
+#### `CH-50` — Targeted Separation Science vs. Untargeted Mass-Spec Omics
+- **Category:** Physical, Spectroscopic & Analytical Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Gold-Standard Targeted Quantification` | `Discovery Omics + Targeted Validation` | `High-Resolution Untargeted Omics & Imaging`
+- **Hovertip (`issue`):** In analytical chemistry, should priority go to painstaking chromatography and isotope-dilution quantification of known analytes, or broad untargeted LC-MS/MS metabolomics and spatial imaging?
+- **Per-pole hovertips:**
+  - *Gold-Standard Targeted Quantification:* Without authentic standards, calibration curves, and validated extraction recoveries, peak intensities in untargeted tables invite false biomarker claims.
+  - *Discovery Omics + Targeted Validation:* Use high-resolution untargeted MS to generate hypotheses rapidly, then lock down every real finding with targeted isotope-labeled standards.
+  - *High-Resolution Untargeted Omics & Imaging:* Orbitraps, ion mobility, and ambient MS imaging capture thousands of unanticipated metabolites, exposome toxins, and spatial gradients simultaneously.
+- **Primary citations:** J. B. Fenn et al. (1989), *Science* (ESI); A. Makarov (2000), *Anal. Chem.* (Orbitrap); G. J. Patti, O. Yanes & G. Siuzdak (2012), *Nat. Rev. Mol. Cell Biol.*
+
+#### `CH-51` — Prebiotic Chemistry & Origins of Life Paradigm
+- **Category:** Physical, Spectroscopic & Analytical Frontiers
+- **Geometry:** `triangle`
+- **Poles:** `RNA-World & Systems Cyano-Synthesis` | `Metabolism-First & Hydrothermal Vents` | `Compartment / Lipid-World Co-Evolution`
+- **Hovertip (`issue`):** Which chemical scenario best explains how non-living planetary geochemistry crossed the threshold into self-replicating biology?
+- **Per-pole hovertips:**
+  - *RNA-World & Systems Cyano-Synthesis:* UV-driven cyanosulfidic chemistry on early wet–dry land surfaces cleanly generates ribonucleotides, amino acids, and lipids from shared feedstocks (Sutherland).
+  - *Metabolism-First & Hydrothermal Vents:* Alkaline hydrothermal iron–sulfur mineral gradients powered proto-metabolic $\text{CO}_2$ fixation and proton motive forces long before genetic polymers arose (Wächtershäuser, Russell, Lane).
+  - *Compartment / Lipid-World Co-Evolution:* Without self-assembling amphiphilic protocells to concentrate reactants and link phenotype to genotype, dilute prebiotic reactions could never evolve (Szostak, Deamer).
+- **Primary citations:** S. L. Miller (1953), *Science*; M. W. Powner, B. Gerland & J. D. Sutherland (2009), *Nature*; G. Wächtershäuser (1988), *Microbiol. Rev.*; J. W. Szostak, D. P. Bartel & P. L. Luisi (2001), *Nature*.
+
+#### `CH-52` — Chemical Kinetics: Transition-State Theory vs. Non-Statistical Dynamics
+- **Category:** Physical, Spectroscopic & Analytical Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Statistical Eyring TST & RRKM Suffice` | `TST With Tunneling & Variational Corrections` | `Post-TS Bifurcations & Dynamic Trajectories`
+- **Hovertip (`issue`):** Is transition-state barrier height ($\Delta G^\ddagger$) almost always sufficient to predict reaction selectivity, or do roaming mechanisms, dynamic matching, and heavy-atom tunneling demand explicit trajectory simulations?
+- **Per-pole hovertips:**
+  - *Statistical Eyring TST & RRKM Suffice:* Thermal equilibration beats reaction timescales in almost all condensed-phase reactions—Eyring transition-state theory remains extraordinarily predictive.
+  - *TST With Tunneling & Variational Corrections:* Keep the transition-state framework while adding recrossing, variational bottlenecks, and quantum tunneling corrections (Truhlar, Schreiner).
+  - *Post-TS Bifurcations & Dynamic Trajectories:* Valley-ridge inflections, ambimodal transition states, and roaming pathways prove momentum and non-statistical trajectories frequently override static barrier heights (Carpenter, Singleton, Houk).
+- **Primary citations:** H. Eyring (1935), *J. Chem. Phys.*; B. K. Carpenter (1998), *Angew. Chem. Int. Ed.*; D. H. Ess et al. (2008), *Angew. Chem. Int. Ed.*; P. R. Schreiner (2017), *J. Am. Chem. Soc.* (tunneling control).
+
+## 4. Canonical Archetypes (11 Archetypes)
 
 ### 1. The Total-Synthesis Virtuoso
 - **Summary:** Treats the conquest of intricate natural products as chemistry's supreme art form, uniting retrosynthetic architecture with bold tactical craftsmanship.
@@ -490,6 +700,34 @@ Chemistry sits uniquely at the hinge between physics and engineering: it both ex
   - **Anchors High:** `CH-16` (*Continuous Flow Paradigm*), `CH-20` (*High-Throughput & Combinatorial*), `CH-24` (*Primary In-Silico Design Engine*), `CH-25` (*Robotic Automation* + *ML/Bayesian Optimization*), `CH-27` (High *Mandatory Negative Data & Independent Checking*), `CH-31` (*Open Reaction & Molecule Data*), `CH-32` (*Systematic Space Mapping*).
   - **Anchors Low:** `CH-25` (*Human Bench Craft*), `CH-32` (*Cultivate Happy Accidents*).
 
+### 8. The Reticular & Solid-State Framework Builder
+- **Summary:** Designs extended porous crystals, metal–organic frameworks, and inorganic lattices atom-by-atom for gas capture, water harvesting, and cooperative solid-state catalysis.
+- **Primary Thinkers & Literature:** O. M. Yaghi (2003, 2013), R. Hoffmann (1988), A. R. West (2014), A. Corma (1997).
+- **Stance Profile:**
+  - **Anchors High:** `CH-05` (*Creating New Matter*), `CH-10` (*Thermodynamic & Dynamic Combinatorial*), `CH-18` (*Heterogeneous Surface*), `CH-23` (*X-Ray & MicroED Diffraction*), `CH-33` (*Structural Symmetry & Beauty* & *Real-World Utility*), `CH-37` (*Programmable Reticular MOFs & COFs* or *Robust Inorganic Zeolites*), `CH-38` (*Extended Solid-State Band & Lattice Chemistry*).
+  - **Anchors Low:** `CH-12` (*Art & Target Conquest*), `CH-38` (Low exclusivity on *Discrete Molecular Precision*).
+
+### 9. The Medicinal Chemist & Drug Hunter
+- **Summary:** Balances potency, selectivity, ADME pharmacokinetics, and synthetic tractability to turn raw molecular hypotheses into safe, effective clinical medicines.
+- **Primary Thinkers & Literature:** C. A. Lipinski (1997), D. C. Swinney & J. Anthony (2011), C. M. Crews (2016), J. Singh et al. (2011).
+- **Stance Profile:**
+  - **Anchors High:** `CH-12` (*Function-Oriented Utility*), `CH-15` (*Strategic Hybrid Use* for late-stage functionalization), `CH-17` (*Balanced Synthetic Toolbox*), `CH-26` (*Fit-for-Purpose Pragmatism* in early SAR / *Obsessive Quantitative Rigor* for candidates), `CH-31` (*Proprietary IP & Trade Secrets*), `CH-33` (*Real-World Utility*), `CH-41` (*Integrated Target + Phenotypic Loop* or *Structure-Guided Target-First*), `CH-42` (*Expanded Drug-Like Chemical Space* / *PROTACs & Molecular Glues*), `CH-43` (*Reversible-Covalent Tuning* or *Embrace Targeted Covalent Warheads*).
+  - **Anchors Low:** `CH-12` (*Art & Target Conquest*), `CH-31` (*Open Reaction & Molecule Data* on proprietary leads).
+
+### 10. The Chemical Biologist & Bioorthogonal Toolmaker
+- **Summary:** Invents selective molecular probes, fluorescent reporters, and biocompatible reactions that interrogate and reprogram living cells in real time.
+- **Primary Thinkers & Literature:** S. L. Schreiber (2005), C. R. Bertozzi (2003, 2011), R. Y. Tsien, J. W. Szostak (2001).
+- **Stance Profile:**
+  - **Anchors High:** `CH-09` (*Supramolecular & Non-Covalent Control*), `CH-17` (*Click Modularity First*), `CH-18` (*Biocatalysis & Directed Evolution*), `CH-41` (*Phenotypic Whole-Cell Discovery First* / *Integrated*), `CH-44` (*Small-Molecule Chemical Biology Leads* & *Orthogonal Chemical + Genetic Validation*), `CH-48` (*Single-Molecule Heterogeneity First*), `CH-50` (*Discovery Omics + Targeted Validation*).
+  - **Anchors Low:** `CH-29` (*Heroic Extreme-Reagent Mastery*), `CH-49` (*Cryogenic Matrix & Gas-Phase Purity*).
+
+### 11. The Ultrafast Physical Chemist & Molecular Spectroscopist
+- **Summary:** Interrogates bond formation, tunneling, conical intersections, and molecular dynamics directly with lasers, molecular beams, single-molecule probes, and quantum dynamics.
+- **Primary Thinkers & Literature:** A. H. Zewail (2000), W. E. Moerner (1999), B. K. Carpenter (1998), P. R. Schreiner (2017).
+- **Stance Profile:**
+  - **Anchors High:** `CH-01` (*Applied Quantum Mechanics* / *Bridged Emergence*), `CH-05` (*Explaining Structure & Reactivity* & *Measuring Composition*), `CH-06` (*Molecular Orbital Theory*), `CH-07` (*Wavefunction & Orbital Analysis*), `CH-24` (*Co-Equal Predictive Partner*), `CH-47` (*Real-Time Femto/Attosecond Filming*), `CH-48` (*Single-Molecule Heterogeneity First*), `CH-49` (*Cryogenic Matrix & Gas-Phase Purity* or *Correlating Idealized & Working States*), `CH-52` (*Post-TS Bifurcations & Dynamic Trajectories* / *TST With Tunneling*).
+  - **Anchors Low:** `CH-07` (*Arrow-Pushing Intuition*), `CH-30` (*Ton-Scale Process Viability*).
+
 ---
 
 # Skin 2: Expericapades — Experimental Physics
@@ -512,8 +750,11 @@ Experimental physics is the art and discipline of interrogating nature through e
 4. **Data Analysis, Blinding & Statistical Standards** — $5\sigma$ thresholds, blind analysis, Frequentist vs. Bayesian inference, Monte Carlo vs. data-driven backgrounds, and ML reconstruction.
 5. **Laboratory Practice & Experimental Craft** — Debugging ethos, manual vs. automated alignment, documentation, sample ownership, and noise hygiene.
 6. **Collaboration, Scale & Experimental Culture** — Big vs. small science, mega-collaboration authorship, open data, risk management, and generalist vs. specialist roles.
+7. **Astroparticle, Observational & Multi-Messenger Frontiers** — Space vs. ground observatories, gravitational-wave & neutrino messengers, synoptic surveys, balloon missions, and dark-matter complementarity.
+8. **Quantum Control, AMO & Ultrafast Laser Physics** — Cold-atom & trapped-ion platforms, CW precision vs. attosecond pulses, cavity QED, single-shot readout, and plasma wakefield accelerators.
+9. **Accelerator, Beam & Condensed-Matter Probes** — Lepton vs. hadron colliders, circular vs. linear machines, neutron/X-ray/STM complementarity, transport vs. thermodynamic proof, and pulsed mega-fields.
 
-## 3. Topics (34 Topics)
+## 3. Topics (52 Topics)
 
 ### Category 1: Epistemology of Experiment & Discovery
 
@@ -909,7 +1150,218 @@ Experimental physics is the art and discipline of interrogating nature through e
   - *Dedicated Subsystem Master:* Modern frontier experiments are too technically demanding for jacks-of-all-trades; excellence requires specialized career experts.
 - **Primary citations:** K. Knorr Cetina (1999), *Epistemic Cultures: How the Sciences Make Knowledge*.
 
-## 4. Canonical Archetypes (7 Archetypes)
+---
+
+### Category 7: Astroparticle, Observational & Multi-Messenger Frontiers
+
+#### `EX-35` — Ground-Based Flagships vs. Space-Based Observatories
+- **Category:** Astroparticle, Observational & Multi-Messenger Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Adaptive Ground-Based Giants` | `Coordinated Ground + Space Synergy` | `Space-Based Cryo & Zero-Atmosphere Purity`
+- **Hovertip (`issue`):** With laser-guide-star adaptive optics and massive 30 m apertures on Earth, when is the $10\times$ cost and unserviceability of space telescopes truly justified?
+- **Per-pole hovertips:**
+  - *Adaptive Ground-Based Giants:* Ground telescopes deliver enormous collecting areas, upgradeable detectors, and multi-decade lifetimes at a fraction of launch costs.
+  - *Coordinated Ground + Space Synergy:* Use space observatories for opaque wavelengths (IR, X-ray, gamma, mHz GW) and ground behemoths for deep spectroscopy and rapid transient follow-up.
+  - *Space-Based Cryo & Zero-Atmosphere Purity:* Freedom from atmospheric turbulence, thermal background, and seismic gravity-gradient noise makes space missions irreplaceable for CMB, JWST, and LISA.
+- **Primary citations:** National Academies (2021), *Pathways to Discovery in Astronomy and Astrophysics for the 2020s (Astro2020)*; H. W. Babcock (1953), adaptive optics.
+
+#### `EX-36` — Multi-Messenger Cosmic Probe Allegiance
+- **Category:** Astroparticle, Observational & Multi-Messenger Frontiers
+- **Geometry:** `quad-compass`
+- **Poles:** `Electromagnetic Photons (Radio to Gamma)` | `Gravitational-Wave Interferometry` | `High-Energy Neutrino Telescopes` | `Ultra-High-Energy Cosmic Rays`
+- **Hovertip (`issue`):** Which cosmic messenger carries the cleanest, least obscured view into the universe's most violent engines?
+- **Per-pole hovertips:**
+  - *Electromagnetic Photons (Radio to Gamma):* Photons provide unmatched angular resolution, rich atomic/molecular spectroscopy, and precision redshift measurements across cosmic history.
+  - *Gravitational-Wave Interferometry:* Spacetime ripples pass unimpeded through dense matter, letting us hear black-hole horizons and neutron-star interiors directly.
+  - *High-Energy Neutrino Telescopes:* Neutrinos point straight back to hadronic accelerators deep inside opaque cores where photons are absorbed and cosmic rays deflect.
+  - *Ultra-High-Energy Cosmic Rays:* Direct samples of nuclei accelerated past $10^{20}\,\text{eV}$ probe particle interactions far beyond any human-built collider.
+- **Primary citations:** LIGO/Virgo & Multi-Messenger Partners (2017), "Multi-Messenger Observations of a Binary Neutron Star Merger (GW170817)," *ApJL*; IceCube Collaboration (2018), *Science*.
+
+#### `EX-37` — Deep Pointed Stares vs. Wide-Field Synoptic Surveys
+- **Category:** Astroparticle, Observational & Multi-Messenger Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Deep Targeted Object Physics` | `Survey Trigger + Deep Follow-Up` | `All-Sky Time-Domain Surveys First`
+- **Hovertip (`issue`):** Should observational physics invest mainly in long, ultra-deep pointed exposures on prized targets, or wide-field automated sky-scanning machines generating millions of transient alerts nightly?
+- **Per-pole hovertips:**
+  - *Deep Targeted Object Physics:* High-S/N spectroscopy and deep integrations on golden benchmark objects solve physical mechanisms that shallow statistics blur together.
+  - *Survey Trigger + Deep Follow-Up:* Let robotic wide-field surveys catch rare kilonovae and fast transients, immediately triggering deep spectroscopic follow-up.
+  - *All-Sky Time-Domain Surveys First:* Statistical cosmology, dark energy, and unknown transient populations (FRBs, tidal disruptions) emerge only from unbiased, petabyte-scale sky surveys (SDSS, Rubin/LSST).
+- **Primary citations:** D. G. York et al. (2000), *AJ* (SDSS); Ž. Ivezić et al. (2019), *ApJ* (Rubin Observatory/LSST).
+
+#### `EX-38` — Suborbital Balloons & Sounding Rockets vs. Flagship Satellites
+- **Category:** Astroparticle, Observational & Multi-Messenger Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Fast High-Risk Suborbital Campaigns` | `Balloon Pathfinders to Space Flagships` | `Class-A Full-Sky Space Missions`
+- **Hovertip (`issue`):** Should astroparticle experimentalists embrace nimble, student-built stratospheric balloons (BOOMERanG, ANITA, SPIDER) or wait a decade for space-qualified satellites (Planck, Fermi)?
+- **Per-pole hovertips:**
+  - *Fast High-Risk Suborbital Campaigns:* Balloons and rockets fly cutting-edge detectors in 2–4 years, train hands-on instrument builders, and tolerate bold experimental risk.
+  - *Balloon Pathfinders to Space Flagships:* Mature novel cryogenic and focal-plane sensors on suborbital flights first, then lock in full-sky systematics from L2 orbit.
+  - *Class-A Full-Sky Space Missions:* Only years-long, stable full-sky satellite integration eliminates horizon cuts, atmospheric residuals, and patchy coverage.
+- **Primary citations:** P. de Bernardis et al. (2000), *Nature* (BOOMERanG); Planck Collaboration (2020), *A&A*.
+
+#### `EX-39` — Dark Matter Search Complementarity Strategy
+- **Category:** Astroparticle, Observational & Multi-Messenger Frontiers
+- **Geometry:** `quad-compass`
+- **Poles:** `Underground Direct Recoil (Xe / Cryo)` | `Axion Haloscopes & Wave Detectors` | `Indirect Astrophysical Annihilation` | `Collider Missing-Energy Production`
+- **Hovertip (`issue`):** With the classic TeV WIMP window tightly constrained near the neutrino fog, which experimental dark-matter channel holds the strongest discovery promise?
+- **Per-pole hovertips:**
+  - *Underground Direct Recoil (Xe / Cryo):* Multi-ton noble liquids and sub-eV cryogenic bolometers remain the cleanest direct proof of galactic dark-matter scattering.
+  - *Axion Haloscopes & Wave Detectors:* Quantum-limited microwave cavities and NMR magnetometers open vast unexplored decades of wave-like ultralight dark matter (axions, dark photons).
+  - *Indirect Astrophysical Annihilation:* Gamma-ray, cosmic-ray, and neutrino observatories probe dark-matter self-annihilation across dwarf galaxies and galactic centers natively.
+  - *Collider Missing-Energy Production:* Producing dark-sector mediators under controlled laboratory kinematics pins down couplings independent of uncertain local halo velocities.
+- **Primary citations:** P. Sikivie (1983), *Phys. Rev. Lett.*; M. W. Goodman & E. Witten (1985), *Phys. Rev. D*; J. Billard et al. (2022), *Rep. Prog. Phys.*
+
+#### `EX-40` — Real-Time Low-Latency Alerts vs. Offline Reprocessed Catalogs
+- **Category:** Astroparticle, Observational & Multi-Messenger Frontiers
+- **Geometry:** `trilinear-line`
+- **Poles:** `Seconds-Scale Public Transient Alerts` | `Tiered Alert + Audited Catalog` | `Carefully Calibrated Offline Releases`
+- **Hovertip (`issue`):** Should detectors broadcast candidate astrophysical triggers within seconds (risking false alarms) so partner telescopes can slew immediately, or withhold until full offline calibration finishes?
+- **Per-pole hovertips:**
+  - *Seconds-Scale Public Transient Alerts:* Early shock breakout and kilonova physics vanish in minutes; fast automated alerts are essential even if occasional retractions happen.
+  - *Tiered Alert + Audited Catalog:* Broadcast low-latency alerts with honest false-alarm probabilities, then publish rigorously vetted offline catalogs for precision cosmology.
+  - *Carefully Calibrated Offline Releases:* Premature public triggers waste precious telescope hours and pollute literature; precision science belongs to fully calibrated offline pipelines.
+- **Primary citations:** LIGO/Virgo Public Alert System (GraceDB); IceCube Real-Time Alert System (Aartsen et al. 2017, *Astropart. Phys.*).
+
+---
+
+### Category 8: Quantum Control, AMO & Ultrafast Laser Physics
+
+#### `EX-41` — Tabletop Quantum Simulator Platform Preference
+- **Category:** Quantum Control, AMO & Ultrafast Laser Physics
+- **Geometry:** `triangle`
+- **Poles:** `Ultracold Atoms in Optical Lattices` | `Trapped-Ion Spin Chains` | `Programmable Rydberg Optical Tweezers`
+- **Hovertip (`issue`):** Which clean AMO platform offers the most versatile laboratory microscope onto intractable quantum many-body physics?
+- **Per-pole hovertips:**
+  - *Ultracold Atoms in Optical Lattices:* Quantum gas microscopes realize clean Fermi- and Bose–Hubbard models with single-site imaging and thousands of itinerant fermions.
+  - *Trapped-Ion Spin Chains:* Tunable long-range Ising/XY couplings and near-unit detection fidelity make ion strings unmatched for quantum dynamics and entanglement tomography.
+  - *Programmable Rydberg Optical Tweezers:* Arbitrary 2D/3D defect-free atom geometries with strong van der Waals blockade probe quantum spin liquids and gauge theories cleanly.
+- **Primary citations:** M. Greiner et al. (2002), *Nature*; I. Bloch, J. Dalibard & S. Nascimbène (2012), *Nat. Phys.*; C. Monroe et al. (2021), *Rev. Mod. Phys.*; A. Browaeys & T. Lahaye (2020), *Nat. Phys.*
+
+#### `EX-42` — Continuous-Wave Precision Spectroscopy vs. Ultrafast Attosecond Pulses
+- **Category:** Quantum Control, AMO & Ultrafast Laser Physics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Ultra-Narrow CW Frequency Combs` | `Dual Frequency-Time Comb Mastery` | `Femtosecond & Attosecond Pump-Probe`
+- **Hovertip (`issue`):** Do you prefer squeezing energy uncertainty ($\Delta E \to 0$) with sub-hertz continuous lasers, or squeezing time uncertainty ($\Delta t \to \text{as}$) to watch electrons tunnel in real time?
+- **Per-pole hovertips:**
+  - *Ultra-Narrow CW Frequency Combs:* Narrow-linewidth optical lattices and frequency combs test QED, drift of fundamental constants, and gravitational redshift to $10^{-19}$.
+  - *Dual Frequency-Time Comb Mastery:* Optical frequency combs literally unite ultrafast mode-locked pulse trains with ultra-high-resolution frequency-domain metrology (Hänsch, Hall).
+  - *Femtosecond & Attosecond Pump-Probe:* High-harmonic generation and XFELs directly capture non-equilibrium electron correlation, light-induced superconductivity, and photoionization delays.
+- **Primary citations:** T. W. Hänsch (2006) & J. L. Hall (2006), Nobel Lectures (*Rev. Mod. Phys.*); P. Agostini, F. Krausz & A. L'Huillier (2023 Nobel Prize in Physics).
+
+#### `EX-43` — Cavity QED & Collective Strong Coupling vs. Free-Space Isolation
+- **Category:** Quantum Control, AMO & Ultrafast Laser Physics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Clean Free-Space Atom/Photon Beams` | `Controlled Cavity Enhancement` | `Deep Strong Coupling & Cavity Engineering`
+- **Hovertip (`issue`):** Should quantum-optics experiments keep emitters isolated in free space to avoid wall shifts and cavity noise, or enclose them in high-finesse cavities to engineer strong light–matter interactions?
+- **Per-pole hovertips:**
+  - *Clean Free-Space Atom/Photon Beams:* Free-space optical traps and atomic fountains eliminate surface patch potentials, blackbody wall proximity, and cavity mode distortion.
+  - *Controlled Cavity Enhancement:* Optical and microwave cavities boost readout speed, photon collection efficiency, and spin squeezing without sacrificing coherence.
+  - *Deep Strong Coupling & Cavity Engineering:* Strong vacuum coupling creates polaritons, photon-mediated long-range interactions, and quantum non-demolition photon counting (Haroche).
+- **Primary citations:** S. Haroche (2013), "Controlling Photons in a Box and Exploring the Quantum to Classical Boundary," *Rev. Mod. Phys.*; H. Ritsch et al. (2013), *Rev. Mod. Phys.*
+
+#### `EX-44` — Single-Shot Quantum Trajectory Readout vs. High-Flux Ensemble Averaging
+- **Category:** Quantum Control, AMO & Ultrafast Laser Physics
+- **Geometry:** `trilinear-line`
+- **Poles:** `High-SNR Macroscopic Ensembles` | `Cross-Checked Single & Ensemble` | `Single-Quantum Projective & Trajectory Control`
+- **Hovertip (`issue`):** Should precision experiments leverage $\sqrt{N}$ signal-to-noise from $10^{12}$ atoms/spins, or isolate single ions, electrons, and superconducting circuits for deterministic quantum-jump tracking?
+- **Per-pole hovertips:**
+  - *High-SNR Macroscopic Ensembles:* Vapor-cell SERF magnetometers and macroscopic NMR ensembles achieve unmatched absolute sensitivity per unit time.
+  - *Cross-Checked Single & Ensemble:* Ensembles win raw sensitivity while single-quantum control eliminates inhomogeneous broadening and density shifts.
+  - *Single-Quantum Projective & Trajectory Control:* Trapping a single electron ($g-2$) or watching real-time quantum jumps with feedback eliminates collisional shifts entirely (Dehmelt, Wineland).
+- **Primary citations:** H. Dehmelt (1990), *Rev. Mod. Phys.*; D. J. Wineland (2013), *Rev. Mod. Phys.*; Z. K. Minev et al. (2019), *Nature* (catching and reversing a quantum jump).
+
+#### `EX-45` — Laser-Plasma Wakefield vs. Conventional RF Acceleration
+- **Category:** Quantum Control, AMO & Ultrafast Laser Physics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Proven Superconducting RF Cavities` | `Hybrid Plasma-Booster Staging` | `Tabletop Laser-Plasma Wakefield Revolution`
+- **Hovertip (`issue`):** Can ultra-high-gradient plasma wakefield accelerators ($\sim 100\,\text{GV/m}$) shrink multi-kilometer colliders and XFELs onto university lab tables, or will beam emittance and wall-plug efficiency keep RF cavities dominant?
+- **Per-pole hovertips:**
+  - *Proven Superconducting RF Cavities:* High repetition rate, low energy spread, and exquisite luminosity control make superconducting RF the only credible workhorse for precision physics.
+  - *Hybrid Plasma-Booster Staging:* Use conventional RF injectors for pristine beam quality and plasma stages as compact energy boosters or medical/imaging light sources.
+  - *Tabletop Laser-Plasma Wakefield Revolution:* Breaking the RF metallic-breakdown limit by three orders of magnitude is the only sustainable path beyond 100 km civil-engineering footprints.
+- **Primary citations:** T. Tajima & J. M. Dawson (1979), *Phys. Rev. Lett.*; E. Esarey, C. B. Schroeder & W. P. Leemans (2009), *Rev. Mod. Phys.*
+
+#### `EX-46` — Cold-Atom Matter-Wave Interferometry vs. Optical Interferometry
+- **Category:** Quantum Control, AMO & Ultrafast Laser Physics
+- **Geometry:** `linear-sliders`
+- **Poles:** `Laser Optical Interferometry` | `Atom Matter-Wave Interferometry`
+- **Hovertip (`issue`):** How strongly do you bet on laser-mirror interferometers (LIGO-class) versus free-falling atomic de Broglie matter-wave interferometers for gravimetry, dark matter, and mid-band gravitational waves?
+- **Per-pole hovertips:**
+  - *Laser Optical Interferometry:* Enormous circulating optical power, squeezed light, and mature suspended-mirror technology provide unrivaled strain sensitivity over wide frequency bands.
+  - *Atom Matter-Wave Interferometry:* Free-falling atoms act as pristine inertial proof masses immune to mechanical suspension thermal noise—ideal for gravimetry and 0.01–1 Hz gravitational waves.
+- **Primary citations:** M. Kasevich & S. Chu (1991), *Phys. Rev. Lett.*; P. W. Graham et al. (2013), *Phys. Rev. Lett.* (atom interferometry for GW).
+
+---
+
+### Category 9: Accelerator, Beam & Condensed-Matter Probes
+
+#### `EX-47` — Next Flagship Collider: Precision Lepton vs. Discovery Hadron vs. Muon
+- **Category:** Accelerator, Beam & Condensed-Matter Probes
+- **Geometry:** `triangle`
+- **Poles:** `Clean e+e- Higgs Factory` | `100 TeV Hadron Discovery Machine` | `Compact High-Energy Muon Collider`
+- **Hovertip (`issue`):** What should follow the High-Luminosity LHC as particle physics's next multi-decade flagship accelerator?
+- **Per-pole hovertips:**
+  - *Clean e+e- Higgs Factory:* Point-like electron–positron collisions measure Higgs and electroweak couplings to sub-percent precision with crystal-clear backgrounds (FCC-ee, ILC, CEPC).
+  - *100 TeV Hadron Discovery Machine:* Only a super-high-energy proton collider directly blasts open the multi-TeV discovery frontier and measures the Higgs self-coupling directly (FCC-hh).
+  - *Compact High-Energy Muon Collider:* Heavy muons suppress synchrotron radiation, delivering multi-TeV point-like collisions inside a compact, far cheaper, lower-power ring if cooling succeeds.
+- **Primary citations:** European Strategy Group (2020), *Update of the European Strategy for Particle Physics*; P5 Report (2023), *Exploring the Quantum Universe*; C. Accettura et al. (2023), *Eur. Phys. J. C* (Muon Collider).
+
+#### `EX-48` — Real-Space Scanning Probes vs. Reciprocal-Space Scattering
+- **Category:** Accelerator, Beam & Condensed-Matter Probes
+- **Geometry:** `trilinear-line`
+- **Poles:** `Atomic Real-Space STM / STEM` | `Complementary Real + k-Space Fusion` | `Bulk Reciprocal-Space ARPES / Neutron / X-Ray`
+- **Hovertip (`issue`):** To uncover the true physics of quantum materials, do you trust atomic-resolution surface microscopes (STM/AFM) or momentum-resolved bulk scattering (neutrons, X-rays, ARPES)?
+- **Per-pole hovertips:**
+  - *Atomic Real-Space STM / STEM:* Imaging individual impurities, vortices, and nanoscale electronic puddles directly reveals local heterogeneity that spatially averaged scattering smears out.
+  - *Complementary Real + k-Space Fusion:* Fourier-transform quasiparticle interference (FT-STM) paired with bulk neutron/ARPES proves surface states match bulk excitations.
+  - *Bulk Reciprocal-Space ARPES / Neutron / X-Ray:* Cleaved surfaces reconstruct and distort symmetry; bulk inelastic neutron and resonant X-ray scattering measure true thermodynamic dispersions unambiguously.
+- **Primary citations:** G. Binnig & H. Rohrer (1987), *Rev. Mod. Phys.*; A. Damascelli, Z. Hussain & Z.-X. Shen (2003), *Rev. Mod. Phys.* (ARPES); J. C. Davis & D.-H. Lee (2013), *PNAS*.
+
+#### `EX-49` — Proving an Exotic Condensed-Matter Phase: Transport vs. Thermodynamics
+- **Category:** Accelerator, Beam & Condensed-Matter Probes
+- **Geometry:** `trilinear-line`
+- **Poles:** `Electrical & Thermal Transport Leads` | `Multi-Probe Consilience Required` | `Bulk Thermodynamics & Meissner Proof Only`
+- **Hovertip (`issue`):** How skeptical should experimentalists be of dramatic electrical resistance drops or conductance peaks before bulk specific heat, magnetization, or thermal Hall signatures confirm a new phase?
+- **Per-pole hovertips:**
+  - *Electrical & Thermal Transport Leads:* Quantized Hall plateaus, zero-resistance drops, and nonlocal edge transport are the sharpest, fastest discovery probes of topological and superconducting phases.
+  - *Multi-Probe Consilience Required:* Pair transport with optical, tunneling, and magnetization checks so contact artifacts or filamentary shorts are caught immediately.
+  - *Bulk Thermodynamics & Meissner Proof Only:* Resistance can drop to zero from a tiny percolating impurity filament; only bulk heat capacity, entropy jumps, and full Meissner diamagnetism prove a true thermodynamic phase.
+- **Primary citations:** W. Meissner & R. Ochsenfeld (1933), *Naturwissenschaften*; J. E. Hirsch & F. Marsiglio (2021) & superconductivity verification standards; condensed-matter experimental consensus.
+
+#### `EX-50` — Synchrotron X-Rays vs. Neutron Scattering vs. Cryo-EM
+- **Category:** Accelerator, Beam & Condensed-Matter Probes
+- **Geometry:** `triangle`
+- **Poles:** `High-Brilliance Synchrotron / XFEL X-Rays` | `Magnetic & Light-Atom Neutron Beams` | `Direct Real-Space Cryo-EM & 4D-STEM`
+- **Hovertip (`issue`):** Each flagship structural probe sees different facets of matter—which beamline capability is most indispensable to modern experimental physics?
+- **Per-pole hovertips:**
+  - *High-Brilliance Synchrotron / XFEL X-Rays:* Coherent diffraction-limited X-rays deliver nanometer focusing, elemental specificity (RIXS/XAS), and femtosecond movie snapshots.
+  - *Magnetic & Light-Atom Neutron Beams:* Neutrons scatter off nuclei and magnetic moments directly—irreplaceable for locating hydrogen, phonons, magnons, and quantum spin liquids.
+  - *Direct Real-Space Cryo-EM & 4D-STEM:* Electrons interact $10^4\times$ more strongly than X-rays, resolving atomic structures of uncrystallized complexes, interfaces, and local electric fields directly.
+- **Primary citations:** G. L. Squires (2012), *Introduction to the Theory of Thermal Neutron Scattering*; J. Dubochet, J. Frank & R. Henderson (2017 Nobel Prize, Cryo-EM); P. Willmott (2019), *An Introduction to Synchrotron Radiation*.
+
+#### `EX-51` — Steady-State DC High Fields vs. Destructive Pulsed Mega-Fields
+- **Category:** Accelerator, Beam & Condensed-Matter Probes
+- **Geometry:** `trilinear-line`
+- **Poles:** `Quiet Continuous DC Magnets (≤45 T)` | `Non-Destructive Millisecond Pulses (60–100 T)` | `Single-Shot Destructive Flux Compression (>100 T)`
+- **Hovertip (`issue`):** To suppress superconductivity or reach the quantum limit in solids, how extreme should magnetic-field instrumentation push?
+- **Per-pole hovertips:**
+  - *Quiet Continuous DC Magnets (≤45 T):* Stable DC fields allow long signal averaging, dilution-fridge thermalization, NMR, and delicate torque/calorimetry impossible during fast pulses.
+  - *Non-Destructive Millisecond Pulses (60–100 T):* Capacitor-bank pulsed coils reach 100 T repeatedly in compact labs, mapping full upper-critical-field and quantum-oscillation phase diagrams.
+  - *Single-Shot Destructive Flux Compression (>100 T):* Reaching 300–1000 T—even if the coil explodes in microseconds—exposes ultrahigh-field physics accessible nowhere else on Earth.
+- **Primary citations:** F. Herlach & N. Miura, eds. (2003), *High Magnetic Fields: Science and Technology*; National High Magnetic Field Laboratory (NHMFL) operational paradigm.
+
+#### `EX-52` — High-Pressure Extreme Matter: Diamond Anvil Cells vs. Dynamic Shock Compression
+- **Category:** Accelerator, Beam & Condensed-Matter Probes
+- **Geometry:** `trilinear-line`
+- **Poles:** `Static Equilibrium Diamond Anvil Cells` | `Laser-Heated & Ramp-Compressed Bridge` | `Ultra-High-Pressure Laser/Z-Pinch Shocks`
+- **Hovertip (`issue`):** How should experimentalists probe planetary cores, metallic hydrogen, and extreme states of matter at megabar-to-gigabar pressures?
+- **Per-pole hovertips:**
+  - *Static Equilibrium Diamond Anvil Cells:* Transparent diamond windows let X-rays, Raman lasers, and electrical leads study well-equilibrated phases cleanly up to several megabars.
+  - *Laser-Heated & Ramp-Compressed Bridge:* Quasi-isentropic ramp compression bridges static megabar cells and hot shock states without melting the sample prematurely.
+  - *Ultra-High-Pressure Laser/Z-Pinch Shocks:* Giant laser and pulsed-power facilities (NIF, Z Machine) reach tens of megabars to gigabars—directly recreating giant-planet cores and warm dense matter.
+- **Primary citations:** H.-K. Mao et al. (2018), *Rev. Mod. Phys.* (Diamond Anvil Cells); B. A. Remington, R. P. Drake & D. D. Ryutov (2006), *Rev. Mod. Phys.*
+
+## 4. Canonical Archetypes (11 Archetypes)
 
 ### 1. The "String & Sealing Wax" Tabletop Virtuoso
 - **Summary:** Champions agile, PI-led tabletop ingenuity where deep physical intuition and custom-built apparatus rival giant facilities at a fraction of the cost.
@@ -960,6 +1412,34 @@ Experimental physics is the art and discipline of interrogating nature through e
   - **Anchors High:** `EX-01` (*Autonomous Exploratory Science*), `EX-04` (*Chasing Uncharted Anomalies*), `EX-15` (*Always-On Local Laboratory*), `EX-18` (*Unblinded Exploratory Intuition*), `EX-22` (*Treat as New-Physics Lead*), `EX-26` (*Fabricate Every Sample In-House*), `EX-28` (*Agile PI-Led Tabletop*), `EX-31` (*Ship Early & Iterate Live*), `EX-33` (*Serendipitous First Light*).
   - **Anchors Low:** `EX-01` (*Theory-Testing Servant*), `EX-18` (*Strict Hidden-Offset / Salted Blinding*).
 
+### 8. The Multi-Messenger & Gravitational-Wave Observer
+- **Summary:** Listens across spacetime ripples, neutrinos, and photons—fusing ultra-low-noise seismic isolation, real-time global alert networks, and open astronomical catalogs.
+- **Primary Thinkers & Literature:** R. Weiss, B. Barish, K. Thorne, LIGO/Virgo & IceCube Collaborations (2015, 2017, 2018).
+- **Stance Profile:**
+  - **Anchors High:** `EX-09` (High *Squeezed & Entangled Metrology*), `EX-16` (*Seismic & Vibration Isolation*), `EX-28` (*Multi-Thousand-Author Flagship*), `EX-30` (*Timed Embargo Then Open Release* / GWOSC), `EX-33` (*Monumental Engineering Triumph*), `EX-35` (*Coordinated Ground + Space Synergy*), `EX-36` (*Gravitational-Wave Interferometry* & *High-Energy Neutrino Telescopes*), `EX-37` (*Survey Trigger + Deep Follow-Up*), `EX-40` (*Seconds-Scale Public Transient Alerts* / *Tiered Alert + Audited Catalog*), `EX-46` (*Laser Optical Interferometry*).
+  - **Anchors Low:** `EX-28` (*Agile PI-Led Tabletop*), `EX-30` (*Collaboration-Gated Access*).
+
+### 9. The AMO Laser-Cooling & Optical-Lattice Artist
+- **Summary:** Sculpting vacuum, lasers, and ultracold atoms on an optical table to build defect-free quantum simulators, precision interferometers, and single-quantum control experiments.
+- **Primary Thinkers & Literature:** S. Chu, W. D. Phillips, E. Cornell, C. Wieman, I. Bloch (2012), S. Haroche (2013), D. J. Wineland (2013).
+- **Stance Profile:**
+  - **Anchors High:** `EX-06` (*Ultra-Precision Tabletop & Clocks*), `EX-15` (*Always-On Local Laboratory*), `EX-16` (*Ultra-High Vacuum*), `EX-24` (*Tactile Manual Mastery* → *Semi-Automated Assist*), `EX-28` (*Agile PI-Led Tabletop*), `EX-41` (*Ultracold Atoms in Optical Lattices* / *Programmable Rydberg Optical Tweezers* / *Trapped-Ion Spin Chains*), `EX-42` (*Ultra-Narrow CW Frequency Combs* / *Dual Frequency-Time Comb Mastery*), `EX-43` (*Controlled Cavity Enhancement*), `EX-44` (*Single-Quantum Projective & Trajectory Control*), `EX-46` (*Atom Matter-Wave Interferometry*).
+  - **Anchors Low:** `EX-15` (*Shared Flagship User Facilities*), `EX-28` (*Multi-Thousand-Author Flagship*).
+
+### 10. The Scanning-Probe & Local-Microscopy Artisan
+- **Summary:** Demands direct atomic-scale real-space vision—operating ultra-quiet dilution-cooled STM/AFM and electron microscopes to expose local quantum states, defects, and heterogeneity.
+- **Primary Thinkers & Literature:** G. Binnig & H. Rohrer (1987), J. C. Davis (2013), A. Yazdani, cryo-EM pioneers.
+- **Stance Profile:**
+  - **Anchors High:** `EX-02` (*Golden-Event Direct Image*), `EX-13` (*Ultimate Sensitivity & Low Noise* & *Timing & Spatial Resolution*), `EX-15` (*Always-On Local Laboratory*), `EX-16` (*Ultra-High Vacuum*, *Millikelvin Cryogenics*, *Seismic & Vibration Isolation*), `EX-26` (*Tight Co-Design Partnership*), `EX-27` (High *Noise & Grounding Hygiene*), `EX-48` (*Atomic Real-Space STM / STEM* / *Complementary Real + k-Space Fusion*), `EX-50` (*Direct Real-Space Cryo-EM & 4D-STEM*).
+  - **Anchors Low:** `EX-02` (*High-Rate Statistical Logic*), `EX-48` (*Bulk Reciprocal-Space* exclusively).
+
+### 11. The Accelerator & Beam-Physics Architect
+- **Summary:** Engineers the world's brightest beams of protons, leptons, muons, neutrons, and coherent X-rays—pushing superconducting RF, plasma wakefields, and luminosity frontiers.
+- **Primary Thinkers & Literature:** E. O. Lawrence, R. R. Wilson, S. van der Meer, T. Tajima & J. M. Dawson (1979), P5 / European Strategy accelerator community.
+- **Stance Profile:**
+  - **Anchors High:** `EX-06` (*Highest-Energy Colliders* & *High-Intensity Rare-Process Beams*), `EX-13` (*Environmental & Radiation Hardness*), `EX-14` (*Instrument Builders Are the Soul*), `EX-15` (*Shared Flagship User Facilities*), `EX-31` (*Staged Commissioning Gates*), `EX-33` (*Monumental Engineering Triumph*), `EX-45` (*Proven Superconducting RF Cavities* or *Tabletop Laser-Plasma Wakefield Revolution*), `EX-47` (*Clean e+e- Higgs Factory* / *100 TeV Hadron* / *Compact Muon Collider*), `EX-50` (*High-Brilliance Synchrotron / XFEL X-Rays*).
+  - **Anchors Low:** `EX-15` (*Always-On Local Laboratory*), `EX-14` (*Physics Analysis Leads the Field*).
+
 ---
 
 # Skin 3: Theoricapades — Pure & Theoretical Mathematics
@@ -982,8 +1462,11 @@ Pure mathematics appears from the outside to be a monolith of settled deductive 
 4. **Style, Abstraction & Methodology** — Birds vs. frogs, rising sea vs. hammer-and-chisel, examples vs. axioms, geometric vs. symbolic thought, and purity of methods.
 5. **Aesthetics, Unity & Relations to Physics** — "The Book," Hardy's autonomy vs. Arnold's physical geometry, Langlands unity, Bourbaki's legacy, and counterexamples.
 6. **Mathematical Practice, Community & Future** — Solo vs. Polymath collaboration, AI provers, overlay journals, pedagogy, and refereeing standards.
+7. **Algebra, Number Theory & Arithmetic Geometry** — Analytic vs. algebraic number theory, $p$-adic vs. Archimedean worlds, derived/higher geometry, effective vs. ineffective finiteness, and group theory styles.
+8. **Analysis, Geometry & Topology** — Soft vs. hard analysis, smooth vs. low-dimensional geometric topology, Riemannian vs. symplectic geometry, noncommutative spaces, and probabilistic structures.
+9. **Logic, Computability & Discrete Foundations** — Complexity vs. computability, model theory & o-minimality, descriptive set theory, extremal vs. structural combinatorics, and experimental mathematics.
 
-## 3. Topics (34 Topics)
+## 3. Topics (52 Topics)
 
 ### Category 1: Ontology & Philosophy of Mathematics
 
@@ -1381,7 +1864,212 @@ Pure mathematics appears from the outside to be a monolith of settled deductive 
   - *Systematic Structural Refactoring:* Crisp, self-consistent terminology (like Bourbaki's *injective/surjective/bijective* or modern categorical naming) permanently lowers cognitive friction.
 - **Primary citations:** N. Bourbaki (1950); practitioner mathematical convention.
 
-## 4. Canonical Archetypes (7 Archetypes)
+---
+
+### Category 7: Algebra, Number Theory & Arithmetic Geometry
+
+#### `TH-35` — Analytic vs. Algebraic Number Theory
+- **Category:** Algebra, Number Theory & Arithmetic Geometry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Analytic Sieves, L-Functions & Estimates` | `Arithmetic-Geometric Synthesis` | `Algebraic Galois, Cohomology & Motives`
+- **Hovertip (`issue`):** Are the deepest secrets of the integers unlocked primarily by complex analysis, exponential sums, and prime sieves, or by Galois representations, schemes, and étale cohomology?
+- **Per-pole hovertips:**
+  - *Analytic Sieves, L-Functions & Estimates:* Riemann's zeta zeros, circle methods, and bilinear sieve bounds attack additive and prime-distribution mysteries directly.
+  - *Arithmetic-Geometric Synthesis:* Birch–Swinnerton-Dyer and Langlands prove analytic $L$-functions and algebraic cohomology are mirror images of one unified arithmetic reality.
+  - *Algebraic Galois, Cohomology & Motives:* Hidden structural symmetries of rational solutions reveal themselves only through number fields, schemes, and motivic Galois groups.
+- **Primary citations:** B. Riemann (1859); H. Iwaniec & E. Kowalski (2004), *Analytic Number Theory*; J.-P. Serre (1979), *Local Fields*; A. Wiles (1995), *Ann. Math.*
+
+#### `TH-36` — Archimedean Real/Complex vs. $p$-Adic & Non-Archimedean Worlds
+- **Category:** Algebra, Number Theory & Arithmetic Geometry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classical Archimedean Continuum` | `Adelic Local–Global Balance` | `$p$-Adic & Perfectoid Ultrametric Beauty`
+- **Hovertip (`issue`):** Do you feel most at home in the familiar Euclidean/complex continuum, or in the bizarre ultrametric geometry of $p$-adic numbers and perfectoid spaces where every triangle is isosceles?
+- **Per-pole hovertips:**
+  - *Classical Archimedean Continuum:* Real and complex manifolds anchor analysis, differential equations, and physical geometry intuitively.
+  - *Adelic Local–Global Balance:* Hasse–Minkowski and Tate's thesis show $\mathbb{R}$ is just one prime at infinity—true arithmetic lives adelically across all places simultaneously.
+  - *$p$-Adic & Perfectoid Ultrametric Beauty:* Non-Archimedean geometry, Berkovich spaces, and Scholze's perfectoid tilting turn characteristic $0$ into characteristic $p$ with breathtaking clarity.
+- **Primary citations:** K. Hensel (1897); J. Tate (1950), thesis; P. Scholze (2012), "Perfectoid Spaces," *Publ. Math. IHÉS*.
+
+#### `TH-37` — Classical Algebraic Varieties vs. Derived & $\infty$-Categorical Geometry
+- **Category:** Algebra, Number Theory & Arithmetic Geometry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Concrete Classical Varieties & Schemes` | `Pragmatic Derived Categories When Needed` | `Full Higher Stacks & ∞-Category Paradigm`
+- **Hovertip (`issue`):** Does lifting algebraic geometry to derived schemes, stacks, and $(\infty,1)$-categories clarify hidden intersection/homotopy structure or erect an intimidating wall of abstraction?
+- **Per-pole hovertips:**
+  - *Concrete Classical Varieties & Schemes:* Classical equations, divisors, and Grothendieck schemes already solve enormous geometry without dragging homotopy coherence into every definition.
+  - *Pragmatic Derived Categories When Needed:* Invoke derived functors and Deligne–Mumford stacks cleanly when non-transverse intersections or moduli automorphisms actually demand them.
+  - *Full Higher Stacks & ∞-Category Paradigm:* Truncating higher homotopies breaks gluing and duality; Lurie's $\infty$-topoi and derived algebraic geometry are the true native setting of modern geometry.
+- **Primary citations:** R. Hartshorne (1977), *Algebraic Geometry*; J. Lurie (2009), *Higher Topos Theory*; B. Toën & G. Vezzosi (2008).
+
+#### `TH-38` — Effective Diophantine Algorithms vs. Ineffective Finiteness Theorems
+- **Category:** Algebra, Number Theory & Arithmetic Geometry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Explicit Computable Bounds Only` | `Finiteness First, Effectivize Later` | `Celebrate Pure Structural Finiteness`
+- **Hovertip (`issue`):** Landmark theorems like Thue–Siegel–Roth and Faltings's theorem prove equations have finitely many rational solutions without giving any algorithm to find them all—how satisfying is an ineffective proof?
+- **Per-pole hovertips:**
+  - *Explicit Computable Bounds Only:* An ineffective finiteness theorem leaves us unable to check if we found every solution; Baker's linear forms in logarithms and Chabauty–Kim algorithms deliver real answers.
+  - *Finiteness First, Effectivize Later:* Structural finiteness establishes the conceptual landscape and motivates decades of productive work turning qualitative proofs into explicit bounds.
+  - *Celebrate Pure Structural Finiteness:* Proving Mordell's conjecture via Arakelov geometry and abelian varieties is a triumph of pure structural insight regardless of algorithmic height bounds.
+- **Primary citations:** K. F. Roth (1955), *Mathematika*; A. Baker (1966), *Mathematika*; G. Faltings (1983), *Invent. Math.*; M. Kim (2005), *Invent. Math.*
+
+#### `TH-39` — Group Theory Ethos: Finite Classification vs. Geometric Group Theory
+- **Category:** Algebra, Number Theory & Arithmetic Geometry
+- **Geometry:** `trilinear-line`
+- **Poles:** `Finite Simple Groups & Representation Tables` | `Lie & Algebraic Group Symmetry` | `Infinite Geometric & Hyperbolic Groups`
+- **Hovertip (`issue`):** Which face of symmetry speaks deepest to you—the monumental finite classification (CFSG and sporadic Monsters), continuous Lie/algebraic groups, or Gromov's geometric study of infinite groups as metric spaces?
+- **Per-pole hovertips:**
+  - *Finite Simple Groups & Representation Tables:* The classification of finite simple groups and Monstrous Moonshine represent one of humanity's strangest and deepest structural discoveries.
+  - *Lie & Algebraic Group Symmetry:* Continuous Lie groups, root systems, and Dynkin diagrams organize geometry, representation theory, and fundamental physics simultaneously.
+  - *Infinite Geometric & Hyperbolic Groups:* Viewing discrete groups up to quasi-isometry via Cayley graphs and negative curvature turns algebra directly into large-scale geometry (Gromov).
+- **Primary citations:** D. Gorenstein, R. Lyons & R. Solomon (1994–), *The Classification of the Finite Simple Groups*; M. Gromov (1987), "Hyperbolic Groups."
+
+#### `TH-40` — Homological Algebra & Cohomology as Universal Lens
+- **Category:** Algebra, Number Theory & Arithmetic Geometry
+- **Geometry:** `monopole-slider`
+- **Poles:** `Centrality of Cohomological & Homological Machinery`
+- **Hovertip (`issue`):** How deeply do you view cohomology theories—measuring obstructions to passing from local to global—as the single most unifying engine of modern pure mathematics?
+- **Per-pole hovertips:**
+  - *Centrality of Cohomological & Homological Machinery:* From de Rham and singular cohomology to sheaf, étale, and motivic cohomology, turning nonlinear geometric mysteries into linearized homological invariants is the master key of modern math.
+- **Primary citations:** S. Eilenberg & N. Steenrod (1952), *Foundations of Algebraic Topology*; H. Cartan & S. Eilenberg (1956), *Homological Algebra*; A. Grothendieck (1957), *Tôhoku Math. J.*
+
+---
+
+### Category 8: Analysis, Geometry & Topology
+
+#### `TH-41` — Soft Functional Analysis vs. Hard Harmonic & PDE Analysis
+- **Category:** Analysis, Geometry & Topology
+- **Geometry:** `trilinear-line`
+- **Poles:** `Soft Banach/Hilbert & Operator Algebras` | `Dual Soft-Hard Synthesis` | `Hard Oscillatory Integrals & Quantitative PDEs`
+- **Hovertip (`issue`):** Do you prefer abstract compactness, spectral theorems, and $C^*$-algebras, or getting elbows-deep in Littlewood–Paley decompositions, Strichartz estimates, and nonlinear blow-up analysis?
+- **Per-pole hovertips:**
+  - *Soft Banach/Hilbert & Operator Algebras:* Infinite-dimensional spectral theory, Hahn–Banach, and von Neumann algebras capture sweeping structural truths cleanly without messy constant-chasing.
+  - *Dual Soft-Hard Synthesis:* Use soft compactness and concentration-compactness to extract critical blow-up profiles, then destroy them with hard quantitative estimates (Kenig–Merle, Tao).
+  - *Hard Oscillatory Integrals & Quantitative PDEs:* Real nonlinear waves, Navier–Stokes, and Kakeya problems yield only to explicit frequency localization, decoupling, and sharp quantitative inequalities.
+- **Primary citations:** J. von Neumann (1932); E. M. Stein (1993), *Harmonic Analysis*; T. Tao (2006), *Nonlinear Dispersive Equations*; C. E. Kenig & F. Merle (2006), *Invent. Math.*
+
+#### `TH-42` — Low-Dimensional Geometric Topology vs. High-Dimensional Surgery & Homotopy
+- **Category:** Analysis, Geometry & Topology
+- **Geometry:** `trilinear-line`
+- **Poles:** `Wild 3- & 4-Manifold Geometry (Thurston/Donaldson)` | `Cross-Dimensional Gauge & Floer Bridges` | `High-Dim Surgery & Stable Homotopy`
+- **Hovertip (`issue`):** Where does topology's deepest fascination live—in the idiosyncratic wildness of dimensions 3 and 4 (hyperbolic geometry, exotic $\mathbb{R}^4$s), or in algebraic high-dimensional surgery and stable homotopy theory?
+- **Per-pole hovertips:**
+  - *Wild 3- & 4-Manifold Geometry (Thurston/Donaldson):* Dimensions 3 and 4 are uniquely rich—where knots, Ricci flow, hyperbolic manifolds, and Seiberg–Witten invariants defeat purely algebraic classification.
+  - *Cross-Dimensional Gauge & Floer Bridges:* Floer homology, Khovanov categorification, and cobordism hypotheses weave low-dimensional knots straight into higher algebraic topology.
+  - *High-Dim Surgery & Stable Homotopy:* Above dimension 4, Whitney's trick unlocks systematic $h$-cobordism, surgery theory, and chromatic stable homotopy towers of astonishing regularity.
+- **Primary citations:** S. Smale (1961), *Ann. Math.*; W. P. Thurston (1982), *Bull. AMS*; S. K. Donaldson (1983), *J. Differ. Geom.*; G. Perelman (2002–2003); M. Hopkins & chromatic homotopy school.
+
+#### `TH-43` — Metric/Riemannian Geometry vs. Symplectic & Complex Geometry
+- **Category:** Analysis, Geometry & Topology
+- **Geometry:** `triangle`
+- **Poles:** `Riemannian Curvature & Geometric Flows` | `Symplectic Flexibility & Pseudoholomorphic Curves` | `Complex Kähler & Calabi–Yau Rigidity`
+- **Hovertip (`issue`):** Which geometric structure best embodies the soul of modern differential geometry?
+- **Per-pole hovertips:**
+  - *Riemannian Curvature & Geometric Flows:* Curvature bounds, minimal surfaces, and Ricci/mean-curvature flows bend spaces dynamically into canonical shapes (Hamilton, Perelman, Gromov).
+  - *Symplectic Flexibility & Pseudoholomorphic Curves:* Despite having no local curvature invariants (Darboux), symplectic manifolds exhibit startling global rigidity—non-squeezing, Floer homology, and mirror symmetry (Gromov, Floer).
+  - *Complex Kähler & Calabi–Yau Rigidity:* Holomorphicity fuses Riemannian, symplectic, and algebraic geometry into an astonishingly rigid world governed by Hodge theory and Yau's Calabi theorem.
+- **Primary citations:** S.-T. Yau (1978), *Commun. Pure Appl. Math.*; M. Gromov (1985), *Invent. Math.*; R. S. Hamilton (1982), *J. Differ. Geom.*
+
+#### `TH-44` — Classical Manifolds vs. Noncommutative & Synthetic Metric Spaces
+- **Category:** Analysis, Geometry & Topology
+- **Geometry:** `trilinear-line`
+- **Poles:** `Smooth Classical Manifolds First` | `Singular Limits & Alexandrov/RCD Spaces` | `Noncommutative Spectral Triples (Connes)`
+- **Hovertip (`issue`):** Should geometry stay grounded in smooth coordinate charts, or generalize boldly to singular Gromov–Hausdorff limits and noncommutative operator algebras without "points"?
+- **Per-pole hovertips:**
+  - *Smooth Classical Manifolds First:* Smooth calculus, tensors, and differential forms remain the sharpest, clearest laboratory for geometric insight.
+  - *Singular Limits & Alexandrov/RCD Spaces:* Degenerating families of smooth manifolds naturally converge to singular metric-measure spaces; synthetic curvature bounds (Lott–Sturm–Villani) handle them seamlessly.
+  - *Noncommutative Spectral Triples (Connes):* Quotients of foliations, Penrose tilings, and quantum phase spaces have no ordinary points—only noncommutative $C^*$-algebras and Dirac operators capture their true geometry.
+- **Primary citations:** A. Connes (1994), *Noncommutative Geometry*; M. Gromov (1999), *Metric Structures for Riemannian and Non-Riemannian Spaces*; J. Lott & C. Villani (2009), *Ann. Math.*
+
+#### `TH-45` — Probabilistic Method & Random Structures vs. Explicit Deterministic Constructions
+- **Category:** Analysis, Geometry & Topology
+- **Geometry:** `trilinear-line`
+- **Poles:** `Explicit Deterministic Constructions Only` | `Probabilistic Existence Then Derandomize` | `Random Objects Reveal Typical Truth`
+- **Hovertip (`issue`):** Erdős's probabilistic method proves objects exist (expanders, Ramsey graphs, high-girth high-chromatic graphs) without building a single concrete instance—does probabilistic existence satisfy you?
+- **Per-pole hovertips:**
+  - *Explicit Deterministic Constructions Only:* Knowing a haystack is 99.9% needles without exhibiting one leaves the real structural mystery unsolved—explicit Ramanujan graphs and algebraic constructions show *why* they work.
+  - *Probabilistic Existence Then Derandomize:* Use random ensembles first to pin down sharp thresholds, then build deterministic algebraic or pseudorandom constructions matching them.
+  - *Random Objects Reveal Typical Truth:* Random matrices, Erdős–Rényi graphs, and Schramm–Loewner Evolution (SLE) expose universal statistical laws that atypical deterministic constructions hide.
+- **Primary citations:** P. Erdős (1947), *Bull. AMS*; N. Alon & J. H. Spencer (2016), *The Probabilistic Method* (4th ed.); A. Lubotzky, R. Phillips & P. Sarnak (1988), *Combinatorica* (Ramanujan graphs).
+
+#### `TH-46` — Dynamical Systems & Ergodic Theory vs. Static Structure
+- **Category:** Analysis, Geometry & Topology
+- **Geometry:** `linear-sliders`
+- **Poles:** `Time-Evolution & Ergodic Dynamics` | `Static Algebraic & Topological Invariants`
+- **Hovertip (`issue`):** How strongly does your mathematical intuition gravitate toward iterating maps, invariant measures, and mixing flows versus static classification of rigid geometric/algebraic objects?
+- **Per-pole hovertips:**
+  - *Time-Evolution & Ergodic Dynamics:* Furstenberg's correspondence, Ratner's theorems, and Teichmüller dynamics show that watching orbits move across spaces solves even static number-theoretic and combinatorial puzzles.
+  - *Static Algebraic & Topological Invariants:* Computing homotopy groups, cohomology rings, and representation decompositions pins down timeless structural skeletons cleanly.
+- **Primary citations:** H. Furstenberg (1977), *J. Anal. Math.*; M. Ratner (1991), *Ann. Math.*; M. Mirzakhani (2007), *Invent. Math.*
+
+---
+
+### Category 9: Logic, Computability & Discrete Foundations
+
+#### `TH-47` — Computability vs. Computational Complexity as Mathematical Foundation
+- **Category:** Logic, Computability & Discrete Foundations
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classical Turing Computability & Degrees` | `Bridging Logic & Complexity` | `Feasible Complexity (P vs. NP) Is Primary`
+- **Hovertip (`issue`):** Does mathematical logic's deepest computational lesson lie in classical undecidability (Halting Problem, arithmetic hierarchy), or in quantitative resource bounds ($\text{P}$ vs. $\text{NP}$, PCP, interactive proofs)?
+- **Per-pole hovertips:**
+  - *Classical Turing Computability & Degrees:* Computability theory cleanly separates what is algorithmically knowable from uncomputable infinities without arbitrary polynomial-time cutoffs.
+  - *Bridging Logic & Complexity:* Descriptive complexity (Fagin, Immerman) and bounded arithmetic reveal exact mirrors between logical expressiveness and computational resources.
+  - *Feasible Complexity (P vs. NP) Is Primary:* The difference between $O(n^2)$ and $2^n$ is the deepest structural boundary in mathematics, physics, and cryptography—far more consequential than halting oracles.
+- **Primary citations:** A. M. Turing (1936), *Proc. LMS*; S. A. Cook (1971), *STOC*; S. Arora & B. Barak (2009), *Computational Complexity: A Modern Approach*.
+
+#### `TH-48` — Model Theory & O-Minimality vs. Classical Algebraic Geometry
+- **Category:** Logic, Computability & Discrete Foundations
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classical Core Algebra & Geometry` | `Model-Theoretic Tame Bridge` | `Model Theory & Stability Organize All Math`
+- **Hovertip (`issue`):** Has modern model theory (Shelah's stability, Hrushovski's geometric stability, Pila–Wilkie o-minimality) become an indispensable unifying superpower for mainstream geometry and number theory?
+- **Per-pole hovertips:**
+  - *Classical Core Algebra & Geometry:* Model-theoretic proofs often repackage algebraic-geometric facts in logical jargon; direct geometric arguments remain sharper and more explicit.
+  - *Model-Theoretic Tame Bridge:* O-minimality and tame topology (van den Dries, Pila–Zannier) cleanly conquered the André–Oort conjecture and Hodge-theoretic definability where classical tools stalled.
+  - *Model Theory & Stability Organize All Math:* Classification theory, NIP, and definable groups reveal the exact logical anatomy of "tame" versus "wild" mathematics across algebra, dynamics, and combinatorics.
+- **Primary citations:** S. Shelah (1978), *Classification Theory*; E. Hrushovski (1996), *J. AMS* (Mordell–Lang); L. van den Dries (1998), *Tame Topology and O-Minimal Structures*; J. Pila (2011), *Ann. Math.*
+
+#### `TH-49` — Descriptive Set Theory & Determinacy vs. General Topology
+- **Category:** Logic, Computability & Discrete Foundations
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classical Point-Set & Algebraic Topology` | `Borel Equivalence & Polish Pragmatism` | `Descriptive Set Theory & Determinacy Paradigm`
+- **Hovertip (`issue`):** How central should Polish spaces, Borel complexity of classification problems, and infinite two-player games (Axiom of Determinacy) be to mainstream analysis and algebra?
+- **Per-pole hovertips:**
+  - *Classical Point-Set & Algebraic Topology:* Mainstream mathematics lives in locally compact manifolds, CW complexes, and Zariski topologies without needing projective-hierarchy machinery.
+  - *Borel Equivalence & Polish Pragmatism:* Measuring whether a classification problem is "smooth" or hyperfinite in the Borel hierarchy explains *why* some invariants exist and others are provably impossible.
+  - *Descriptive Set Theory & Determinacy Paradigm:* Infinite-game determinacy links large cardinals directly to regularity of every definable real set, unifying logic, ergodic theory, and operator algebras (Kechris).
+- **Primary citations:** A. S. Kechris (1995), *Classical Descriptive Set Theory*; D. A. Martin (1975), *Ann. Math.* (Borel determinacy); G. Hjorth (2000).
+
+#### `TH-50` — Extremal/Ramsey Combinatorics vs. Structural Graph Theory
+- **Category:** Logic, Computability & Discrete Foundations
+- **Geometry:** `trilinear-line`
+- **Poles:** `Sharp Extremal & Ramsey Thresholds` | `Regularity & Pseudorandomness Bridge` | `Structural Minors & Decomposition Theory`
+- **Hovertip (`issue`):** Should discrete mathematics hunt sharp quantitative thresholds (Turán, Ramsey, Szemerédi density bounds), or classify discrete universes via forbidden substructures (Robertson–Seymour graph minors)?
+- **Per-pole hovertips:**
+  - *Sharp Extremal & Ramsey Thresholds:* Quantitative density bounds, hypergraph containers, and additive combinatorics strike straight to the heart of disorder vs. inevitable pattern.
+  - *Regularity & Pseudorandomness Bridge:* Szemerédi's Regularity Lemma and graphons (Lovász) split every giant discrete object into clean structured + pseudorandom + tiny-error components.
+  - *Structural Minors & Decomposition Theory:* Robertson–Seymour's Graph Minor Theorem and Strong Perfect Graph Theorem prove discrete worlds obey deep, clean architectural decompositions.
+- **Primary citations:** E. Szemerédi (1975); N. Robertson & P. D. Seymour (1983–2004), *J. Comb. Theory B*; L. Lovász (2012), *Large Networks and Graph Limits*.
+
+#### `TH-51` — Experimental Mathematics & Symbolic Pattern-Hunting
+- **Category:** Logic, Computability & Discrete Foundations
+- **Geometry:** `trilinear-line`
+- **Poles:** `Pure Deductive Thought First` | `Computation Inspires Conjectures Only` | `Full Experimental-Math Discovery Engine`
+- **Hovertip (`issue`):** From Gauss computing prime tables by hand to PSLQ integer-relation finding, OEIS searches, and LMFDB $L$-function databases, how central should computational experimentation be in pure mathematics?
+- **Per-pole hovertips:**
+  - *Pure Deductive Thought First:* Relying on computer tables encourages shallow pattern-matching and distracts from deep conceptual thinking—a few well-chosen hand examples suffice.
+  - *Computation Inspires Conjectures Only:* Computing a million cases can never prove a theorem (beware Skewes's number!), but it kills false guesses instantly and points proofs in the right direction.
+  - *Full Experimental-Math Discovery Engine:* High-precision numerical exploration, OEIS, and LMFDB have transformed pure math into a laboratory where astonishing identities (BBP formula for $\pi$, Birch–Swinnerton-Dyer) are discovered empirically first.
+- **Primary citations:** J. M. Borwein & D. H. Bailey (2004), *Mathematics by Experiment*; N. J. A. Sloane (OEIS); LMFDB Collaboration.
+
+#### `TH-52` — Category-Theoretic Categorification & Higher Algebra
+- **Category:** Logic, Computability & Discrete Foundations
+- **Geometry:** `monopole-slider`
+- **Poles:** `Commitment to Categorification (Numbers → Vector Spaces → Categories)`
+- **Hovertip (`issue`):** How powerfully do you believe replacing equations by isomorphisms, integers by vector spaces, and sets by categories (Khovanov homology, geometric representation theory) uncovers hidden mathematical reality?
+- **Per-pole hovertips:**
+  - *Commitment to Categorification (Numbers → Vector Spaces → Categories):* Lifting classical polynomials and identities to homological categories reveals richer invariants, functoriality, and surprising connections invisible in decategorified shadows.
+- **Primary citations:** L. Crane & I. B. Frenkel (1994), *J. Math. Phys.*; M. Khovanov (2000), *Duke Math. J.*; J. C. Baez & J. Dolan (1998).
+
+## 4. Canonical Archetypes (11 Archetypes)
 
 ### 1. The Grothendieckian Structuralist ("Rising Sea" Bird)
 - **Summary:** Dissolves hard problems by discovering their natural functorial, categorical, and cohomological universe where theorems become inevitable.
@@ -1429,8 +2117,36 @@ Pure mathematics appears from the outside to be a monolith of settled deductive 
 - **Summary:** Follows deep structural analogies across arithmetic, geometry, representation theory, and quantum field theory to reveal mathematics' hidden unity.
 - **Primary Thinkers & Literature:** R. P. Langlands (1970), A. Weil (1940), E. Witten (1990), M. Kontsevich.
 - **Stance Profile:**
-  - **Anchors High:** `TH-05` (*Autonomous Platonic Harmony*), `TH-11` (*Generating New Methods & Concepts*), `TH-15` (*Bold Speculative Synthesis Leads the Way* / *Clearly Flagged Conjectural Program*), `TH-17` (*Grand Theory-Builder ("Bird")*), `TH-20` (*Geometric-Algebraic Duality*), `TH-21` (*Celebrate Cross-Field Heavy Machinery*), `TH-23` (*Deep Structural Unity*), `TH-24` (*Symbiotic Cross-Fertilization*), `TH-25` (*Grand Unification (Langlands Ideal)*).
+  - **Anchors High:** `TH-05` (*Autonomous Platonic Harmony*), `TH-11` (*Generating New Methods & Concepts*), `TH-15` (*Bold Speculative Synthesis Leads the Way* / *Clearly Flagged Conjectural Program*), `TH-17` (*Grand Theory-Builder ("Bird")*), `TH-20` (*Geometric-Algebraic Duality*), `TH-21` (*Celebrate Cross-Field Heavy Machinery*), `TH-23` (*Deep Structural Unity*), `TH-24` (*Symbiotic Cross-Fertilization*), `TH-25` (*Grand Unification (Langlands Ideal)*), `TH-35` (*Arithmetic-Geometric Synthesis*), `TH-36` (*Adelic Local–Global Balance*), `TH-52` (High *Categorification*).
   - **Anchors Low:** `TH-21` (*Elementary Self-Contained Purity*), `TH-25` (*Irreducible Archipelago of Subfields*).
+
+### 8. The Hard Analyst & Nonlinear PDE Tactician
+- **Summary:** Masters oscillatory integrals, frequency decoupling, and sharp quantitative inequalities to tame wild nonlinear PDEs, dispersive waves, and analytic prime distributions.
+- **Primary Thinkers & Literature:** E. M. Stein (1993), C. Fefferman, L. Nirenberg, T. Tao (2006), C. E. Kenig & F. Merle (2006).
+- **Stance Profile:**
+  - **Anchors High:** `TH-17` (*Concrete Problem-Solver ("Frog")* / *Bilingual Strategist*), `TH-18` (*Hard Estimates & Hammer-and-Chisel*), `TH-19` (*Explicit Computation* + *Start from Concrete Examples*), `TH-35` (*Analytic Sieves, L-Functions & Estimates*), `TH-36` (*Classical Archimedean Continuum*), `TH-41` (*Hard Oscillatory Integrals & Quantitative PDEs* / *Dual Soft-Hard Synthesis*), `TH-46` (*Time-Evolution & Ergodic Dynamics*).
+  - **Anchors Low:** `TH-18` (*Rising-Sea Natural Setting*), `TH-37` (*Full Higher Stacks & ∞-Category Paradigm*), `TH-52` (Low *Categorification*).
+
+### 9. The Probabilistic-Method & Extremal Combinatorialist
+- **Summary:** Attacks discrete thresholds, random graphs, Ramsey theory, and additive structure using probabilistic existence, regularity decompositions, and nimble collaborative problem-solving.
+- **Primary Thinkers & Literature:** P. Erdős (1947), E. Szemerédi (1975), N. Alon & J. H. Spencer (2016), L. Lovász (2012), B. Bollobás.
+- **Stance Profile:**
+  - **Anchors High:** `TH-17` (*Concrete Problem-Solver ("Frog")*), `TH-21` (*Elementary Self-Contained Purity*), `TH-23` (*Brevity & Economy* & *Shocking Twist of Insight*), `TH-28` (*High-Velocity Co-Authorship* & *Massively Open Polymath*), `TH-30` (*Diamond-Open Overlay Journals*), `TH-45` (*Random Objects Reveal Typical Truth* / *Probabilistic Existence Then Derandomize*), `TH-47` (*Feasible Complexity (P vs. NP) Is Primary*), `TH-50` (*Sharp Extremal & Ramsey Thresholds* / *Regularity & Pseudorandomness Bridge*).
+  - **Anchors Low:** `TH-37` (*Full Higher Stacks & ∞-Category Paradigm*), `TH-40` (Low *Cohomological Machinery*), `TH-44` (*Noncommutative Spectral Triples*).
+
+### 10. The Geometric Topologist & Low-Dimensional Visionary
+- **Summary:** Thinks viscerally in 3D/4D manifolds, knots, hyperbolic surfaces, curvature flows, and metric spaces—prizing vivid spatial understanding over sterile symbol manipulation.
+- **Primary Thinkers & Literature:** W. P. Thurston (1982, 1994), M. Gromov (1985, 1987, 1999), S. K. Donaldson (1983), G. Perelman (2002–2003), M. Mirzakhani (2007).
+- **Stance Profile:**
+  - **Anchors High:** `TH-11` (*Human Conceptual Understanding*), `TH-14` (*High-Level Intuitive Fluency*), `TH-20` (*Spatial & Diagrammatic Intuition*), `TH-27` (*Vital Teachers of Structure*), `TH-31` (*Concrete & Geometric Intuition First*), `TH-39` (*Infinite Geometric & Hyperbolic Groups*), `TH-42` (*Wild 3- & 4-Manifold Geometry*), `TH-43` (*Riemannian Curvature & Geometric Flows* & *Symplectic Flexibility*), `TH-44` (*Singular Limits & Alexandrov/RCD Spaces*).
+  - **Anchors Low:** `TH-14` (*Airtight Axiomatic Completeness*), `TH-20` (*Pure Symbolic & Algebraic Precision*), `TH-26` (*Monumental Structural Triumph*).
+
+### 11. The Set-Theoretic Logician & Model Theorist
+- **Summary:** Maps the deepest architecture of mathematical truth itself—from forcing, large cardinals, and infinite-game determinacy to stability theory and tame o-minimal geometry.
+- **Primary Thinkers & Literature:** P. J. Cohen (1963), S. Shelah (1978), A. S. Kechris (1995), W. H. Woodin (2011), E. Hrushovski (1996), J. D. Hamkins (2012).
+- **Stance Profile:**
+  - **Anchors High:** `TH-03` (*Unique True Universe (V)* [Woodin wing] or *Full Set-Theoretic Multiverse* [Hamkins wing]), `TH-04` (*Full Cantorian Transfinite Hierarchy*), `TH-06` (*Set Theory (ZFC)*), `TH-09` (*Extrinsic Fruitfulness Justifies Large Cardinals*), `TH-10` (High *Reverse Mathematics*), `TH-47` (*Classical Turing Computability & Degrees* / *Bridging Logic & Complexity*), `TH-48` (*Model Theory & Stability Organize All Math* / *Model-Theoretic Tame Bridge*), `TH-49` (*Descriptive Set Theory & Determinacy Paradigm*).
+  - **Anchors Low:** `TH-04` (*Finitism & Ultrafinitism*), `TH-24` (*Mathematics as Part of Physics*).
 
 ---
 
@@ -1455,8 +2171,11 @@ Theoretical physics and quantum foundations ask the deepest questions about what
 4. **Time, Entropy & Cosmology** — Real time vs. block universe, arrow of time, inflation vs. bounces, multiverse, dark matter vs. MOND, and cosmological constant.
 5. **Reductionism, Emergence & Complexity** — "More is different," "It from Bit," renormalization group philosophy, and symmetry breaking vs. topological order.
 6. **Epistemology & Practice of Theoretical Physics** — Non-empirical confirmation, formal theory vs. phenomenology, QFT rigor, toy models, thought experiments, and career orthodoxy.
+7. **Quantum Information, Complexity & Thermodynamics** — Holographic complexity, ETH vs. many-body localization, operational reconstructions of QM, resource theories, and indefinite causal order.
+8. **Gauge Theory, Strong Coupling & Non-Perturbative Physics** — Confinement mechanisms, anomalies & topological defects, integrability vs. chaos, generalized symmetries, and flat-space/celestial holography.
+9. **Classical Relativity, Singularities & Cosmological Tensions** — Cosmic censorship, singularities vs. bounces, Hubble tension, primordial black holes, modified-gravity landscape, and strong-field gravitational waves.
 
-## 3. Topics (35 Topics)
+## 3. Topics (53 Topics)
 
 ### Category 1: Quantum Foundations & Interpretations
 
@@ -1867,7 +2586,214 @@ Theoretical physics and quantum foundations ask the deepest questions about what
   - *Independent Unorthodox Foundations:* When a field goes decades without experimental confirmation, intellectual diversity and fearless outsider programs are essential to escape local minima.
 - **Primary citations:** L. Smolin (2006), *The Trouble with Physics*; P. Woit (2006), *Not Even Wrong*; J. Polchinski (2007) review responses.
 
-## 4. Canonical Archetypes (7 Archetypes)
+---
+
+### Category 7: Quantum Information, Complexity & Thermodynamics
+
+#### `QU-36` — Quantum Complexity as Physical Geometry (Complexity = Volume / Action)
+- **Category:** Quantum Information, Complexity & Thermodynamics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Arbitrary Gate-Set Metaphor` | `Promising Semiclassical Clue` | `Circuit Complexity Drives Spacetime Growth`
+- **Hovertip (`issue`):** Susskind proposed that black-hole interiors keep growing long after thermalization because holographic quantum circuit complexity grows linearly—is complexity a genuine physical observable?
+- **Per-pole hovertips:**
+  - *Arbitrary Gate-Set Metaphor:* Circuit complexity depends ambiguously on arbitrary choices of reference states, tolerances, and gate sets—far too squishy to define bulk geometry.
+  - *Promising Semiclassical Clue:* Krylov complexity and holographic volume/action dualities capture real late-time chaos diagnostics, though their exact QFT definition remains unfinished.
+  - *Circuit Complexity Drives Spacetime Growth:* Entanglement alone stops evolving too early; quantum computational complexity is the missing physical law governing black-hole interiors and horizons.
+- **Primary citations:** L. Susskind (2016), "Computational Complexity and Black Hole Horizons," *Fortschr. Phys.*; A. R. Brown et al. (2016), *Phys. Rev. Lett.*
+
+#### `QU-37` — Thermalization vs. Many-Body Localization (MBL) & Quantum Scars
+- **Category:** Quantum Information, Complexity & Thermodynamics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Generic Interacting Systems Always Thermalize` | `Prethermal & Scarred Exceptions` | `True Stable Non-Ergodic MBL Phases Exist`
+- **Hovertip (`issue`):** Do isolated interacting quantum systems generically obey the Eigenstate Thermalization Hypothesis (ETH) in the thermodynamic limit, or can strong disorder lock them permanently out of equilibrium?
+- **Per-pole hovertips:**
+  - *Generic Interacting Systems Always Thermalize:* Rare thermal bubbles ("avalanches") destabilize localization asymptotically—apparent MBL is a long-lived finite-size prethermal regime.
+  - *Prethermal & Scarred Exceptions:* Even if strict asymptotic MBL is fragile, Hilbert-space fragmentation, Floquet prethermalization, and quantum many-body scars create rich, observable non-ergodic dynamics.
+  - *True Stable Non-Ergodic MBL Phases Exist:* Emergent local integrals of motion (l-bits) genuinely protect memory of initial states indefinitely in strongly disordered 1D quantum chains (Basko–Aleiner–Altshuler, Imbrie).
+- **Primary citations:** M. Srednicki (1994), *Phys. Rev. E* (ETH); D. M. Basko, I. L. Aleiner & B. L. Altshuler (2006), *Ann. Phys.*; J. Z. Imbrie (2016), *J. Stat. Phys.*; W. De Roeck & F. Huveneers (2017), *Phys. Rev. B*.
+
+#### `QU-38` — Reconstructing Quantum Theory from Operational Axioms
+- **Category:** Quantum Information, Complexity & Thermodynamics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Hilbert Space Is Primitive Physical Law` | `Illuminating Consistency Check` | `Operational Information Axioms Explain "Why QM?"`
+- **Hovertip (`issue`):** Hardy, Chiribella–D'Ariano–Perinotti, and Masanes–Müller derived complex Hilbert-space quantum mechanics from information-theoretic axioms (purification, local tomography, continuous reversibility)—does this solve "why quantum mechanics?"
+- **Per-pole hovertips:**
+  - *Hilbert Space Is Primitive Physical Law:* Operational axioms merely reformulate mathematical properties we already knew without revealing the physical ontology underneath.
+  - *Illuminating Consistency Check:* Generalized Probabilistic Theories (GPTs) show sharply how close quantum theory sits to PR-box super-correlations and why real/quaternionic variants fail.
+  - *Operational Information Axioms Explain "Why QM?":* Just as Einstein derived Lorentz transformations from two physical principles, information axioms demystify complex Hilbert space as the unique consistent theory of reversible information.
+- **Primary citations:** L. Hardy (2001), *arXiv:quant-ph/0101012*; G. Chiribella, G. M. D'Ariano & P. Perinotti (2011), *Phys. Rev. A*; L. Masanes & M. P. Müller (2011), *New J. Phys.*
+
+#### `QU-39` — Indefinite Causal Order & Quantum Switches
+- **Category:** Quantum Information, Complexity & Thermodynamics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Fixed Background Spacetime Causality` | `Useful Operational Quantum Circuit Tool` | `Fundamental Quantum Gravity Feature`
+- **Hovertip (`issue`):** If massive bodies can exist in spatial superposition, the metric's light cones themselves superpose—making causal order ("A before B" vs. "B before A") indefinite. Is indefinite causal order fundamental physics?
+- **Per-pole hovertips:**
+  - *Fixed Background Spacetime Causality:* Optical quantum-switch tabletop experiments only mimic indefinite order inside fixed lab spacetime—true causality remains well-ordered.
+  - *Useful Operational Quantum Circuit Tool:* Process matrices and quantum switches unlock genuine information-theoretic advantages without needing exotic spacetime metaphysics.
+  - *Fundamental Quantum Gravity Feature:* Superposing gravitational fields inevitably yields dynamical indefinite causal structure—the key bridge between quantum information and general relativity (Hardy, Brukner).
+- **Primary citations:** L. Hardy (2007), *J. Phys. A*; O. Oreshkov, F. Costa & Č. Brukner (2012), *Nat. Commun.*
+
+#### `QU-40` — Quantum Thermodynamics & Microscopic Second Law
+- **Category:** Quantum Information, Complexity & Thermodynamics
+- **Geometry:** `linear-sliders`
+- **Poles:** `Resource-Theoretic Quantum Thermodynamics` | `Fluctuation Theorems & Stochastic Thermodynamics`
+- **Hovertip (`issue`):** How heavily do you lean on quantum resource theories (athermality, coherence, catalytic second laws) versus Jarzynski/Crooks fluctuation theorems and entanglement-driven typicality?
+- **Per-pole hovertips:**
+  - *Resource-Theoretic Quantum Thermodynamics:* Single-shot free energies reveal an entire family of generalized second laws governing nanoscale quantum machines far below the thermodynamic limit.
+  - *Fluctuation Theorems & Stochastic Thermodynamics:* Exact non-equilibrium work relations and canonical typicality (Popescu–Short–Winter) derive macroscopic thermodynamics cleanly from unitary quantum entanglement.
+- **Primary citations:** C. Jarzynski (1997), *Phys. Rev. Lett.*; S. Popescu, A. J. Short & A. Winter (2006), *Nat. Phys.*; F. G. S. L. Brandão et al. (2015), *PNAS*.
+
+#### `QU-41` — Quantum Chaos & Fast Scrambling Bounds
+- **Category:** Quantum Information, Complexity & Thermodynamics
+- **Geometry:** `monopole-slider`
+- **Poles:** `Centrality of Chaos Bounds (λ_L ≤ 2πT) & OTOCs in Fundamental Physics`
+- **Hovertip (`issue`):** How deeply do you view Maldacena–Shenker–Stanford's universal chaos bound, out-of-time-order correlators (OTOCs), and random-matrix universality as unifying black holes and strongly correlated quantum matter?
+- **Per-pole hovertips:**
+  - *Centrality of Chaos Bounds (λ_L ≤ 2πT) & OTOCs in Fundamental Physics:* Black holes saturating the quantum Lyapunov bound reveal a profound law linking maximal quantum chaos, Planckian dissipation, and holographic spacetime.
+- **Primary citations:** J. Maldacena, S. H. Shenker & D. Stanford (2016), "A Bound on Chaos," *JHEP*; Y. Sekino & L. Susskind (2008), *JHEP*.
+
+---
+
+### Category 8: Gauge Theory, Strong Coupling & Non-Perturbative Physics
+
+#### `QU-42` — Mechanism of Color Confinement in QCD
+- **Category:** Gauge Theory, Strong Coupling & Non-Perturbative Physics
+- **Geometry:** `quad-compass`
+- **Poles:** `Dual Superconductor (Monopole Condensation)` | `Center Vortices & Topology` | `Lattice & Dyson–Schwinger Numerical Reality` | `Holographic / String Flux-Tube Duality`
+- **Hovertip (`issue`):** Half a century after asymptotic freedom, what conceptual picture best captures *why* quarks and gluons can never be isolated?
+- **Per-pole hovertips:**
+  - *Dual Superconductor (Monopole Condensation):* Condensing chromomagnetic monopoles squeezes color-electric flux into Abrikosov-like strings—a picture proven rigorously in Seiberg–Witten theory ('t Hooft, Mandelstam).
+  - *Center Vortices & Topology:* Lattice simulations show that removing percolating $\mathbb{Z}_N$ center vortices destroys the string tension and area law directly.
+  - *Lattice & Dyson–Schwinger Numerical Reality:* Confinement is a non-perturbative infrared feature of the full Yang–Mills measure; lattice QCD and functional methods compute the mass gap without forcing a cartoon picture.
+  - *Holographic / String Flux-Tube Duality:* At large $N$, confining gauge theory literally *is* a fundamental string theory living in a warped extra dimension ('t Hooft planar limit, Maldacena).
+- **Primary citations:** G. 't Hooft (1974, 1981); S. Mandelstam (1976); N. Seiberg & E. Witten (1994), *Nucl. Phys. B*; J. Greensite (2011), *An Introduction to the Confinement Problem*.
+
+#### `QU-43` — Perturbative Loops vs. Non-Perturbative Anomalies, Instantons & Resurgence
+- **Category:** Gauge Theory, Strong Coupling & Non-Perturbative Physics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Precision Multi-Loop Perturbation Theory` | `Resurgent Trans-Series Bridge` | `Non-Perturbative Anomalies & Dualities First`
+- **Hovertip (`issue`):** Where does the deepest power of quantum field theory reside—pushing precision Feynman-loop expansions, decoding non-perturbative instantons via resurgence, or wielding exact 't Hooft anomalies and dualities?
+- **Per-pole hovertips:**
+  - *Precision Multi-Loop Perturbation Theory:* Four- and five-loop amplitudes, polylogarithms, and resummations deliver astonishing real-world accuracy for QED and collider QCD.
+  - *Resurgent Trans-Series Bridge:* Divergent perturbative series secretly encode non-perturbative instanton saddles via Borel–Écalle resurgence—uniting perturbative and non-perturbative physics (Dunne & Ünsal).
+  - *Non-Perturbative Anomalies & Dualities First:* 't Hooft anomaly matching, topological terms, and strong–weak dualities constrain IR phases rigorously where perturbation theory breaks down completely.
+- **Primary citations:** G. 't Hooft (1980), anomaly matching; G. V. Dunne & M. Ünsal (2012–2016), *Annu. Rev. Nucl. Part. Sci.* (resurgence).
+
+#### `QU-44` — Generalized Higher-Form & Non-Invertible Symmetries
+- **Category:** Gauge Theory, Strong Coupling & Non-Perturbative Physics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Over-Formalized Repackaging` | `Sharp Tool for Confinement & Phases` | `Revolutionary New Paradigm of Symmetry`
+- **Hovertip (`issue`):** Extending symmetry from groups acting on point operators to higher-form symmetries acting on Wilson loops and non-invertible topological defects has swept formal QFT—is it a true paradigm shift?
+- **Per-pole hovertips:**
+  - *Over-Formalized Repackaging:* Calling Wilson-loop order parameters "1-form symmetries" dresses well-known physics in heavy category-theoretic vocabulary without solving 4D non-supersymmetric dynamics.
+  - *Sharp Tool for Confinement & Phases:* Generalized symmetries unify spontaneous breaking, Maxwell photons, deconfined criticality, and selection rules cleanly across HEP and condensed matter.
+  - *Revolutionary New Paradigm of Symmetry:* Symmetry Topological Field Theories (SymTFTs) and non-invertible fusion categories replace Wigner's 1930s group paradigm with the true complete algebraic structure of QFT.
+- **Primary citations:** D. Gaiotto, A. Kapustin, N. Seiberg & B. Willett (2015), *JHEP*; J. McGreevy (2023), "Generalized Symmetries in Condensed Matter," *Annu. Rev. Condens. Matter Phys.*
+
+#### `QU-45` — Integrability vs. Generic Non-Integrable Chaos in QFT
+- **Category:** Gauge Theory, Strong Coupling & Non-Perturbative Physics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Exact Integrability & Bethe Ansatz` | `Integrable Anchor + Perturbative Breaking` | `Embrace Generic Non-Integrable Dynamics`
+- **Hovertip (`issue`):** Do exactly integrable models (2D Ising, sine-Gordon, planar $\mathcal{N}=4$ SYM) expose universal truth, or are integrable points measure-zero miracles that distort intuition about generic chaotic QFTs?
+- **Per-pole hovertips:**
+  - *Exact Integrability & Bethe Ansatz:* Solving planar $\mathcal{N}=4$ SYM non-perturbatively at all couplings proves exact integrability is the sharpest non-perturbative microscope in theoretical physics.
+  - *Integrable Anchor + Perturbative Breaking:* Start from exact integrable points to check non-perturbative machinery, then turn on integrability-breaking operators systematically.
+  - *Embrace Generic Non-Integrable Dynamics:* Generic 3+1D theories thermalize, scatter inelastically, and lack infinite conserved charges—methods like the conformal bootstrap and Hamiltonian truncation confront generic QFT directly.
+- **Primary citations:** N. Beisert et al. (2012), *Lett. Math. Phys.* (AdS/CFT integrability); H. Bethe (1931).
+
+#### `QU-46` — Celestial & Flat-Space Holography
+- **Category:** Gauge Theory, Strong Coupling & Non-Perturbative Physics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Soft-Theorem Kinematical Reformulation` | `Valuable Stepping Stone to Real Spacetime` | `True Holographic Dual of Our Asymptotically Flat World`
+- **Hovertip (`issue`):** Strominger's IR triangle links Weinberg soft-graviton theorems, BMS asymptotic symmetries, and gravitational memory to a 2D celestial CFT—will celestial or Carrollian holography deliver flat-space quantum gravity?
+- **Per-pole hovertips:**
+  - *Soft-Theorem Kinematical Reformulation:* Mellin-transforming amplitudes onto the celestial sphere repackages known IR soft theorems without yet producing an independent, non-perturbative UV-complete boundary dual.
+  - *Valuable Stepping Stone to Real Spacetime:* Uncovering infinite $w_{1+\infty}$ asymptotic symmetries and Carrollian boundary structures reveals essential rules any flat-space holographic dual must obey.
+  - *True Holographic Dual of Our Asymptotically Flat World:* Escaping the AdS box requires encoding real-world S-matrices on null infinity—celestial and Carrollian holography are the right bridge to real quantum gravity.
+- **Primary citations:** H. Bondi, M. G. J. van der Burg & A. W. K. Metzner (1962); A. Strominger (2018), *Lectures on the Infrared Structure of Gravity and Gauge Theory*; S. Pasterski, M. Pate & A.-M. Raclariu (2021).
+
+#### `QU-47` — Strong CP Problem & Axion vs. Anthropic/Massless-Quark Explanations
+- **Category:** Gauge Theory, Strong Coupling & Non-Perturbative Physics
+- **Geometry:** `triangle`
+- **Poles:** `Peccei–Quinn QCD Axion Solution` | `Nelson–Barr / Spontaneous CP Violation` | `Re-Examine Topological Vacuum & UV Framing`
+- **Hovertip (`issue`):** Why is the QCD vacuum angle $|\bar{\theta}| < 10^{-10}$ when the Standard Model allows it to be $O(1)$?
+- **Per-pole hovertips:**
+  - *Peccei–Quinn QCD Axion Solution:* Dynamical relaxation via the QCD axion solves the Strong CP problem cleanly while handing us one of the best-motivated dark-matter candidates in physics.
+  - *Nelson–Barr / Spontaneous CP Violation:* CP is an exact fundamental symmetry broken only spontaneously at high scale, avoiding the fragile global-symmetry "axion quality problem."
+  - *Re-Examine Topological Vacuum & UV Framing:* Careful scrutiny of infinite-volume limits, topological boundary conditions, or UV string/parity symmetries may dissolve or radically reframe the fine-tuning puzzle.
+- **Primary citations:** R. D. Peccei & H. R. Quinn (1977), *Phys. Rev. Lett.*; S. Weinberg (1978) & F. Wilczek (1978); A. E. Nelson (1984) & S. M. Barr (1984).
+
+---
+
+### Category 9: Classical Relativity, Singularities & Cosmological Tensions
+
+#### `QU-48` — Cosmic Censorship Conjecture (Weak & Strong)
+- **Category:** Classical Relativity, Singularities & Cosmological Tensions
+- **Geometry:** `trilinear-line`
+- **Poles:** `Nature Abhors Naked Singularities` | `Holds Generically in 4D, Fails in Edge Cases` | `Quantum Gravity Resolves Singularities Anyway`
+- **Hovertip (`issue`):** Does classical general relativity reliably cloak spacetime singularities behind event horizons (Penrose's cosmic censorship), or do realistic collapses expose naked singularities where predictability breaks down?
+- **Per-pole hovertips:**
+  - *Nature Abhors Naked Singularities:* Generic astrophysical collapse in 4D obeys weak cosmic censorship, protecting classical determinism outside black holes (Penrose).
+  - *Holds Generically in 4D, Fails in Edge Cases:* Fine-tuned Choptuik critical collapse, higher-dimensional Gregory–Laflamme pinch-offs, and charged Cauchy horizons show censorship is subtle and delicate.
+  - *Quantum Gravity Resolves Singularities Anyway:* Classical singularities merely mark where GR breaks down; Planck-scale physics smooths them out, making classical censorship a secondary issue.
+- **Primary citations:** R. Penrose (1969), *Riv. Nuovo Cimento*; M. W. Choptuik (1993), *Phys. Rev. Lett.*; D. Christodoulou (1999), *Ann. Math.*
+
+#### `QU-49` — Spacetime Singularities: Beginning of Time vs. Quantum Bounce
+- **Category:** Classical Relativity, Singularities & Cosmological Tensions
+- **Geometry:** `trilinear-line`
+- **Poles:** `True Quantum Boundary (No-Boundary / Tunneling)` | `Regularized Quantum Bounce` | `Emergent Pre-Geometric Phase Transition`
+- **Hovertip (`issue`):** Hawking–Penrose singularity theorems prove classical geodesics terminate in the Big Bang and black-hole cores—what actually happens at Planck curvature?
+- **Per-pole hovertips:**
+  - *True Quantum Boundary (No-Boundary / Tunneling):* Euclidean quantum gravity (Hartle–Hawking) rounds off the Big Bang smoothly into a timeless four-sphere with no "before" at all.
+  - *Regularized Quantum Bounce:* Planck-scale quantum geometry generates repulsive pressure (as in Loop Quantum Cosmology), turning gravitational collapse smoothly into expansion.
+  - *Emergent Pre-Geometric Phase Transition:* Classical spacetime melts completely at Planck density into a non-geometric string, matrix, or graph phase where "before" and "bounce" lose meaning.
+- **Primary citations:** R. Penrose (1965), *Phys. Rev. Lett.*; S. W. Hawking & R. Penrose (1970); J. B. Hartle & S. W. Hawking (1983), *Phys. Rev. D*; A. Ashtekar, T. Pawlowski & P. Singh (2006), *Phys. Rev. Lett.*
+
+#### `QU-50` — Interpreting the Hubble Tension ($H_0$)
+- **Category:** Classical Relativity, Singularities & Cosmological Tensions
+- **Geometry:** `triangle`
+- **Poles:** `Unresolved Astrophysical Systematics` | `New Early-Universe Physics (Early Dark Energy / Neutrinos)` | `Late-Time Dark Energy or Modified Gravity`
+- **Hovertip (`issue`):** Early-universe CMB measurements infer $H_0 \approx 67.4\,\text{km/s/Mpc}$ under $\Lambda$CDM, whereas local Cepheid-supernova distance ladders measure $\sim 73$—what is cracking?
+- **Per-pole hovertips:**
+  - *Unresolved Astrophysical Systematics:* Crowding, metallicity, dust calibration, and TRGB/JAGB disagreements suggest local distance-ladder systematics still need closure before overturning $\Lambda$CDM (Freedman).
+  - *New Early-Universe Physics (Early Dark Energy / Neutrinos):* Reducing the sound horizon before recombination via early dark energy or self-interacting neutrinos reconciles CMB, BAO, and local $H_0$ simultaneously.
+  - *Late-Time Dark Energy or Modified Gravity:* Evolving dark energy ($w(z) \neq -1$, as hinted by DESI BAO) or late-time gravitational transitions point to new physics in the accelerating cosmos.
+- **Primary citations:** A. G. Riess et al. (2022), *ApJL* (SH0ES); W. L. Freedman (2021), *ApJ*; V. Poulin et al. (2019), *Phys. Rev. Lett.*; DESI Collaboration (2024).
+
+#### `QU-51` — Dark Matter Theory Landscape
+- **Category:** Classical Relativity, Singularities & Cosmological Tensions
+- **Geometry:** `diamond`
+- **Poles:** `WIMPs & Thermal Dark Sectors` | `Ultralight Wave / Fuzzy Axions` | `Primordial Black Holes (PBHs)` | `Self-Interacting & Complex Dark Sectors`
+- **Hovertip (`issue`):** Within the dark-matter paradigm, which theoretical class strikes you as the most compelling physics?
+- **Per-pole hovertips:**
+  - *WIMPs & Thermal Dark Sectors:* Thermal freeze-out relics (from sub-GeV dark photons to heavy winos) remain a clean, predictive cosmological mechanism.
+  - *Ultralight Wave / Fuzzy Axions:* Wave-like bosonic fields ($10^{-22}\text{–}1\,\text{eV}$) naturally solve both Strong CP and small-scale galactic core puzzles via de Broglie pressure.
+  - *Primordial Black Holes (PBHs):* Explaining dark matter with collapsed early-universe black holes requires zero new fundamental particles beyond general relativity and inflation.
+  - *Self-Interacting & Complex Dark Sectors:* Why assume dark matter is a single boring particle when the visible sector has 17? Dark atoms, self-interactions, and asymmetric relics match galactic diversity naturally.
+- **Primary citations:** G. Bertone & T. M. P. Tait (2018), *Nature*; L. Hui et al. (2017), *Phys. Rev. D*; B. Carr & F. Kühnel (2020), *Annu. Rev. Nucl. Part. Sci.*
+
+#### `QU-52` — Beyond General Relativity: Modified Gravity Landscape
+- **Category:** Classical Relativity, Singularities & Cosmological Tensions
+- **Geometry:** `trilinear-line`
+- **Poles:** `Einstein's GR Is Uniquely Rigid` | `GR + Higher-Derivative EFT Corrections` | `Scalar-Tensor, Massive & Torsion Extensions`
+- **Hovertip (`issue`):** Lovelock's theorem makes 4D general relativity astonishingly rigid—how worthwhile is exploring $f(R)$, Horndeski scalar-tensor, massive gravity, or teleparallel alternatives?
+- **Per-pole hovertips:**
+  - *Einstein's GR Is Uniquely Rigid:* GW170817 proving $c_{\text{GW}} = c$ to $10^{-15}$ wiped out vast swathes of modified gravity; Einstein–Hilbert gravity is the unique consistent massless spin-2 theory.
+  - *GR + Higher-Derivative EFT Corrections:* Treat GR as the leading term of a diffeomorphism-invariant effective theory and search cleanly for $R^2$/Chern–Simons deviations in strong-field black-hole ringdowns.
+  - *Scalar-Tensor, Massive & Torsion Extensions:* Exploring consistent non-minimal couplings (Horndeski, dRGT massive gravity) stress-tests GR's assumptions and supplies sharp templates for cosmological surveys.
+- **Primary citations:** D. Lovelock (1971), *J. Math. Phys.*; T. Clifton et al. (2012), *Phys. Rep.*; C. de Rham (2014), *Living Rev. Relativ.*
+
+#### `QU-53` — Strong-Field Gravitational-Wave Theory & Black-Hole Spectroscopy
+- **Category:** Classical Relativity, Singularities & Cosmological Tensions
+- **Geometry:** `monopole-slider`
+- **Poles:** `Prioritizing Strong-Field Black-Hole Ringdown & No-Hair Tests`
+- **Hovertip (`issue`):** How central should precision analytical + numerical relativity modeling of inspiral–merger–ringdown waveforms and Kerr quasinormal-mode tests be to fundamental gravitational theory?
+- **Per-pole hovertips:**
+  - *Prioritizing Strong-Field Black-Hole Ringdown & No-Hair Tests:* Binary black-hole mergers are the only direct laboratory for dynamical, nonlinear, horizon-scale gravity—testing Kerr uniqueness and tidal Love numbers is the sharpest empirical probe of gravity we possess.
+- **Primary citations:** F. Pretorius (2005), *Phys. Rev. Lett.*; A. Buonanno & T. Damour (1999), *Phys. Rev. D* (EOB); E. Berti, V. Cardoso & C. M. Will (2006), *Phys. Rev. D*.
+
+## 4. Canonical Archetypes (11 Archetypes)
 
 ### 1. The String-Holographic Unifier
 - **Summary:** Pursues ultimate UV unification through string theory, dualities, AdS/CFT holography, quantum-extremal islands, and emergent entanglement geometry.
@@ -1915,8 +2841,36 @@ Theoretical physics and quantum foundations ask the deepest questions about what
 - **Summary:** Grounds theoretical physics ruthlessly in empirical falsifiability, LHC/astrophysical data, and testable models—pushing back against naturalness dogma, untestable landscapes, and beauty-driven speculation.
 - **Primary Thinkers & Literature:** P. Woit (2006), S. Hossenfelder (2018), G. F. R. Ellis & J. Silk (2014), A. Ijjas & P. J. Steinhardt (2013–2017), phenomenology community.
 - **Stance Profile:**
-  - **Anchors High:** `QU-08` (*Gravity May Remain Classical* — test experimentally!), `QU-13` (*Abandon Naturalness Bias*), `QU-14` (*Beautiful Failed Hypothesis for Nature*), `QU-16` (*EFT Is All Empirical Physics Needs*), `QU-17` (*Beauty Actively Misleads Physics*), `QU-20` (*Bouncing / Cyclic Alternatives Preferable* or *Inflation Needs Tighter Foundations*), `QU-21` (*Unscientific Surrender*), `QU-22` (*Modified Gravity Deserves Equal Shot* or data-driven open mind), `QU-28` (*Strict Popperian Falsifiability*), `QU-29` (*Close-to-Data Phenomenology*), `QU-33` (*Sharp Experimental Predictivity*), `QU-34` (*Wait for Experimental Anomalies*).
+  - **Anchors High:** `QU-08` (*Gravity May Remain Classical* — test experimentally!), `QU-13` (*Abandon Naturalness Bias*), `QU-14` (*Beautiful Failed Hypothesis for Nature*), `QU-16` (*EFT Is All Empirical Physics Needs*), `QU-17` (*Beauty Actively Misleads Physics*), `QU-20` (*Bouncing / Cyclic Alternatives Preferable* or *Inflation Needs Tighter Foundations*), `QU-21` (*Unscientific Surrender*), `QU-22` (*Modified Gravity Deserves Equal Shot* or data-driven open mind), `QU-28` (*Strict Popperian Falsifiability*), `QU-29` (*Close-to-Data Phenomenology*), `QU-33` (*Sharp Experimental Predictivity*), `QU-34` (*Wait for Experimental Anomalies*), `QU-50` (*Unresolved Astrophysical Systematics*).
   - **Anchors Low:** `QU-17` (*Deep Elegance Reliably Guides Discovery*), `QU-21` (*Inevitable Physical Landscape*), `QU-28` (*Bayesian Non-Empirical Confirmation*), `QU-29` (*Pure Formal Structure*).
+
+### 8. The On-Shell Amplitudes & Conformal Bootstrap Formalist
+- **Summary:** Bypasses redundant off-shell Lagrangians and gauge artifacts—extracting exact non-perturbative physics directly from unitarity, causality, crossing symmetry, and positive geometry.
+- **Primary Thinkers & Literature:** N. Arkani-Hamed & J. Trnka (2014), Z. Bern, D. Poland, S. Rychkov & A. Vichi (2019), A. Strominger (2018).
+- **Stance Profile:**
+  - **Anchors High:** `QU-15` (*On-Shell Amplitudes & Bootstrap First*), `QU-16` (*EFT + Swampland UV–IR Constraints*), `QU-17` (*Deep Elegance Reliably Guides Discovery*), `QU-29` (*Pure Formal Structure*), `QU-31` (*Computer Algebra & Numerical Assist* + *Solvable Toy Models*), `QU-33` (*Analytical Solvability* & *Minimal Free Parameters*), `QU-43` (*Precision Multi-Loop Perturbation Theory*), `QU-46` (*True Holographic Dual of Our Asymptotically Flat World* / *Valuable Stepping Stone*).
+  - **Anchors Low:** `QU-15` (*Local Lagrangians & Path Integrals*), `QU-34` (*Wait for Experimental Anomalies*).
+
+### 9. The Axiomatic & Algebraic QFT Mathematician
+- **Summary:** Insists on mathematically airtight foundations for quantum fields, operator algebras, and curved-spacetime QFT—trusting rigorous theorems over heuristic path integrals.
+- **Primary Thinkers & Literature:** R. Haag, R. F. Streater & A. S. Wightman (1964), J. Glimm & A. Jaffe (1987), R. M. Wald (1994, 2017).
+- **Stance Profile:**
+  - **Anchors High:** `QU-10` (*Genuine Information Loss* [Unruh–Wald wing] or cautious semiclassical rigor), `QU-28` (*Strict Popperian Falsifiability* / mathematical rigor), `QU-30` (*Axiomatic & Constructive QFT Mandate*), `QU-43` (*Non-Perturbative Anomalies & Dualities First*), `QU-44` (*Revolutionary New Paradigm of Symmetry* / operator-algebraic rigor).
+  - **Anchors Low:** `QU-30` (*Physical Path-Integral Intuition*), `QU-36` (*Circuit Complexity Drives Spacetime Growth*).
+
+### 10. The Classical & Mathematical Relativist
+- **Summary:** Anchors gravitational physics in exact Lorentzian differential geometry, global singularity/stability theorems, cosmic censorship, and strong-field gravitational-wave spacetimes.
+- **Primary Thinkers & Literature:** R. Penrose (1965, 1969, 1979), D. Christodoulou (1999), T. Damour (1999), F. Pretorius (2005), R. M. Wald.
+- **Stance Profile:**
+  - **Anchors High:** `QU-01` (*Objective Collapse (GRW/Penrose)* [Penrose wing]), `QU-11` (*Spacetime Continuum Is Fundamental*), `QU-12` (High *Background Independence*), `QU-19` (*Past Hypothesis* / Weyl curvature hypothesis), `QU-48` (*Nature Abhors Naked Singularities* / *Holds Generically in 4D*), `QU-52` (*Einstein's GR Is Uniquely Rigid*), `QU-53` (High *Strong-Field Black-Hole Ringdown & No-Hair Tests*).
+  - **Anchors Low:** `QU-11` (*Spacetime Emerges from Entanglement*), `QU-21` (*Inevitable Physical Landscape*).
+
+### 11. The Quantum-Thermodynamics & Many-Body Chaos Theorist
+- **Summary:** Probes how unitary quantum mechanics gives rise to thermalization, scrambling, localization, and thermodynamic arrows—uniting condensed-matter dynamics, quantum information, and black-hole chaos.
+- **Primary Thinkers & Literature:** M. Srednicki (1994), D. M. Basko et al. (2006), S. Popescu et al. (2006), J. Maldacena, S. H. Shenker & D. Stanford (2016), L. Hardy (2001).
+- **Stance Profile:**
+  - **Anchors High:** `QU-18` (*Emergent Thermodynamic Time*), `QU-24` (*Multi-Scale Co-Equal Autonomy*), `QU-25` (*Matter and Information Are Dual* / *Quantum Information Is Ultimate Substrate*), `QU-31` (*Solvable Toy Models* like SYK + *Computer Algebra & Numerical Assist*), `QU-37` (*Prethermal & Scarred Exceptions* / *True Stable Non-Ergodic MBL Phases*), `QU-38` (*Operational Information Axioms Explain "Why QM?"*), `QU-40` (High on both *Resource-Theoretic* and *Fluctuation Theorems*), `QU-41` (High *Chaos Bounds & OTOCs*), `QU-45` (*Embrace Generic Non-Integrable Dynamics*).
+  - **Anchors Low:** `QU-24` (*Arrows of Explanation Point Down*), `QU-45` (*Exact Integrability* exclusively).
 
 ---
 
@@ -1940,8 +2894,11 @@ Computational physics and scientific simulation treat the digital computer as a 
 4. **Machine Learning, Surrogates & Differentiable Simulation** — MLIPs & neural operators, PINNs debate, differentiable physics, hard vs. soft physical constraints, and foundation models.
 5. **Verification, Validation & Uncertainty Quantification (V&V/UQ)** — Manufactured solutions, meaning of validation, UQ depth, bitwise vs. statistical reproducibility, and blind intercomparisons.
 6. **HPC Architecture, Software Craft & Culture** — Language stacks, algorithms vs. hardware, flagship codes vs. bespoke scripts, open source, RSE credit, and green HPC.
+7. **Linear Algebra, Solvers & Fast Algorithms** — Direct vs. iterative Krylov solvers, algebraic vs. geometric multigrid, FMM vs. FFT, randomized linear algebra, and domain decomposition.
+8. **Stochastic, Kinetic & Astrophysical/Plasma Simulation** — Eulerian vs. SPH vs. moving-mesh hydro, PIC vs. continuum Vlasov kinetics, kinetic Monte Carlo, MCMC/HMC sampling, and radiation transport.
+9. **Data Assimilation, Digital Twins & Reduced-Order Modeling** — 4D-Var vs. Ensemble Kalman Filters, digital-twin realism vs. hype, POD/Galerkin vs. latent autoencoders, multifidelity UQ, and live experimental coupling.
 
-## 3. Topics (34 Topics)
+## 3. Topics (52 Topics)
 
 ### Category 1: Epistemology of the Virtual Laboratory
 
@@ -2338,7 +3295,215 @@ Computational physics and scientific simulation treat the digital computer as a 
   - *Minimal Toy Code Capturing Essence:* A crystal-clear 100-line script that lays bare a profound physical phase transition or instability.
 - **Primary citations:** R. W. Hamming (1962); E. Hairer et al. (2006); practitioner computational-physics aesthetics.
 
-## 4. Canonical Archetypes (7 Archetypes)
+---
+
+### Category 7: Linear Algebra, Solvers & Fast Algorithms
+
+#### `SI-35` — Direct Sparse Factorizations vs. Iterative Krylov Solvers
+- **Category:** Linear Algebra, Solvers & Fast Algorithms
+- **Geometry:** `trilinear-line`
+- **Poles:** `Bulletproof Direct Sparse LU/Cholesky` | `Preconditioned Hybrid Solvers` | `Matrix-Free Iterative Krylov Methods`
+- **Hovertip (`issue`):** When solving giant sparse linear systems $Ax=b$, should you rely on rock-solid direct sparse factorizations (MUMPS/SuperLU) or scale to billions of unknowns with preconditioned CG/GMRES?
+- **Per-pole hovertips:**
+  - *Bulletproof Direct Sparse LU/Cholesky:* Direct solvers never stall on ill-conditioned multiphysics matrices and amortize cleanly across hundreds of right-hand sides.
+  - *Preconditioned Hybrid Solvers:* Use sparse direct factorizations on local subdomains or coarse grids to build unstoppable preconditioners for outer Krylov iterations.
+  - *Matrix-Free Iterative Krylov Methods:* In 3D exascale problems, storing a factored matrix blows memory instantly—only matrix-free operator evaluations scale to $10^{10}$ degrees of freedom.
+- **Primary citations:** Y. Saad (2003), *Iterative Methods for Sparse Linear Systems* (2nd ed.); T. A. Davis (2006), *Direct Methods for Sparse Linear Systems*.
+
+#### `SI-36` — Geometric Multigrid vs. Algebraic Multigrid (AMG)
+- **Category:** Linear Algebra, Solvers & Fast Algorithms
+- **Geometry:** `trilinear-line`
+- **Poles:** `Hand-Crafted Geometric Multigrid (GMG)` | `Semi-Algebraic Hybrid Coarsening` | `Black-Box Algebraic Multigrid (AMG)`
+- **Hovertip (`issue`):** Achieving textbook $O(N)$ elliptic solves requires multigrid hierarchies—should you exploit the physical mesh explicitly or construct coarse levels purely from matrix entries?
+- **Per-pole hovertips:**
+  - *Hand-Crafted Geometric Multigrid (GMG):* Matrix-free geometric hierarchies hit staggering memory-bandwidth speedups and minimal setup cost on structured or nested domains (Brandt).
+  - *Semi-Algebraic Hybrid Coarsening:* Combine geometric $p$- or $h$-coarsening on fine levels with algebraic multigrid at the unstructured coarse bottom.
+  - *Black-Box Algebraic Multigrid (AMG):* Real engineering geometries have brutal anisotropy, jumps in conductivity, and unstructured CAD meshes that only AMG coarsens reliably without manual intervention.
+- **Primary citations:** A. Brandt (1977), *Math. Comput.*; U. Trottenberg, C. W. Oosterlee & A. Schüller (2001), *Multigrid*; J. Xu & L. Zikatanov (2017), *Acta Numer.*
+
+#### `SI-37` — Fast Multipole & Hierarchical $\mathcal{H}$-Matrices vs. FFT / Particle-Mesh
+- **Category:** Linear Algebra, Solvers & Fast Algorithms
+- **Geometry:** `trilinear-line`
+- **Poles:** `FFT & Particle-Mesh Ewald (PME)` | `Tree-Code & Hybrid Particle-Mesh` | `Fast Multipole (FMM) & ℋ-Matrices`
+- **Hovertip (`issue`):** For long-range $1/r$ Coulomb, gravitational, and Stokes interactions, which fast-summation paradigm wins?
+- **Per-pole hovertips:**
+  - *FFT & Particle-Mesh Ewald (PME):* Periodic molecular dynamics and spectral fluid boxes run blazingly fast with mature, GPU-tuned 3D FFTs—until global all-to-all MPI transposes choke scaling.
+  - *Tree-Code & Hybrid Particle-Mesh:* Barnes–Hut trees and TreePM combine rapid periodic mesh grids at large scales with adaptive local multipoles inside dense clusters.
+  - *Fast Multipole (FMM) & ℋ-Matrices:* True $O(N)$ complexity, natural handling of non-periodic clustered distributions, and low-communication local tree traversals outscale FFTs at extreme core counts.
+- **Primary citations:** L. Greengard & V. Rokhlin (1987), *J. Comput. Phys.*; J. Barnes & P. Hut (1986), *Nature*; T. Darden, D. York & L. Pedersen (1993), *J. Chem. Phys.* (PME); W. Hackbusch (2015), *Hierarchical Matrices*.
+
+#### `SI-38` — Randomized Numerical Linear Algebra vs. Classical Deterministic Decompositions
+- **Category:** Linear Algebra, Solvers & Fast Algorithms
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classical Deterministic SVD / QR Only` | `Randomized Sketch + Deterministic Check` | `Randomized Linear Algebra First`
+- **Hovertip (`issue`):** Should scientific computing replace classic deterministic decompositions with randomized sketching (randomized SVD, Hutchinson trace estimators, stochastic Lanczos) that slash memory traffic?
+- **Per-pole hovertips:**
+  - *Classical Deterministic SVD / QR Only:* Deterministic Golub–Kahan/Householder algorithms give rock-solid backward stability without any probabilistic failure tail.
+  - *Randomized Sketch + Deterministic Check:* Use random projections to find the dominant low-rank subspace in two passes, then verify residuals deterministically.
+  - *Randomized Linear Algebra First:* With provable exponential failure bounds ($<10^{-16}$), randomized algorithms make massive matrix factorizations, kernel solves, and UQ operators dramatically faster and more cache-friendly.
+- **Primary citations:** N. Halko, P.-G. Martinsson & J. A. Tropp (2011), "Finding Structure with Randomness," *SIAM Rev.*; P.-G. Martinsson & J. A. Tropp (2020), *Acta Numer.*
+
+#### `SI-39` — Synchronous Parallelism vs. Communication-Avoiding & Asynchronous Solvers
+- **Category:** Linear Algebra, Solvers & Fast Algorithms
+- **Geometry:** `trilinear-line`
+- **Poles:** `Clean Synchronous Bulk-Parallel MPI` | `Overlap Compute & Non-Blocking Comms` | `Task-Based & Asynchronous Execution`
+- **Hovertip (`issue`):** As global synchronization barriers increasingly dominate exascale runtime, should codes remain cleanly synchronous or adopt asynchronous task graphs and relaxed synchronization?
+- **Per-pole hovertips:**
+  - *Clean Synchronous Bulk-Parallel MPI:* Bulk-synchronous halo exchanges stay easy to debug, verify, and keep bit-reproducible across thousands of ranks.
+  - *Overlap Compute & Non-Blocking Comms:* Hide MPI latency behind interior stencil work using non-blocking communications while keeping mathematical equivalence intact.
+  - *Task-Based & Asynchronous Execution:* Dynamic task runtimes (Charm++, Legion, HPX) and communication-avoiding Krylov solvers break global barrier walls on heterogeneous exascale clusters.
+- **Primary citations:** J. Demmel et al. (2012), "Communication-Optimal Parallel and Sequential QR and LU Factorizations," *SIAM J. Sci. Comput.*; L. V. Kale & S. Krishnan (1993) (Charm++).
+
+#### `SI-40` — Automatic Code Generation & DSLs vs. Hand-Tuned Kernels
+- **Category:** Linear Algebra, Solvers & Fast Algorithms
+- **Geometry:** `trilinear-line`
+- **Poles:** `Hand-Tuned Architecture-Specific Kernels` | `Performance-Portable Abstractions (Kokkos/SYCL)` | `High-Level Symbolic DSLs (Firedrake/FEniCS)`
+- **Hovertip (`issue`):** Facing rapid churn across NVIDIA, AMD, and Intel GPU architectures, how should computational scientists maintain performance without rewriting physics every five years?
+- **Per-pole hovertips:**
+  - *Hand-Tuned Architecture-Specific Kernels:* Squeezing the final 2× out of shared memory, warp shuffles, and tensor cores still demands bespoke CUDA/HIP craftsmanship.
+  - *Performance-Portable Abstractions (Kokkos/SYCL):* Write one clean C++ parallel loop abstraction that compiles cleanly across CPUs and every vendor's GPU without lock-in.
+  - *High-Level Symbolic DSLs (Firedrake/FEniCS):* Express PDEs directly in high-level mathematical weak forms and let compiler pipelines auto-generate optimal vectorized C/GPU kernels automatically.
+- **Primary citations:** H. C. Edwards, C. R. Trott & D. Sunderland (2014), *J. Parallel Distrib. Comput.* (Kokkos); M. S. Alnæs et al. (2015), *Arch. Numer. Softw.* (FEniCS); F. Rathgeber et al. (2016) (Firedrake).
+
+---
+
+### Category 8: Stochastic, Kinetic & Astrophysical/Plasma Simulation
+
+#### `SI-41` — Hydrodynamics Paradigm: Eulerian Grid vs. Lagrangian SPH vs. Moving Mesh
+- **Category:** Stochastic, Kinetic & Astrophysical/Plasma Simulation
+- **Geometry:** `triangle`
+- **Poles:** `Eulerian Fixed/AMR Grids` | `Lagrangian Smoothed Particle Hydrodynamics` | `Arbitrary Lagrangian–Eulerian Moving Voronoi Mesh`
+- **Hovertip (`issue`):** In astrophysics, fluid dynamics, and violent free-surface flows, which hydrodynamics formulation handles shocks, shear instabilities, and Galilean invariance best?
+- **Per-pole hovertips:**
+  - *Eulerian Fixed/AMR Grids:* Godunov finite-volume grids capture Kelvin–Helmholtz shear instabilities and strong shocks sharply without particle noise.
+  - *Lagrangian Smoothed Particle Hydrodynamics:* Particles automatically follow collapsing gas, conserve angular momentum cleanly, and respect exact Galilean invariance with zero advection error.
+  - *Arbitrary Lagrangian–Eulerian Moving Voronoi Mesh:* Moving-mesh codes (AREPO) combine Lagrangian flow tracking with crisp Riemann-solver shock accuracy—getting the best of both worlds.
+- **Primary citations:** L. B. Lucy (1977) & R. A. Gingold & J. J. Monaghan (1977) (SPH); V. Springel (2010), *MNRAS* (AREPO); J. M. Stone et al. (2008), *ApJS* (Athena).
+
+#### `SI-42` — Kinetic Plasma Simulation: Particle-in-Cell (PIC) vs. Continuum Vlasov
+- **Category:** Stochastic, Kinetic & Astrophysical/Plasma Simulation
+- **Geometry:** `trilinear-line`
+- **Poles:** `Macroparticle PIC & Hybrid PIC` | `Sparse-Grid & Low-Rank Vlasov` | `Noise-Free Continuum Vlasov–Fokker–Planck`
+- **Hovertip (`issue`):** For collisionless 6D phase-space plasmas (fusion edge, magnetic reconnection, cosmic shocks), do you accept PIC shot noise or pay the 6D mesh cost of Eulerian Vlasov solvers?
+- **Per-pole hovertips:**
+  - *Macroparticle PIC & Hybrid PIC:* Tracking macroparticles through electromagnetic grids conquers the 6D curse of dimensionality effortlessly and runs at blazing speed on GPUs.
+  - *Sparse-Grid & Low-Rank Vlasov:* Dynamical low-rank tensor decompositions compress 6D phase space cleanly while avoiding Monte Carlo counting noise.
+  - *Noise-Free Continuum Vlasov–Fokker–Planck:* Subtle high-energy tails, Landau damping, and fine phase-space filaments drown in PIC macroparticle shot noise—only continuum Vlasov resolves them cleanly.
+- **Primary citations:** C. K. Birdsall & A. B. Langdon (1985), *Plasma Physics via Computer Simulation*; A. Spitkovsky (2008), *ApJL*; E. Sonnendrücker et al. (1999), *J. Comput. Phys.*
+
+#### `SI-43` — Atomistic Evolution Beyond Nanoseconds: Kinetic Monte Carlo vs. Accelerated MD
+- **Category:** Stochastic, Kinetic & Astrophysical/Plasma Simulation
+- **Geometry:** `trilinear-line`
+- **Poles:** `Accelerated / Temperature-Driven MD` | `On-the-Fly Adaptive KMC` | `Cataloged Lattice Kinetic Monte Carlo`
+- **Hovertip (`issue`):** When simulating crystal growth, catalysis, and radiation damage over seconds to years, how do you bridge the atomic vibrational timescale gap?
+- **Per-pole hovertips:**
+  - *Accelerated / Temperature-Driven MD:* Hyperdynamics and parallel-replica dynamics preserve exact continuous atomic trajectories and discover unanticipated collective mechanisms automatically (Voter).
+  - *On-the-Fly Adaptive KMC:* Use saddle-point searches (dimer/NEB) dynamically at each visited basin so KMC never relies on a human-guessed event catalog.
+  - *Cataloged Lattice Kinetic Monte Carlo:* Precomputed event rates let lattice KMC leap across hours and macroscopic film thicknesses with ease.
+- **Primary citations:** A. B. Bortz, M. H. Kalos & J. L. Lebowitz (1975), *J. Comput. Phys.*; A. F. Voter (1997, 2002), *Annu. Rev. Mater. Res.*
+
+#### `SI-44` — High-Dimensional Sampling: Hamiltonian MCMC vs. Sequential & Nested Sampling
+- **Category:** Stochastic, Kinetic & Astrophysical/Plasma Simulation
+- **Geometry:** `triangle`
+- **Poles:** `Gradient-Based Hamiltonian MC (HMC/NUTS)` | `Tempering & Sequential Monte Carlo (SMC)` | `Nested Sampling for Multimodal Evidence`
+- **Hovertip (`issue`):** When sampling nasty, multimodal, high-dimensional physical distributions or posteriors, which stochastic engine do you trust?
+- **Per-pole hovertips:**
+  - *Gradient-Based Hamiltonian MC (HMC/NUTS):* Leveraging gradients via symplectic leapfrog trajectories suppresses random-walk diffusion and scales cleanly to thousands of continuous dimensions.
+  - *Tempering & Sequential Monte Carlo (SMC):* Parallel tempering and adaptive particle resampling cross deep energy barriers and parallelize embarrassingly across cluster nodes.
+  - *Nested Sampling for Multimodal Evidence:* Compressing nested prior-volume shells directly computes partition functions and Bayesian evidences while handling phase transitions and multiple modes cleanly (Skilling).
+- **Primary citations:** S. Duane et al. (1987), *Phys. Lett. B* (HMC); M. D. Hoffman & A. Gelman (2014), *JMLR* (NUTS); J. Skilling (2006), *Bayesian Anal.* (Nested Sampling).
+
+#### `SI-45` — Radiation & Neutrino Transport: Monte Carlo vs. Deterministic Moment Closures
+- **Category:** Stochastic, Kinetic & Astrophysical/Plasma Simulation
+- **Geometry:** `trilinear-line`
+- **Poles:** `Stochastic Monte Carlo Transport` | `Hybrid Implicit MC / Discrete Ordinates` | `Deterministic Moment Closures (M1 / FLD)`
+- **Hovertip (`issue`):** Solving the 7D radiative-transfer equation in supernovae, fusion hohlraums, and reactors is notoriously brutal—where do you compromise?
+- **Per-pole hovertips:**
+  - *Stochastic Monte Carlo Transport:* Handles complex 3D geometry, frequency redistribution, and polarization cleanly without artificial beam-crossing artifacts.
+  - *Hybrid Implicit MC / Discrete Ordinates:* Discrete ordinates ($S_N$) and implicit Monte Carlo deliver controllable angular resolution without ray effects or severe statistical noise.
+  - *Deterministic Moment Closures (M1 / FLD):* Evolving angular moments (energy density and flux) stays smooth, noise-free, and fast enough to couple tightly with 3D MHD and nuclear burning.
+- **Primary citations:** J. A. Fleck Jr. & J. D. Cummings (1971), *J. Comput. Phys.* (IMC); C. D. Levermore (1984), *JQSRT* (M1 closure); D. Mihalas & B. W. Mihalas (1984), *Foundations of Radiation Hydrodynamics*.
+
+#### `SI-46` — Free-Energy Calculation Strategy in Molecular Simulation
+- **Category:** Stochastic, Kinetic & Astrophysical/Plasma Simulation
+- **Geometry:** `triangle`
+- **Poles:** `Alchemical Perturbation & Thermodynamic Integration` | `Collective-Variable PMF & Metadynamics` | `Non-Equilibrium Jarzynski / Crooks Pulling`
+- **Hovertip (`issue`):** Computing binding affinities and phase-boundary free energies to within $1\,\text{kcal/mol}$ is a cornerstone of computational chemistry and biophysics—which pathway wins?
+- **Per-pole hovertips:**
+  - *Alchemical Perturbation & Thermodynamic Integration:* Mutating ligands cleanly through non-physical thermodynamic cycles yields the gold-standard relative binding free energies used in drug discovery.
+  - *Collective-Variable PMF & Metadynamics:* Sampling physical association/dissociation coordinates directly reveals transition barriers and intermediate states that alchemical shortcuts hide.
+  - *Non-Equilibrium Jarzynski / Crooks Pulling:* Fast steered trajectories combined via Crooks's bidirectional estimator parallelize massively and avoid slow equilibrium trapping.
+- **Primary citations:** R. W. Zwanzig (1954), *J. Chem. Phys.*; D. Frenkel & B. Smit (2002), *Understanding Molecular Simulation*; G. E. Crooks (1999), *Phys. Rev. E*.
+
+---
+
+### Category 9: Data Assimilation, Digital Twins & Reduced-Order Modeling
+
+#### `SI-47` — Data Assimilation Paradigm: Variational 4D-Var vs. Ensemble Kalman Filters
+- **Category:** Data Assimilation, Digital Twins & Reduced-Order Modeling
+- **Geometry:** `trilinear-line`
+- **Poles:** `Adjoint Variational 4D-Var` | `Hybrid Ensemble-Variational (4DEnVar)` | `Ensemble Kalman & Particle Filters (EnKF)`
+- **Hovertip (`issue`):** To fuse live noisy sensor observations continuously into nonlinear weather, ocean, or fusion simulations, do you derive exact adjoints or propagate forecast ensembles?
+- **Per-pole hovertips:**
+  - *Adjoint Variational 4D-Var:* Exact tangent-linear and adjoint gradients find dynamically consistent trajectories across an entire assimilation window cleanly (ECMWF gold standard).
+  - *Hybrid Ensemble-Variational (4DEnVar):* Inject flow-dependent ensemble error covariances directly into variational minimization—uniting both traditions' strengths.
+  - *Ensemble Kalman & Particle Filters (EnKF):* Zero painful adjoint code maintenance, native flow-dependent uncertainty estimation, and trivial parallelization across ensemble members (Evensen).
+- **Primary citations:** G. Evensen (1994), *J. Geophys. Res.* (EnKF); E. Kalnay (2003), *Atmospheric Modeling, Data Assimilation and Predictability*; K. Law, A. Stuart & K. Zygalakis (2015), *Data Assimilation*.
+
+#### `SI-48` — Physics-Based "Digital Twins": Genuine Paradigm or Buzzword Hype?
+- **Category:** Data Assimilation, Digital Twins & Reduced-Order Modeling
+- **Geometry:** `trilinear-line`
+- **Poles:** `Rebranded Old Simulation Buzzword` | `Valuable When Closed-Loop & UQ-Calibrated` | `Transformative Live Bidirectional Cyber-Physical Paradigm`
+- **Hovertip (`issue`):** Every aerospace, fusion, climate, and medical grant now promises a "digital twin"—does the concept add real scientific substance beyond standard simulation?
+- **Per-pole hovertips:**
+  - *Rebranded Old Simulation Buzzword:* Calling an offline FEM mesh a "digital twin" is grant-writing theater unless it updates continuously from live asset telemetry.
+  - *Valuable When Closed-Loop & UQ-Calibrated:* A genuine digital twin requires bidirectional sensor assimilation, quantified uncertainty, and verified predictive decision control—otherwise call it a model (Willcox).
+  - *Transformative Live Bidirectional Cyber-Physical Paradigm:* Continuously assimilating live telemetry into personalized, real-time reduced-order physics models revolutionizes predictive maintenance, personalized medicine, and Earth forecasting.
+- **Primary citations:** National Academies (2023), *Foundational Research Gaps and Future Directions for Digital Twins* (chaired by K. Willcox); M. Grieves (2014).
+
+#### `SI-49` — Reduced-Order Modeling (ROM): Linear POD/Galerkin vs. Nonlinear Neural Manifolds
+- **Category:** Data Assimilation, Digital Twins & Reduced-Order Modeling
+- **Geometry:** `trilinear-line`
+- **Poles:** `Intrusive Projection POD & Reduced Basis` | `Operator Inference & Physics-Preserving ROM` | `Nonlinear Autoencoder Latent Dynamics`
+- **Hovertip (`issue`):** How should simulators compress million-variable PDE fields into millisecond-fast reduced models for real-time control and design sweeps?
+- **Per-pole hovertips:**
+  - *Intrusive Projection POD & Reduced Basis:* Projecting the governing PDE onto proper orthogonal modes preserves stability, conservation structure, and rigorous *a posteriori* error bounds.
+  - *Operator Inference & Physics-Preserving ROM:* Non-intrusively learn low-dimensional polynomial operators directly from simulation snapshots while enforcing known energy-preserving structure (Peherstorfer & Willcox).
+  - *Nonlinear Autoencoder Latent Dynamics:* Transport-dominated shocks and moving fronts defeat linear Kolmogorov $n$-widths—nonlinear convolutional/graph autoencoders compress them cleanly.
+- **Primary citations:** P. Benner, S. Gugercin & K. Willcox (2015), *SIAM Rev.*; B. Peherstorfer & K. Willcox (2016), *Comput. Methods Appl. Mech. Eng.*; K. Lee & K. T. Carlberg (2020), *J. Comput. Phys.*
+
+#### `SI-50` — Multifidelity Uncertainty Quantification & Control Variates
+- **Category:** Data Assimilation, Digital Twins & Reduced-Order Modeling
+- **Geometry:** `monopole-slider`
+- **Poles:** `Exploiting Cheap Low-Fidelity Models to Accelerate High-Fidelity UQ`
+- **Hovertip (`issue`):** How strongly should computational scientists replace brute-force high-fidelity Monte Carlo with multilevel/multifidelity estimators that pair a few expensive runs with thousands of cheap surrogate runs?
+- **Per-pole hovertips:**
+  - *Exploiting Cheap Low-Fidelity Models to Accelerate High-Fidelity UQ:* Multilevel Monte Carlo (Giles) and multifidelity control variates deliver provably unbiased high-fidelity expectations at orders-of-magnitude lower computational cost.
+- **Primary citations:** M. B. Giles (2008), *Oper. Res.* (MLMC); B. Peherstorfer, K. Willcox & M. Gunzburger (2018), "Survey of Multifidelity Methods in Uncertainty Propagation, Inference, and Optimization," *SIAM Rev.*
+
+#### `SI-51` — Real-Time Coupling of Experiments & HPC Steering
+- **Category:** Data Assimilation, Digital Twins & Reduced-Order Modeling
+- **Geometry:** `trilinear-line`
+- **Poles:** `Decoupled Offline Post-Run Simulation` | `Fast-Turnaround Between-Shot Guidance` | `Live Closed-Loop Edge-to-HPC Steering`
+- **Hovertip (`issue`):** Should supercomputers analyze experimental data leisurely offline after beamtime ends, or stream live detector/tokamak/XFEL feeds into real-time HPC loops that steer the next shot?
+- **Per-pole hovertips:**
+  - *Decoupled Offline Post-Run Simulation:* Offline analysis prevents hasty real-time miscalibrations and gives physicists quiet time to test competing models carefully.
+  - *Fast-Turnaround Between-Shot Guidance:* Running automated reconstruction and forward simulation in the minutes between tokamak discharges or beamline scans maximizes expensive facility productivity.
+  - *Live Closed-Loop Edge-to-HPC Steering:* Millisecond neural/ROM surrogates directly steering plasma magnetic fields or synchrotron sample stages unlock dynamic regimes humans can never control manually (Degrave et al.).
+- **Primary citations:** J. Degrave et al. (2022), "Magnetic Control of Tokamak Plasmas Through Deep Reinforcement Learning," *Nature*; DOE Integrated Research Infrastructure (IRI) paradigm.
+
+#### `SI-52` — Scientific Data Formats, Provenance & Archival Longevity
+- **Category:** Data Assimilation, Digital Twins & Reduced-Order Modeling
+- **Geometry:** `trilinear-line`
+- **Poles:** `Lightweight Custom Binary / Flat Files` | `Self-Describing Standard Formats (HDF5/Zarr/NetCDF)` | `Full FAIR Provenance & Cloud-Native Analysis-Ready Data`
+- **Hovertip (`issue`):** When a single simulation dumps petabytes of checkpoints, how strictly should teams enforce standardized, self-describing, cloud-queryable archival pipelines?
+- **Per-pole hovertips:**
+  - *Lightweight Custom Binary / Flat Files:* Raw flat binaries maximize raw parallel I/O throughput without fighting bloated library dependencies.
+  - *Self-Describing Standard Formats (HDF5/Zarr/NetCDF):* Embedded units, coordinates, and metadata ensure a colleague—or your future self five years later—can actually read the output without guessing endianness.
+  - *Full FAIR Provenance & Cloud-Native Analysis-Ready Data:* Chunked cloud-native Zarr archives tagged with code hashes and parameter provenance turn hero simulations into living community observatories (Pangeo/CMIP ethos).
+- **Primary citations:** M. D. Wilkinson et al. (2016), *Sci. Data* (FAIR); R. P. Abernathey et al. (2021), *Comput. Sci. Eng.* (Cloud-native Pangeo/Zarr).
+
+## 4. Canonical Archetypes (11 Archetypes)
 
 ### 1. The Structure-Preserving Numerical Analyst
 - **Summary:** Guards the mathematical soul of simulation—demanding exact discrete conservation, symplectic geometry, rigorous convergence theorems, and clean discretization.
@@ -2386,8 +3551,36 @@ Computational physics and scientific simulation treat the digital computer as a 
 - **Summary:** Champions readable, reproducible, openly developed scientific software, modern languages, fair RSE career credit, and mindful compute stewardship.
 - **Primary Thinkers & Literature:** G. Wilson et al. (2014), D. C. Ince et al. (2012), V. Stodden et al. (2016), D. S. Katz et al. (2016), J. Bezanson et al. (2017).
 - **Stance Profile:**
-  - **Anchors High:** `SI-22` (*Unit Tests & Mesh Convergence*), `SI-25` (*Seeded Same-Stack Reproducibility* / *Strict Bitwise & Containerized Replay*), `SI-27` (*Julia Unified Language* / *Rust* / *Python*), `SI-29` (*Production Software Engineering*), `SI-30` (*Public Open-Development from Day One*), `SI-31` (*Software as First-Class Academic Output* & *Embed Career RSEs*), `SI-33` (*Strict Compute Carbon Budgeting* / *Pragmatic FLOPs-per-Watt*).
-  - **Anchors Low:** `SI-30` (*Proprietary / On-Request Binaries OK*), `SI-31` (*Every Physicist Must Code Everything*).
+  - **Anchors High:** `SI-22` (*Unit Tests & Mesh Convergence*), `SI-25` (*Seeded Same-Stack Reproducibility* / *Strict Bitwise & Containerized Replay*), `SI-27` (*Julia Unified Language* / *Rust* / *Python*), `SI-29` (*Production Software Engineering*), `SI-30` (*Public Open-Development from Day One*), `SI-31` (*Software as First-Class Academic Output* & *Embed Career RSEs*), `SI-33` (*Strict Compute Carbon Budgeting* / *Pragmatic FLOPs-per-Watt*), `SI-40` (*High-Level Symbolic DSLs* / *Performance-Portable Abstractions*), `SI-52` (*Full FAIR Provenance & Cloud-Native Analysis-Ready Data*).
+  - **Anchors Low:** `SI-30` (*Proprietary / On-Request Binaries OK*), `SI-31` (*Every Physicist Must Code Everything*), `SI-52` (*Lightweight Custom Binary*).
+
+### 8. The Fast-Algorithm & Numerical Linear Algebra Maestro
+- **Summary:** Conquers computational walls with optimal $O(N)$ asymptotics—wielding Fast Multipole trees, algebraic/geometric multigrid, randomized sketching, and preconditioned Krylov solvers.
+- **Primary Thinkers & Literature:** L. Greengard & V. Rokhlin (1987), A. Brandt (1977), Y. Saad (2003), J. Demmel (2012), P.-G. Martinsson & J. A. Tropp (2020).
+- **Stance Profile:**
+  - **Anchors High:** `SI-15` (*Fully Implicit Newton–Krylov*), `SI-28` (*Algorithms Beat Hardware Every Time* / *Algorithm–Hardware Co-Design*), `SI-35` (*Matrix-Free Iterative Krylov Methods* & *Preconditioned Hybrid Solvers*), `SI-36` (*Hand-Crafted Geometric Multigrid* or *Black-Box Algebraic Multigrid*), `SI-37` (*Fast Multipole (FMM) & ℋ-Matrices*), `SI-38` (*Randomized Sketch + Deterministic Check* / *Randomized Linear Algebra First*), `SI-39` (*Task-Based & Asynchronous Execution*), `SI-50` (High *Multifidelity UQ*).
+  - **Anchors Low:** `SI-28` (*Ride the Exascale GPU Wave* with naive $O(N^2)$ loops), `SI-35` (*Bulletproof Direct Sparse LU* at 3D exascale).
+
+### 9. The Astrophysical & Plasma Kinetic Simulator
+- **Summary:** Builds nonlinear multiphysics virtual universes—uniting moving-mesh/AMR magnetohydrodynamics, particle-in-cell kinetics, and radiation transport to witness cosmic and fusion engines come alive.
+- **Primary Thinkers & Literature:** V. Springel (2010), J. M. Stone (2008), C. K. Birdsall & A. B. Langdon (1985), A. Spitkovsky (2008), C. S. Frenk et al. (1999).
+- **Stance Profile:**
+  - **Anchors High:** `SI-06` (*Continuum PDE Field Solvers* & *Deterministic Particle*), `SI-12` (*Conservative Finite Volumes*), `SI-14` (*Dynamic Adaptive Mesh Refinement*), `SI-26` (High *Mandatory Multi-Code Benchmark Intercomparisons*), `SI-32` (*Rich Field Visualization Catches Bugs First*), `SI-34` (*Breathtaking Emergent Realism*), `SI-37` (*Tree-Code & Hybrid Particle-Mesh*), `SI-41` (*Arbitrary Lagrangian–Eulerian Moving Voronoi Mesh* or *Eulerian Fixed/AMR Grids*), `SI-42` (*Macroparticle PIC & Hybrid PIC*), `SI-45` (*Deterministic Moment Closures* or *Stochastic Monte Carlo Transport*).
+  - **Anchors Low:** `SI-22` (*Method of Manufactured Solutions* as sole focus over multiphysics shock/code tests), `SI-32` (*Quantitative Norms Only*).
+
+### 10. The Data-Assimilation & Earth-System Forecaster
+- **Summary:** Fuses live planetary observations continuously with probabilistic physical ensembles and reduced-order twins to quantify forecast skill and extreme-event risk.
+- **Primary Thinkers & Literature:** E. Kalnay (2003), G. Evensen (1994), T. N. Palmer (2019), K. Willcox (2015, 2023), A. M. Stuart (2015).
+- **Stance Profile:**
+  - **Anchors High:** `SI-02` (*Hierarchical Model Ladder*), `SI-03` (*Transparent Documented Calibration*), `SI-11` (*Massive Lower-Res Probabilistic Ensembles*), `SI-24` (*Full Bayesian & Model-Discrepancy UQ*), `SI-26` (High *Multi-Code Benchmark Intercomparisons* — CMIP ethos), `SI-47` (*Hybrid Ensemble-Variational* / *Ensemble Kalman Filters*), `SI-48` (*Valuable When Closed-Loop & UQ-Calibrated*), `SI-49` (*Operator Inference & Physics-Preserving ROM*), `SI-50` (High *Multifidelity UQ*), `SI-51` (*Live Closed-Loop Edge-to-HPC Steering*), `SI-52` (*Full FAIR Provenance & Cloud-Native Analysis-Ready Data*).
+  - **Anchors Low:** `SI-11` (*One Ultra-High-Resolution Hero Run*), `SI-24` (*Deterministic Best-Estimate Point Runs*).
+
+### 11. The Molecular-Dynamics & Free-Energy Mechanist
+- **Summary:** Bridges femtosecond atomic forces to millisecond biomolecular and materials transitions using enhanced sampling, alchemical free-energy cycles, kinetic Monte Carlo, and statistical mechanics.
+- **Primary Thinkers & Literature:** M. Parrinello (1985, 2002), D. Frenkel & B. Smit (2002), A. F. Voter (2002), D. E. Shaw (2008), P. G. Bolhuis (2002).
+- **Stance Profile:**
+  - **Anchors High:** `SI-04` (*Concurrent Handshaking (QM/MM)* & *Sequential Parameter Passing*), `SI-06` (*Deterministic Particle & Molecular Dynamics* & *Stochastic Monte Carlo*), `SI-07` (*Bottom-Up Systematic Coarse-Graining*), `SI-09` (*Enhanced Biasing (Metadynamics / Umbrella)* & *Path Sampling & Markov State Models*), `SI-13` (High *Symplectic Integrators*), `SI-17` (*Hybrid ML-Accelerated Physics* via MLIPs), `SI-37` (*FFT & Particle-Mesh Ewald (PME)*), `SI-43` (*On-the-Fly Adaptive KMC* / *Accelerated MD*), `SI-46` (*Alchemical Perturbation* & *Collective-Variable PMF & Metadynamics*).
+  - **Anchors Low:** `SI-06` (*Continuum PDE Field Solvers* alone), `SI-17` (*End-to-End Neural Operators* without physical potentials).
 
 ---
 
@@ -2411,8 +3604,11 @@ Applied physics, materials science, and energy engineering turn physical law int
 4. **Energy Physics, Storage & Fusion** — Decarbonization mix, fusion architectures, battery chemistries, photovoltaics, hydrogen vs. direct electrification, and critical minerals.
 5. **Biophysics, Soft Matter & Medical Physics** — Principles vs. biochemical detail, cellular phase separation, medical-physics frontiers, and metamaterials/soft robotics.
 6. **Lab-to-Fab Translation, Hype & Innovation Ecosystems** — Pasteur's Quadrant, synthesizability gap, hype skepticism, operando probes, academic vs. startup ecosystems, and certification standards.
+7. **Magnetism, Spintronics & Ferroic Electronics** — Spintronics & MRAM vs. CMOS, antiferromagnetic & altermagnetic devices, multiferroics, superconducting cryogenic logic, and magnonics.
+8. **Optics, Lasers, Plasmonics & Nonlinear Photonics** — Plasmonics vs. all-dielectric metasurfaces, integrated frequency combs, fiber vs. solid-state lasers, topological photonics, and quantum photonics on chip.
+9. **Structural, Ceramic, Polymer & Extreme-Environment Materials** — Additive manufacturing vs. traditional metallurgy, fusion first-wall ceramics, solid-state caloric & thermoelectric cooling, fatigue/fracture mechanics, and carbon-capture sorbents.
 
-## 3. Topics (34 Topics)
+## 3. Topics (52 Topics)
 
 ### Category 1: Condensed Matter & Quantum Materials
 
@@ -2809,7 +4005,211 @@ Applied physics, materials science, and energy engineering turn physical law int
   - *Mandatory Independent Certification Labs:* Extraordinary efficiency, $T_c$, or qubit-fidelity claims should carry independent third-party certification (like NREL for PV) before entering record tables.
 - **Primary citations:** NREL Best Research-Cell Efficiency Chart protocol; M. V. Khenkin et al. (2020), *Nat. Energy* (ISOS consensus stability protocols).
 
-## 4. Canonical Archetypes (7 Archetypes)
+---
+
+### Category 7: Magnetism, Spintronics & Ferroic Electronics
+
+#### `MA-35` — Spintronics & Magnetic Memory (MRAM) vs. Charge-Based Electronics
+- **Category:** Magnetism, Spintronics & Ferroic Electronics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Charge-Based CMOS + Flash/DRAM` | `Embedded Non-Volatile MRAM Complement` | `All-Spin & Skyrmion Logic/Memory`
+- **Hovertip (`issue`):** Can electron spin currents, spin-orbit torque, and magnetic skyrmions compete beyond niche embedded memory, or will charge-based CMOS keep relegating magnetism to storage?
+- **Per-pole hovertips:**
+  - *Charge-Based CMOS + Flash/DRAM:* Switching voltages, read margins, and process integration favor charge storage overwhelmingly for mainstream logic and main memory.
+  - *Embedded Non-Volatile MRAM Complement:* Spin-transfer and spin-orbit torque MRAM eliminate standby leakage in embedded caches and radiation-hardened chips alongside CMOS logic.
+  - *All-Spin & Skyrmion Logic/Memory:* Non-volatile racetrack memories, probabilistic p-bits, and chiral skyrmions collapse the memory–compute wall natively (Parkin, Fert).
+- **Primary citations:** M. N. Baibich et al. (1988) & G. Binasch et al. (1989) (GMR); S. S. P. Parkin, M. Hayashi & L. Thomas (2008), *Science*; A. Fert, N. Reyren & V. Cros (2017), *Nat. Rev. Mater.*
+
+#### `MA-36` — Ferromagnets vs. Antiferromagnetic & Altermagnetic Spintronics
+- **Category:** Magnetism, Spintronics & Ferroic Electronics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Proven Ferromagnetic Tunnel Junctions` | `Altermagnetic Best-of-Both Bridge` | `Terahertz Antiferromagnetic Spintronics`
+- **Hovertip (`issue`):** Should magnetic devices stay with easy-to-read ferromagnets, or pivot to zero-stray-field antiferromagnets and newly discovered altermagnets operating at terahertz speeds?
+- **Per-pole hovertips:**
+  - *Proven Ferromagnetic Tunnel Junctions:* Giant tunneling magnetoresistance (>200%) and crisp magnetic readout make ferromagnets hard to beat in working chips.
+  - *Altermagnetic Best-of-Both Bridge:* Altermagnets combine zero net magnetization and THz dynamics with strong spin-split electronic bands—enabling clean electrical readout (Šmejkal, Sinova, Jungwirth).
+  - *Terahertz Antiferromagnetic Spintronics:* Insensitivity to stray external fields, dense packing without crosstalk, and picosecond switching push spintronics into the THz regime.
+- **Primary citations:** T. Jungwirth et al. (2016), *Nat. Nanotechnol.*; L. Šmejkal, J. Sinova & T. Jungwirth (2022), *Phys. Rev. X* (altermagnetism).
+
+#### `MA-37` — Electric-Field Control of Magnetism & Multiferroics
+- **Category:** Magnetism, Spintronics & Ferroic Electronics
+- **Geometry:** `monopole-slider`
+- **Poles:** `Prioritizing Voltage-Controlled Magnetoelectric & Ferroic Switching`
+- **Hovertip (`issue`):** Because current-driven switching burns $I^2 R$ Joule heat, how central should single-phase multiferroics (like $\text{BiFeO}_3$), ferroelectric $\text{HfO}_2$, and magnetoelectric heterostructures be to ultra-low-power electronics?
+- **Per-pole hovertips:**
+  - *Prioritizing Voltage-Controlled Magnetoelectric & Ferroic Switching:* Replacing dissipative electrical currents with attojoule electric-field switching is the cleanest physical path to breaking the energy ceiling of AI and edge hardware.
+- **Primary citations:** N. A. Spaldin & M. Fiebig (2005), *Science*; R. Ramesh & N. A. Spaldin (2007), *Nat. Mater.*; S. Manipatruni et al. (2019), *Nature* (MESO).
+
+#### `MA-38` — Superconducting Cryogenic Computing (RSFQ/AQFP) vs. Room-Temperature CMOS
+- **Category:** Magnetism, Spintronics & Ferroic Electronics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Room-Temp CMOS Wins Total System Power` | `Cryo-Logic Strictly for Quantum & Exascale` | `Superconducting Data Centers Are the Future`
+- **Hovertip (`issue`):** Even accounting for the ~500× Carnot cooling penalty at 4 K, can ballistic Josephson-junction logic (RSFQ, adiabatic quantum-flux parametrons) outperform CMOS for supercomputing?
+- **Per-pole hovertips:**
+  - *Room-Temp CMOS Wins Total System Power:* Low density (lack of compact superconducting RAM) and 4 K refrigeration overhead keep superconducting logic uncompetitive against advanced CMOS.
+  - *Cryo-Logic Strictly for Quantum & Exascale:* Deploy ultra-low-energy Josephson circuits directly inside dilution fridges for qubit control and syndrome decoding where cryogenics is already paid for.
+  - *Superconducting Data Centers Are the Future:* Sub-attojoule switching at tens of GHz with lossless superconducting interconnects offers orders-of-magnitude total-power relief once dense cryo-memory matures.
+- **Primary citations:** K. K. Likharev & V. K. Semenov (1991), *IEEE Trans. Appl. Supercond.* (RSFQ); D. S. Holmes, A. L. Ripple & M. A. Manheimer (2013), *IEEE Trans. Appl. Supercond.*
+
+#### `MA-39` — Magnonics & Wave-Based Spin Computing
+- **Category:** Magnetism, Spintronics & Ferroic Electronics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Niche RF Microwave Filters Only` | `Hybrid Magnon–Photon / Qubit Transducers` | `Charge-Free Magnonic Wave Computing`
+- **Hovertip (`issue`):** Are quantized spin waves (magnons in YIG and magnetic thin films) best viewed as specialty RF components and quantum transducers, or as a viable low-dissipation wave-computing platform?
+- **Per-pole hovertips:**
+  - *Niche RF Microwave Filters Only:* Transduction losses converting between electrical signals and spin waves kill the energy advantage of all-magnonic logic circuits.
+  - *Hybrid Magnon–Photon / Qubit Transducers:* Cavity magnonics bridges microwave photons, phonons, and superconducting qubits cleanly with long YIG coherence times.
+  - *Charge-Free Magnonic Wave Computing:* Sub-micron wavelengths at GHz frequencies allow compact interferometric wave logic and neuromorphic reservoir computing with zero Joule electron transport.
+- **Primary citations:** A. V. Chumak et al. (2015), "Magnon Spintronics," *Nat. Phys.*; D. Lachance-Quirion et al. (2019), *Appl. Phys. Express*.
+
+---
+
+### Category 8: Optics, Lasers, Plasmonics & Nonlinear Photonics
+
+#### `MA-40` — Metallic Plasmonics vs. Lossless All-Dielectric Metasurfaces
+- **Category:** Optics, Lasers, Plasmonics & Nonlinear Photonics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Sub-Diffraction Metallic Plasmonics` | `Application-Split Metal + Dielectric` | `Low-Loss All-Dielectric Photonics`
+- **Hovertip (`issue`):** Do ohmic heating losses in gold and silver doom plasmonics in practical optical devices, or do extreme sub-wavelength field enhancements keep plasmonics indispensable?
+- **Per-pole hovertips:**
+  - *Sub-Diffraction Metallic Plasmonics:* Only metallic nanostructures squeeze light into nanometer hot spots for single-molecule SERS, hot-carrier photocatalysis, and heat-assisted magnetic recording.
+  - *Application-Split Metal + Dielectric:* Use metals where nanoscale field confinement or thermal absorption is the point, and high-index dielectrics everywhere efficiency rules.
+  - *Low-Loss All-Dielectric Photonics:* Silicon, $\text{TiO}_2$, and $\text{LiNbO}_3$ Mie resonators achieve near-unit transmission, flat metalenses, and crisp high-$Q$ bound states in the continuum without ohmic death.
+- **Primary citations:** W. L. Barnes, A. Dereux & T. W. Ebbesen (2003), *Nature*; N. Yu & F. Capasso (2014), *Nat. Mater.*; A. I. Kuznetsov et al. (2016), *Science* (dielectric nanophotonics).
+
+#### `MA-41` — Integrated Frequency Combs & Thin-Film Lithium Niobate Photonics
+- **Category:** Optics, Lasers, Plasmonics & Nonlinear Photonics
+- **Geometry:** `monopole-slider`
+- **Poles:** `Investing in Chip-Scale Microcombs & Integrated Nonlinear Photonics`
+- **Hovertip (`issue`):** How transformative is shrinking room-sized optical-table frequency combs, modulators, and squeezed-light sources onto millimeter-scale $\text{Si}_3\text{N}_4$ and thin-film $\text{LiNbO}_3$ wafers?
+- **Per-pole hovertips:**
+  - *Investing in Chip-Scale Microcombs & Integrated Nonlinear Photonics:* Dissipative Kerr solitons and wafer-scale $\chi^{(2)}$ waveguides bring optical clocks, coherent LiDAR, Tbit/s communications, and portable quantum optics out of national labs onto mass-produced chips.
+- **Primary citations:** T. J. Kippenberg et al. (2018), "Dissipative Kerr Solitons in Optical Microresonators," *Science*; D. Zhu et al. (2021), *Adv. Opt. Photonics* (thin-film $\text{LiNbO}_3$).
+
+#### `MA-42` — High-Power Laser Architecture: Fiber vs. Solid-State vs. Free-Electron
+- **Category:** Optics, Lasers, Plasmonics & Nonlinear Photonics
+- **Geometry:** `triangle`
+- **Poles:** `Industrial Yb/Er Fiber Lasers` | `Ultrafast Chirped-Pulse Solid-State` | `Coherent Tunable Free-Electron Lasers`
+- **Hovertip (`issue`):** Which laser engineering frontier delivers the deepest payoff across manufacturing, fusion, and science?
+- **Per-pole hovertips:**
+  - *Industrial Yb/Er Fiber Lasers:* Superior thermal management, wall-plug efficiency (>40%), and rugged beam quality dominate industrial manufacturing, directed energy, and high-rep-rate drivers.
+  - *Ultrafast Chirped-Pulse Solid-State:* Ti:sapphire, Yb:YAG thin-disk, and petawatt CPA systems push peak intensities past $10^{23}\,\text{W/cm}^2$ for laser-plasma physics and precision micromachining.
+  - *Coherent Tunable Free-Electron Lasers:* Unconstrained by atomic transitions or crystal damage thresholds, FELs deliver tunable high-power coherence all the way into hard X-rays and EUV lithography.
+- **Primary citations:** D. Strickland & G. Mourou (1985), *Opt. Commun.* (CPA); D. J. Richardson, J. Nilsson & W. A. Clarkson (2010), *J. Opt. Soc. Am. B*; C. Pellegrini, A. Marinelli & S. Reiche (2016), *Rev. Mod. Phys.*
+
+#### `MA-43` — Topological Photonics: Practical Disorder Immunity or Fragile Demo?
+- **Category:** Optics, Lasers, Plasmonics & Nonlinear Photonics
+- **Geometry:** `trilinear-line`
+- **Poles:** `Overstated vs. Conventional Waveguides` | `Valuable Niche for Lasers & Isolators` | `Next-Gen Backscatter-Immune Photonic Circuits`
+- **Hovertip (`issue`):** Does topological protection in photonic crystals genuinely beat standard low-loss silicon waveguides in real chips, or do out-of-plane scattering and weak optical time-reversal breaking limit its advantage?
+- **Per-pole hovertips:**
+  - *Overstated vs. Conventional Waveguides:* Standard foundry waveguides already hit 0.01 dB/cm loss; topological photonic crystals have huge footprints and still suffer out-of-plane radiative loss at defects.
+  - *Valuable Niche for Lasers & Isolators:* Topological insulator lasers and robust single-mode cavity arrays turn topological band engineering into genuine slope-efficiency and coherence gains.
+  - *Next-Gen Backscatter-Immune Photonic Circuits:* Protected edge modes, non-Hermitian skin effects, and chiral quantum-dot interfaces open fault-tolerant optical routing around sharp bends and fabrication disorder.
+- **Primary citations:** F. D. M. Haldane & S. Raghu (2008), *Phys. Rev. Lett.*; T. Ozawa et al. (2019), "Topological Photonics," *Rev. Mod. Phys.*; M. A. Bandres et al. (2018), *Science*.
+
+#### `MA-44` — On-Chip Quantum Light Sources: Spontaneous Parametric vs. Solid-State Emitters
+- **Category:** Optics, Lasers, Plasmonics & Nonlinear Photonics
+- **Geometry:** `trilinear-line`
+- **Poles:** `CMOS-Ready Nonlinear Parametric (SPDC/SFWM)` | `Heterogeneous Hybrid Integration` | `Deterministic Quantum Dots & Color Centers`
+- **Hovertip (`issue`):** To build photonic quantum computers and quantum repeaters, should we multiplex probabilistic nonlinear photon pairs or engineer deterministic single-photon quantum dots and spin–photon defects?
+- **Per-pole hovertips:**
+  - *CMOS-Ready Nonlinear Parametric (SPDC/SFWM):* Identical room-temperature waveguides produce indistinguishable photons natively at telecom wavelengths with scalable foundry yield.
+  - *Heterogeneous Hybrid Integration:* Transfer-print III–V quantum dots or diamond/SiC spin memories directly onto ultra-low-loss $\text{Si}_3\text{N}_4$ photonic chips.
+  - *Deterministic Quantum Dots & Color Centers:* Probabilistic pair sources choke on multiplexing loss—on-demand deterministic single-photon emitters and spin–photon interfaces are essential for quantum networking.
+- **Primary citations:** P. Senellart, G. Solomon & A. White (2017), *Nat. Nanotechnol.*; M. Atatüre et al. (2018), *Nat. Rev. Mater.*
+
+---
+
+### Category 9: Structural, Ceramic, Polymer & Extreme-Environment Materials
+
+#### `MA-45` — Additive Manufacturing (3D-Printed Alloys) vs. Traditional Forged Metallurgy
+- **Category:** Structural, Ceramic, Polymer & Extreme-Environment Materials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Proven Wrought, Cast & Forged Metallurgy` | `Hybrid AM + Post-Process HIP & Qualification` | `Design-for-AM Topology & Microstructure Control`
+- **Hovertip (`issue`):** Does laser powder-bed fusion of metals unlock unmakeable cooling channels and tailored cellular microstructures, or do residual stresses, keyhole pores, and fatigue anisotropy keep traditional forging king?
+- **Per-pole hovertips:**
+  - *Proven Wrought, Cast & Forged Metallurgy:* Safety-critical turbine blades, airframes, and pressure vessels demand predictable isotropic grain structure and decades-validated fatigue life.
+  - *Hybrid AM + Post-Process HIP & Qualification:* Combine 3D printing for complex consolidated geometries with hot isostatic pressing, in-situ melt-pool monitoring, and rigorous qualification.
+  - *Design-for-AM Topology & Microstructure Control:* Site-specific thermal history turns 3D printers into microstructural sculptors—building graded alloys and architected lattices impossible by subtractive machining.
+- **Primary citations:** T. DebRoy et al. (2018), "Additive Manufacturing of Metallic Components—Process, Structure and Properties," *Prog. Mater. Sci.*; D. Herzog et al. (2016), *Acta Mater.*
+
+#### `MA-46` — Extreme-Environment & Fusion First-Wall Materials
+- **Category:** Structural, Ceramic, Polymer & Extreme-Environment Materials
+- **Geometry:** `triangle`
+- **Poles:** `Refractory Metals & Oxide-Dispersion Steels` | `SiC/SiC Ceramic Composites & UHTCs` | `Self-Healing Liquid-Metal First Walls`
+- **Hovertip (`issue`):** Surviving 14 MeV fusion neutrons, $2000\,^\circ\text{C}$ hypersonic stagnation heat, and corrosive molten salts is often the *real* bottleneck holding back clean energy and aerospace—which materials path wins?
+- **Per-pole hovertips:**
+  - *Refractory Metals & Oxide-Dispersion Steels:* Nanostructured ODS ferritic steels and ductile tungsten alloys provide high thermal conductivity, weldability, and swelling resistance under intense neutron dpa.
+  - *SiC/SiC Ceramic Composites & UHTCs:* Low-activation silicon-carbide fiber composites and $\text{ZrB}_2/\text{HfC}$ ultra-high-temperature ceramics maintain strength past $1500\text{–}2500\,^\circ\text{C}$ where metals melt.
+  - *Self-Healing Liquid-Metal First Walls:* Flowing liquid lithium or tin coats plasma-facing surfaces continuously—immune to cracking, erosion, and solid-state neutron embrittlement.
+- **Primary citations:** S. J. Zinkle & G. S. Was (2013), "Materials Challenges in Nuclear Energy," *Acta Mater.*; N. P. Padture (2016), *Nat. Mater.*
+
+#### `MA-47` — Solid-State Cooling & Waste-Heat Recovery (Thermoelectrics & Caloric Materials)
+- **Category:** Structural, Ceramic, Polymer & Extreme-Environment Materials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Vapor-Compression Physics Is Unbeatable` | `Niche Thermoelectrics & Spot Thermal Control` | `Breakthrough Electro/Elasto/Magnetocaloric Cooling`
+- **Hovertip (`issue`):** Can solid-state thermoelectric ($ZT > 2$) or ferroic caloric heat pumps ever displace HFC vapor-compression air conditioning and refrigeration at scale?
+- **Per-pole hovertips:**
+  - *Vapor-Compression Physics Is Unbeatable:* Latent heat of phase change in modern compressors hits high COP cheaply; solid-state thermal management cannot match its cost per watt for buildings.
+  - *Niche Thermoelectrics & Spot Thermal Control:* Solid-state Peltier and thermoelectric generators shine where reliability, vibration-free operation, chip hot-spot cooling, or deep-space RTGs matter most.
+  - *Breakthrough Electro/Elasto/Magnetocaloric Cooling:* Shape-memory elastocaloric and giant barocaloric cycles eliminate greenhouse refrigerants entirely while approaching Carnot efficiency competitively.
+- **Primary citations:** G. J. Snyder & E. S. Toberer (2008), *Nat. Mater.*; I. Takeuchi & K. Sandeman (2015), *Phys. Today* (caloric cooling); L. E. Bell (2008), *Science*.
+
+#### `MA-48` — Strength vs. Toughness & Fracture-Mechanics Realism
+- **Category:** Structural, Ceramic, Polymer & Extreme-Environment Materials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Chase Record Ideal Strength & Modulus` | `Ashby Multi-Objective Property Trade-Offs` | `Damage Tolerance, Fracture & Fatigue First`
+- **Hovertip (`issue`):** Academic papers trumpet record tensile strengths on microscopic nanopillars, whereas real bridges and aircraft fail by fatigue and crack propagation—which mechanical metric deserves primacy?
+- **Per-pole hovertips:**
+  - *Chase Record Ideal Strength & Modulus:* Pushing carbon nanotubes, nanolattices, and single-crystal whiskers toward theoretical $E/10$ bounds defines the outer envelope of physical possibility.
+  - *Ashby Multi-Objective Property Trade-Offs:* Real engineering selection balances strength, toughness, density, cost, and embodied carbon simultaneously on systematic Ashby maps.
+  - *Damage Tolerance, Fracture & Fatigue First:* Strength without fracture toughness is brittle glass—hierarchical crack-bridging architectures (nacre-inspired composites, CrCoNi cryogenic alloys) defeat the strength–toughness conflict (Ritchie).
+- **Primary citations:** R. O. Ritchie (2011), "The Conflicts Between Strength and Toughness," *Nat. Mater.*; M. F. Ashby (2011), *Materials Selection in Mechanical Design* (4th ed.).
+
+#### `MA-49` — Direct Air Capture & Separations Materials Realism
+- **Category:** Structural, Ceramic, Polymer & Extreme-Environment Materials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Thermodynamics Favors Emissions Prevention` | `Point-Source Capture + Industrial Separations` | `Scalable Solid-Sorbent & Electrochemical DAC`
+- **Hovertip (`issue`):** Pulling 420 ppm $\text{CO}_2$ out of ambient air faces steep minimum thermodynamic work and massive air-handling volume—how realistic are designer sorbents for Direct Air Capture?
+- **Per-pole hovertips:**
+  - *Thermodynamics Favors Emissions Prevention:* Every clean gigawatt spent running dilute DAC fans removes far less carbon than displacing coal or gas directly—avoid distracting from primary decarbonization.
+  - *Point-Source Capture + Industrial Separations:* Deploy advanced membranes and sorbents first on concentrated cement, steel, and chemical-separation streams (which consume ~15% of US energy) where thermodynamics is favorable (Sholl & Lively).
+  - *Scalable Solid-Sorbent & Electrochemical DAC:* Net-zero requires negative emissions for residual agriculture and aviation; low-regeneration-temperature MOFs, amine monoliths, and electrochemical pH-swing cells can scale down cost rapidly.
+- **Primary citations:** D. S. Sholl & R. P. Lively (2016), "Seven Chemical Separations to Change the World," *Nature*; E. S. Sanz-Pérez et al. (2016), *Chem. Rev.*
+
+#### `MA-50` — Ultrafast Non-Equilibrium & Floquet Materials Engineering
+- **Category:** Structural, Ceramic, Polymer & Extreme-Environment Materials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Equilibrium Ground-State Materials Only` | `Metastable Quenched & Strain-Engineered Phases` | `Light-Driven Floquet & Transient Quantum Matter`
+- **Hovertip (`issue`):** Can intense mid-infrared laser pulses genuinely engineer transient room-temperature superconductivity and Floquet topological insulators, or do picosecond heating artifacts limit optical control to basic curiosities?
+- **Per-pole hovertips:**
+  - *Equilibrium Ground-State Materials Only:* A phase that lives for two picoseconds under a terawatt laser cannot power a device—focus on stable thermodynamic ground states.
+  - *Metastable Quenched & Strain-Engineered Phases:* Epitaxial strain, high-pressure quenching, and optical switching into long-lived hidden states bridge non-equilibrium physics and real memory/device function.
+  - *Light-Driven Floquet & Transient Quantum Matter:* Coherent optical driving of phonons and Floquet bands unlocks symmetry-broken states forbidden in thermal equilibrium—rewriting condensed-matter phase diagrams (Cavalleri, Basov).
+- **Primary citations:** D. N. Basov, R. D. Averitt & D. Hsieh (2017), "Towards Properties on Demand in Quantum Materials," *Nat. Mater.*; A. de la Torre et al. (2021), *Rev. Mod. Phys.*
+
+#### `MA-51` — Neuromorphic & Memristive Hardware Physics
+- **Category:** Structural, Ceramic, Polymer & Extreme-Environment Materials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Digital CMOS Accelerators Beat Analog Noise` | `Hybrid Digital + Analog In-Memory Inference` | `Physics-Native Ion/Phase-Change Neuromorphics`
+- **Hovertip (`issue`):** Can filamentary memristors, phase-change memory (PCM), and organic electrochemical transistors emulate cortical efficiency, or do cycle-to-cycle variability and drift keep digital CMOS dominant?
+- **Per-pole hovertips:**
+  - *Digital CMOS Accelerators Beat Analog Noise:* Low-precision digital FP4/INT4 tensor cores achieve repeatable accuracy, zero analog drift, and instant foundry scaling that noisy resistive crossbars fail to match.
+  - *Hybrid Digital + Analog In-Memory Inference:* Use non-volatile PCM/RRAM crossbars strictly for static matrix-vector inference weights while keeping training and precision accumulation digital.
+  - *Physics-Native Ion/Phase-Change Neuromorphics:* Letting Kirchhoff's laws and ionic dynamics compute natively inside memory slashes AI energy consumption by orders of magnitude—just as wet brains run on 20 watts.
+- **Primary citations:** D. B. Strukov et al. (2008), *Nature*; D. Marković et al. (2020), *Nat. Rev. Phys.*; A. Sebastian et al. (2020), *Nat. Nanotechnol.*
+
+#### `MA-52` — Tribology, Interfaces & Corrosion Stewardship
+- **Category:** Structural, Ceramic, Polymer & Extreme-Environment Materials
+- **Geometry:** `monopole-slider`
+- **Poles:** `Elevating Surfaces, Friction, Wear & Corrosion as First-Class Applied Physics`
+- **Hovertip (`issue`):** Friction, wear, and corrosion consume roughly 20–25% of global energy and trillions in GDP—should applied physics elevate interface physics, superlubricity, and corrosion protection far higher in research prestige?
+- **Per-pole hovertips:**
+  - *Elevating Surfaces, Friction, Wear & Corrosion as First-Class Applied Physics:* Understanding atomic stick-slip, structural superlubricity, solid-electrolyte interphases, and passivating oxide films yields massive real-world energy and durability wins per research dollar.
+- **Primary citations:** K. Holmberg & A. Erdemir (2017), "Influence of Tribology on Global Energy Consumption, Costs and Emissions," *Friction*; J. N. Israelachvili (2011), *Intermolecular and Surface Forces*.
+
+## 4. Canonical Archetypes (11 Archetypes)
 
 ### 1. The Bell-Labs Pasteur's-Quadrant Physicist
 - **Summary:** Unites deep fundamental condensed-matter curiosity with laser focus on real technological bottlenecks—believing use-inspired basic science yields both Nobel discoveries and world-changing devices.
@@ -2860,6 +4260,34 @@ Applied physics, materials science, and energy engineering turn physical law int
   - **Anchors High:** `MA-13` (*Bottom-Up Molecular & Colloidal Assembly*), `MA-22` (*Universal Physical & Active-Matter Laws* / *Mesoscale Bridge Models*), `MA-23` (*Soft-Matter Phase Separation Is Central* or *Co-Equal*), `MA-24` (*Ultra-High-Resolution Imaging* & *Bioelectronics & Neural Interfaces* & *Frugal Point-of-Care*), `MA-25` (High *Bio-Inspired Soft & Active Materials*), `MA-33` (*Seamless Bio-Physical Integration*).
   - **Anchors Low:** `MA-13` (*Deterministic Top-Down EUV Lithography*), `MA-22` (*Atomistic Biochemical Specificity* exclusively).
 
+### 8. The Integrated Photonics & Nanophotonics Engineer
+- **Summary:** Sculpts light on silicon, nitride, and lithium-niobate chips—bridging optical interconnects, dissipative microcombs, dielectric metasurfaces, and chip-scale quantum photonics.
+- **Primary Thinkers & Literature:** E. Yablonovitch, F. Capasso (2014), D. A. B. Miller (2009, 2017), T. J. Kippenberg (2018), A. I. Kuznetsov (2016).
+- **Stance Profile:**
+  - **Anchors High:** `MA-06` (*Photonic & Silicon Spin Qubits*), `MA-10` (*Modular Photonic Interconnects*), `MA-12` (*Optical Interconnects + Electronic Logic* / *All-Optical & Photonic Computing*), `MA-14` (*Foundry PDKs & MPW Tape-Outs First* / *Prototype Local, Scale at Foundry*), `MA-25` (*Architected Optical & Mechanical Metamaterials*), `MA-40` (*Low-Loss All-Dielectric Photonics*), `MA-41` (High *Chip-Scale Microcombs & Integrated Nonlinear Photonics*), `MA-43` (*Valuable Niche for Lasers & Isolators* or *Next-Gen Backscatter-Immune*), `MA-44` (*Heterogeneous Hybrid Integration* / *CMOS-Ready Nonlinear Parametric*).
+  - **Anchors Low:** `MA-12` (*Optimize Copper & Advanced Packaging*), `MA-40` (*Sub-Diffraction Metallic Plasmonics* for low-loss waveguide circuits).
+
+### 9. The Spintronics & Ferroic Device Physicist
+- **Summary:** Harnesses electron spin, altermagnets, multiferroics, and non-volatile magnetic/ferroelectric states to break the thermal dissipation ceiling of charge-based transistors.
+- **Primary Thinkers & Literature:** A. Fert (2017), P. Grünberg, S. S. P. Parkin (2008), N. A. Spaldin (2005, 2007), T. Jungwirth (2016, 2022).
+- **Stance Profile:**
+  - **Anchors High:** `MA-11` (*Beyond-CMOS Physics (Spintronics, 2D, Photonic)* & *Domain-Specific & Neuromorphic Hardware*), `MA-26` (*Use-Inspired Basic Research (Pasteur)*), `MA-33` (*Clean Room-Temperature Device Metric*), `MA-35` (*Embedded Non-Volatile MRAM Complement* / *All-Spin & Skyrmion Logic/Memory*), `MA-36` (*Altermagnetic Best-of-Both Bridge* / *Terahertz Antiferromagnetic Spintronics*), `MA-37` (High *Voltage-Controlled Magnetoelectric & Ferroic Switching*), `MA-39` (*Hybrid Magnon–Photon* / *Charge-Free Magnonic Wave Computing*), `MA-51` (*Hybrid Digital + Analog In-Memory* / *Physics-Native Neuromorphics*).
+  - **Anchors Low:** `MA-11` (*Advanced CMOS* alone), `MA-35` (*Charge-Based CMOS + Flash/DRAM*).
+
+### 10. The Structural Metallurgist & Extreme-Materials Engineer
+- **Summary:** Grounds materials science in fracture mechanics, Ashby property maps, radiation-tolerant ceramics, tribology, and alloys that actually survive brutal real-world loads and temperatures.
+- **Primary Thinkers & Literature:** M. F. Ashby (2011, 2012), R. O. Ritchie (2011), S. J. Zinkle (2013), J.-W. Yeh (2004), T. DebRoy (2018).
+- **Stance Profile:**
+  - **Anchors High:** `MA-04` (*Embrace Disorder & High-Entropy Complexity*), `MA-27` (*Judge by Manufacturable Cost-Performance*), `MA-28` (High *Ruthless Skepticism*), `MA-32` (*Co-Optimize Performance & Lifecycle*), `MA-34` (*Mandatory Independent Certification Labs*), `MA-45` (*Hybrid AM + Post-Process HIP* / *Proven Wrought Metallurgy*), `MA-46` (*Refractory Metals & ODS Steels* & *SiC/SiC Ceramic Composites*), `MA-48` (*Damage Tolerance, Fracture & Fatigue First* & *Ashby Multi-Objective Property Trade-Offs*), `MA-52` (High *Surfaces, Friction, Wear & Corrosion*).
+  - **Anchors Low:** `MA-27` (*Hero Proof-of-Concept Device Suffices*), `MA-48` (*Chase Record Ideal Strength* on brittle micro-pillars), `MA-50` (*Light-Driven Floquet* transient curiosities).
+
+### 11. The Clinical & Translational Medical Physicist
+- **Summary:** Translates imaging physics, precision radiotherapy, bioelectronics, and frugal point-of-care sensors safely across clinical certification to improve human health at global scale.
+- **Primary Thinkers & Literature:** P. C. Lauterbur (1973), J. Bourhis et al. (2019), G. Hong & C. M. Lieber (2019), global frugal-diagnostics medical-physics tradition.
+- **Stance Profile:**
+  - **Anchors High:** `MA-09` (*Quantum Sensors Deliver Real Impact Now* — MEG/biosensing), `MA-22` (*Mesoscale Bridge Models*), `MA-24` (High across *Ultra-High-Resolution Imaging*, *Precision & FLASH Radiotherapy*, *Bioelectronics & Neural Interfaces*, and *Frugal Point-of-Care Diagnostics*), `MA-25` (*Bio-Inspired Soft & Active Materials*), `MA-26` (*Use-Inspired Basic Research (Pasteur)* / *Direct Product Engineering*), `MA-33` (*Seamless Bio-Physical Integration*), `MA-34` (*Mandatory Independent Certification Labs*).
+  - **Anchors Low:** `MA-26` (*Pure Basic Curiosity* disconnected from clinical reality), `MA-27` (*Hero Proof-of-Concept Device Suffices*).
+
 ---
 
 # Skin 7: Praxicapades — Applied Mathematics, Statistics & Modeling
@@ -2882,8 +4310,11 @@ Applied mathematics, statistics, and mathematical modeling bridge formal abstrac
 4. **Optimization, Inverse Problems & Control** — Convex vs. non-convex optimization, inverse-problem regularization, optimal control vs. RL, minimax robustness vs. average-case, and sparsity.
 5. **Dynamical Systems, Stochastics & Uncertainty** — Deterministic chaos vs. stochastic modeling, heavy tails & extreme risk, information theory & compression, network & agent complexity, and scientific ML hybrids.
 6. **Applied Mathematical Practice, Rigor & Ethics** — Proof rigor vs. working heuristics, reproducible data pipelines, algorithmic fairness & model governance, domain immersion, and communication of uncertainty.
+7. **Experimental Design, Sampling & Clinical Trials** — Design-based vs. model-based survey inference, classical DoE vs. Bayesian bandits, fixed vs. adaptive clinical trials, Big Data Paradox, and optimal active design.
+8. **Game Theory, Operations Research & Decision Science** — Rational equilibrium vs. behavioral bounded rationality, exact MIP vs. metaheuristics, queueing/stochastic networks, Pareto trade-offs, and social choice paradoxes.
+9. **Time Series, Spatial Statistics & Quantitative Finance** — Classical state-space/ARIMA vs. neural forecasters, Kriging/GP vs. SPDE spatial fields, no-arbitrage vs. agent-based finance, proper scoring rules, and non-stationary regime shifts.
 
-## 3. Topics (34 Topics)
+## 3. Topics (52 Topics)
 
 ### Category 1: Philosophy of Modeling & Abstraction
 
@@ -3278,7 +4709,213 @@ Applied mathematics, statistics, and mathematical modeling bridge formal abstrac
   - *Live Deployment & Decision Outcomes Only:* Static leaderboards hide data leakage, feedback loops, and non-stationarity; only prospective performance in live deployment proves a model works.
 - **Primary citations:** D. L. Donoho (2017), "50 Years of Data Science," *JCGS*; M. Hardt & B. Recht (2022), *Patterns, Predictions, and Actions*.
 
-## 4. Canonical Archetypes (7 Archetypes)
+---
+
+### Category 7: Experimental Design, Sampling & Clinical Trials
+
+#### `PR-35` — Design-Based vs. Model-Based Survey & Sampling Inference
+- **Category:** Experimental Design, Sampling & Clinical Trials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Strict Probability Sampling (Horvitz–Thompson)` | `Model-Assisted Calibration & MRP` | `Superpopulation Model-Based Adjustment`
+- **Hovertip (`issue`):** When response rates plunge below 10%, should survey statisticians cling to pure design-based randomization weights or rely on multilevel regression and poststratification (MRP)?
+- **Per-pole hovertips:**
+  - *Strict Probability Sampling (Horvitz–Thompson):* Known inclusion probabilities guarantee unbiasedness with zero parametric assumptions about the population.
+  - *Model-Assisted Calibration & MRP:* Combine probability frames with hierarchical poststratification (MRP) so small subgroups borrow strength while staying anchored to census demographics (Gelman, Little).
+  - *Superpopulation Model-Based Adjustment:* Once nonresponse breaks ideal randomization anyway, explicit statistical modeling of selection bias beats blind inverse-probability weighting.
+- **Primary citations:** J. Neyman (1934), *JRSS*; D. G. Horvitz & D. J. Thompson (1952), *JASA*; W. Wang, D. Rothschild, S. Goel & A. Gelman (2015), *Int. J. Forecast.* (Xbox MRP).
+
+#### `PR-36` — The "Big Data Paradox": Sample Size vs. Data Quality
+- **Category:** Experimental Design, Sampling & Clinical Trials
+- **Geometry:** `monopole-slider`
+- **Poles:** `Prioritizing Unbiased Small Probability Samples Over Massive Biased Big Data`
+- **Hovertip (`issue`):** Xiao-Li Meng proved that even a tiny correlation between selection and outcome collapses a million-person non-probability dataset to an effective sample size of a few dozen—how uncompromising should we be about data provenance over raw volume?
+- **Per-pole hovertips:**
+  - *Prioritizing Unbiased Small Probability Samples Over Massive Biased Big Data:* Huge biased datasets shrink variance while locking in lethal systematic bias—making you catastrophically confident in the wrong answer (Meng's Law of Large Populations).
+- **Primary citations:** X.-L. Meng (2018), "Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election," *Ann. Appl. Stat.*
+
+#### `PR-37` — Classical Factorial DoE vs. Adaptive Bayesian Optimization & Bandits
+- **Category:** Experimental Design, Sampling & Clinical Trials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classical Orthogonal & Response-Surface DoE` | `Batch-Sequential Hybrid Design` | `Online Bandits & Bayesian Optimization`
+- **Hovertip (`issue`):** When allocating expensive physical or online experiments, do you pre-specify balanced factorial blocks or adapt every next trial greedily using multi-armed bandits and Gaussian processes?
+- **Per-pole hovertips:**
+  - *Classical Orthogonal & Response-Surface DoE:* Fisherian blocking, randomization, and fractional factorials isolate main effects and interactions cleanly without temporal-drift confounding (Box, Hunter, Hunter).
+  - *Batch-Sequential Hybrid Design:* Start with a space-filling Latin hypercube or factorial screen, then switch to batched Bayesian optimization once active factors are clear.
+  - *Online Bandits & Bayesian Optimization:* Thompson sampling, UCB, and acquisition functions slash regret and sample waste in high-dimensional sequential experimentation.
+- **Primary citations:** R. A. Fisher (1935), *The Design of Experiments*; G. E. P. Box, J. S. Hunter & W. G. Hunter (2005); T. Lattimore & C. Szepesvári (2020), *Bandit Algorithms*.
+
+#### `PR-38` — Fixed-Horizon Clinical Trials vs. Adaptive Platform & Sequential Designs
+- **Category:** Experimental Design, Sampling & Clinical Trials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Classic Fixed-Sample Parallel RCT` | `Group-Sequential Alpha-Spending` | `Bayesian Adaptive Platform Trials (I-SPY / RECOVERY)`
+- **Hovertip (`issue`):** Should medical and social trials stick to simple, rock-solid fixed-sample designs, or deploy adaptive randomization, early futility stopping, and multi-arm platform trials?
+- **Per-pole hovertips:**
+  - *Classic Fixed-Sample Parallel RCT:* Fixed designs eliminate operational bias, temporal-drift artifacts, and complex regulatory audit hurdles cleanly.
+  - *Group-Sequential Alpha-Spending:* Formal Pocock/O'Brien–Fleming interim boundaries let trials stop early for clear efficacy or harm while strictly preserving Type I error.
+  - *Bayesian Adaptive Platform Trials (I-SPY / RECOVERY):* Dynamically dropping losers, adding new therapies, and routing patients toward better arms saves lives and time during fast-moving diseases (Berry).
+- **Primary citations:** S. J. Pocock (1977), *Biometrika*; D. A. Berry (2012), "Adaptive Clinical Trials in Oncology," *Nat. Rev. Clin. Oncol.*
+
+#### `PR-39` — Anytime-Valid Inference (e-Values) vs. Classical Fixed-Horizon Testing
+- **Category:** Experimental Design, Sampling & Clinical Trials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Fixed-Horizon Classical Testing` | `Pragmatic Sequential Corrections` | `Game-Theoretic e-Values & Safe Testing`
+- **Hovertip (`issue`):** Continuous peeking breaks classical $p$-values, whereas Shafer–Vovk–Grünwald–Ramdas e-values and martingales remain valid under arbitrary optional stopping—should anytime-valid testing become the new default?
+- **Per-pole hovertips:**
+  - *Fixed-Horizon Classical Testing:* Fixed-horizon Neyman–Pearson tests achieve maximum statistical power when sample sizes can be committed upfront.
+  - *Pragmatic Sequential Corrections:* Standard group-sequential spending functions handle planned interim looks cleanly with minimal power loss.
+  - *Game-Theoretic e-Values & Safe Testing:* Analysts *will* peek and combine evidence across studies—betting martingales and e-values make sequential science mathematically safe by construction.
+- **Primary citations:** G. Shafer & V. Vovk (2019), *Game-Theoretic Foundations for Probability and Finance*; P. Grünwald, R. de Heide & W. Koolen (2024), *JRSS-B* (Safe Testing); A. Ramdas et al. (2023), *Stat. Sci.*
+
+#### `PR-40` — Missing Data & Censoring Philosophy
+- **Category:** Experimental Design, Sampling & Clinical Trials
+- **Geometry:** `trilinear-line`
+- **Poles:** `Complete-Case Caution & Design Prevention` | `Multiple Imputation Under MAR` | `Explicit MNAR Sensitivity & Tipping-Point Bounds`
+- **Hovertip (`issue`):** Almost every real dataset has missing entries and dropout—how aggressively should you model missingness versus bounding the worst-case unknown?
+- **Per-pole hovertips:**
+  - *Complete-Case Caution & Design Prevention:* Imputation cannot invent information that was never measured; spend energy preventing dropout at collection time and inspect raw missingness first.
+  - *Multiple Imputation Under MAR:* Rubin's multiple imputation and full-information likelihood extract valid inferences cleanly when auxiliary covariates explain missingness.
+  - *Explicit MNAR Sensitivity & Tipping-Point Bounds:* Missingness is rarely ignorable in medicine or economics; Manski partial-identification bounds and tipping-point analyses show honestly how much hidden bias would flip conclusions.
+- **Primary citations:** R. J. A. Little & D. B. Rubin (2002), *Statistical Analysis with Missing Data*; C. F. Manski (1990), *Am. Econ. Rev.* (nonparametric bounds).
+
+---
+
+### Category 8: Game Theory, Operations Research & Decision Science
+
+#### `PR-41` — Rational Nash Equilibrium vs. Behavioral & Bounded-Rationality Modeling
+- **Category:** Game Theory, Operations Research & Decision Science
+- **Geometry:** `trilinear-line`
+- **Poles:** `Exact Nash / Bayesian Equilibrium Analysis` | `Evolutionary & Learning Dynamics` | `Behavioral Heuristics & Bounded Rationality`
+- **Hovertip (`issue`):** When modeling strategic markets, auctions, and collective action, should applied math build on utility-maximizing equilibria or bounded, adaptive human heuristics?
+- **Per-pole hovertips:**
+  - *Exact Nash / Bayesian Equilibrium Analysis:* Equilibrium and mechanism-design theory give razor-sharp benchmarks for incentive compatibility, auctions, and matching markets (Myerson, Roth).
+  - *Evolutionary & Learning Dynamics:* Players rarely compute fixed points in one shot; replicator equations and no-regret learning explain *which* equilibria actually emerge over time.
+  - *Behavioral Heuristics & Bounded Rationality:* Real humans exhibit prospect-theory loss aversion, satisficing, and framing effects—models ignoring bounded rationality fail in the field (Simon, Kahneman & Tversky).
+- **Primary citations:** J. von Neumann & O. Morgenstern (1944); J. F. Nash (1950), *PNAS*; H. A. Simon (1955), *QJE*; D. Kahneman & A. Tversky (1979), *Econometrica*; R. B. Myerson (1981).
+
+#### `PR-42` — Exact Discrete Optimization (MIP/Branch-and-Bound) vs. Metaheuristics
+- **Category:** Game Theory, Operations Research & Decision Science
+- **Geometry:** `trilinear-line`
+- **Poles:** `Exact MIP & Certified Optimality Gaps` | `Matheuristics (Exact Core + Heuristic Search)` | `Fast Metaheuristics (Simulated Annealing / Genetic / Local Search)`
+- **Hovertip (`issue`):** Facing NP-hard scheduling, routing, and network-design problems, do you trust modern Mixed-Integer Programming solvers or fast domain-tailored metaheuristics?
+- **Per-pole hovertips:**
+  - *Exact MIP & Certified Optimality Gaps:* Modern branch-and-cut MIP engines (Gurobi, SCIP) have sped up by orders of magnitude—delivering both near-optimal solutions and mathematical proof of how close you are to global optimum.
+  - *Matheuristics (Exact Core + Heuristic Search):* Use large-neighborhood search and column generation to combine heuristic scalability with exact MIP subproblem precision.
+  - *Fast Metaheuristics (Simulated Annealing / Genetic / Local Search):* Massive real-time dispatching and nonlinear combinatorial objectives need good feasible answers in milliseconds, not certified proofs tomorrow.
+- **Primary citations:** G. B. Dantzig (1963), *Linear Programming and Extensions*; L. A. Wolsey & G. L. Nemhauser (1999), *Integer and Combinatorial Optimization*; S. Kirkpatrick, C. D. Gelatt & M. P. Vecchi (1983), *Science*.
+
+#### `PR-43` — Queueing Theory & Stochastic Networks vs. Fluid & Diffusion Limits
+- **Category:** Game Theory, Operations Research & Decision Science
+- **Geometry:** `trilinear-line`
+- **Poles:** `Exact Discrete Stochastic Queueing` | `Heavy-Traffic Diffusion & Fluid Limits` | `Discrete-Event Simulation First`
+- **Hovertip (`issue`):** For data-center routing, hospital ERs, and supply chains, how should applied mathematicians analyze congestion and service delays?
+- **Per-pole hovertips:**
+  - *Exact Discrete Stochastic Queueing:* Jackson networks, Little's Law, and product-form distributions yield timeless exact formulas for congestion and capacity planning.
+  - *Heavy-Traffic Diffusion & Fluid Limits:* Scaling overloaded networks into deterministic fluid ODEs and reflected Brownian motion collapses complex scheduling policies into clean optimal-control laws (Harrison, Kelly).
+  - *Discrete-Event Simulation First:* Real operations feature non-stationary arrivals, balking, and heterogeneous shift rules that analytical queueing models oversimplify—simulate the exact process.
+- **Primary citations:** J. D. C. Little (1961), *Oper. Res.*; F. P. Kelly (1979), *Reversibility and Stochastic Networks*; J. M. Harrison (1985), *Brownian Motion and Stochastic Flow Systems*.
+
+#### `PR-44` — Multi-Objective Pareto Frontiers vs. Scalarized Utility Functions
+- **Category:** Game Theory, Operations Research & Decision Science
+- **Geometry:** `trilinear-line`
+- **Poles:** `Explicit Scalar Cost / Utility Function` | `Constrained Primary + Guardrail Objectives` | `Full Multi-Objective Pareto Exploration`
+- **Hovertip (`issue`):** When a decision trades off cost, safety, equity, and carbon emissions simultaneously, should you collapse them into a single weighted objective or present the full Pareto frontier?
+- **Per-pole hovertips:**
+  - *Explicit Scalar Cost / Utility Function:* Decision theory proves consistent choices imply an implicit utility weighting anyway—make weights explicit so optimization stays crisp and transparent.
+  - *Constrained Primary + Guardrail Objectives:* Optimize one clear primary metric subject to hard, non-negotiable safety and equity constraints.
+  - *Full Multi-Objective Pareto Exploration:* Collapsing incommensurable values into arbitrary dollar weights hides political trade-offs behind fake math; mapping the Pareto front lets human stakeholders choose openly.
+- **Primary citations:** V. Pareto (1906); R. L. Keeney & H. Raiffa (1976), *Decisions with Multiple Objectives*; K. Deb (2001), *Multi-Objective Optimization Using Evolutionary Algorithms*.
+
+#### `PR-45` — Mechanism Design & Social Choice Paradoxes
+- **Category:** Game Theory, Operations Research & Decision Science
+- **Geometry:** `monopole-slider`
+- **Poles:** `Taking Impossibility Theorems (Arrow / Gibbard–Satterthwaite) & Incentive Compatibility Seriously`
+- **Hovertip (`issue`):** How deeply should mathematical impossibility theorems—showing no ranked voting or allocation rule satisfies all fairness and strategyproofness axioms simultaneously—govern institutional and algorithmic design?
+- **Per-pole hovertips:**
+  - *Taking Impossibility Theorems & Incentive Compatibility Seriously:* Ignoring strategic manipulation breaks real auctions, school-choice systems, and platform rankings—mathematical mechanism design turns broken incentives into provably fair institutions (Arrow, Roth).
+- **Primary citations:** K. J. Arrow (1951), *Social Choice and Individual Values*; A. Gibbard (1973) & M. A. Satterthwaite (1975); A. E. Roth (2002), *Econometrica* ("The Economist as Engineer").
+
+---
+
+### Category 9: Time Series, Spatial Statistics & Quantitative Finance
+
+#### `PR-46` — Time-Series Forecasting: Classical State-Space / ARIMA vs. Deep Sequence Models
+- **Category:** Time Series, Spatial Statistics & Quantitative Finance
+- **Geometry:** `trilinear-line`
+- **Poles:** `Interpretable ARIMA, ETS & State-Space` | `Hybrid Decomposition + Gradient Boosted Trees` | `Deep Transformers & Foundation Time-Series Models`
+- **Hovertip (`issue`):** Across the M4/M5 forecasting competitions and real-world demand/energy prediction, which forecasting paradigm earns your trust?
+- **Per-pole hovertips:**
+  - *Interpretable ARIMA, ETS & State-Space:* Simple exponential smoothing, Box–Jenkins ARIMA, and structural state-space models are tough baselines that beat overfit deep nets on short, noisy series (Hyndman).
+  - *Hybrid Decomposition + Gradient Boosted Trees:* Global tree ensembles (LightGBM) with clean seasonal/exogenous features dominated M5 and balance accuracy, speed, and tabular interpretability cleanly.
+  - *Deep Transformers & Foundation Time-Series Models:* Cross-learning across millions of related time series enables zero-shot probabilistic forecasting and complex nonlinear covariate capture classical models cannot match.
+- **Primary citations:** G. E. P. Box & G. M. Jenkins (1970), *Time Series Analysis*; S. Makridakis, E. Spiliotis & V. Assimakopoulos (2020, 2022) (M4 & M5 Competitions); R. J. Hyndman & G. Athanasopoulos (2021).
+
+#### `PR-47` — Spatial Statistics & Geostatistics: Kriging/GPs vs. SPDE Mesh Models
+- **Category:** Time Series, Spatial Statistics & Quantitative Finance
+- **Geometry:** `trilinear-line`
+- **Poles:** `Exact Gaussian Processes & Classical Kriging` | `Sparse Local Approximations (Vecchia / NNGP)` | `Stochastic PDE & INLA Meshes`
+- **Hovertip (`issue`):** When modeling correlated spatial and spatiotemporal fields (geology, ecology, epidemiology) at millions of locations, how do you conquer the $O(N^3)$ Gaussian-process bottleneck?
+- **Per-pole hovertips:**
+  - *Exact Gaussian Processes & Classical Kriging:* Explicit Matérn variograms and exact GP posteriors deliver transparent uncertainty quantification and optimal linear prediction on moderate datasets (Matheron, Cressie).
+  - *Sparse Local Approximations (Vecchia / NNGP):* Conditioning on nearest-neighbor ordering preserves exact-like Gaussian-process covariance fidelity in near-linear $O(N)$ time (Datta et al., Katzfuss).
+  - *Stochastic PDE & INLA Meshes:* Exploiting the link between Matérn fields and sparse Markov random fields via SPDEs + Integrated Nested Laplace Approximation unlocks lightning-fast Bayesian spatial inference on complex domains (Lindgren, Rue, Lindström).
+- **Primary citations:** G. Matheron (1963), *Econ. Geol.*; N. Cressie (1993), *Statistics for Spatial Data*; F. Lindgren, H. Rue & J. Lindström (2011), *JRSS-B* (SPDE-INLA).
+
+#### `PR-48` — Quantitative Finance: No-Arbitrage Stochastic Calculus vs. Econophysics & Agent Markets
+- **Category:** Time Series, Spatial Statistics & Quantitative Finance
+- **Geometry:** `trilinear-line`
+- **Poles:** `No-Arbitrage Martingale Pricing (Black–Scholes / HJM)` | `Rough Volatility & Regime-Aware Stochastic Finance` | `Econophysics, Microstructure & Agent Markets`
+- **Hovertip (`issue`):** Should financial mathematics center on continuous-time no-arbitrage stochastic calculus, or reject frictionless-equilibrium pricing for empirical order-book microstructure and endogenous crash dynamics?
+- **Per-pole hovertips:**
+  - *No-Arbitrage Martingale Pricing (Black–Scholes / HJM):* Risk-neutral martingale measures provide rigorous, self-consistent derivative hedging and arbitrage-free valuation across global markets.
+  - *Rough Volatility & Regime-Aware Stochastic Finance:* Keep rigorous arbitrage-free foundations while replacing naive Brownian motion with fractional rough volatility, jumps, and liquidity frictions (Gatheral et al.).
+  - *Econophysics, Microstructure & Agent Markets:* Real crashes stem from endogenous leverage feedback, order-book impact, and herding—physics-inspired statistical mechanics captures market reality better than equilibrium axioms (Bouchaud, Farmer).
+- **Primary citations:** F. Black & M. Scholes (1973), *J. Polit. Econ.*; J. Gatheral, T. Jaisson & M. Rosenbaum (2018), *Quant. Finance* (Rough Volatility); J.-P. Bouchaud & M. Potters (2003), *Theory of Financial Risk and Derivative Pricing*.
+
+#### `PR-49` — Forecast Evaluation: Proper Scoring Rules vs. Point-Error Metrics
+- **Category:** Time Series, Spatial Statistics & Quantitative Finance
+- **Geometry:** `trilinear-line`
+- **Poles:** `Business-Aligned Point Errors (RMSE / MAE)` | `Quantile & Interval Coverage Checks` | `Strictly Proper Probabilistic Scoring (Log / CRPS)`
+- **Hovertip (`issue`):** Should forecasts be evaluated by simple point-error summaries (RMSE, MAPE) that stakeholders immediately grasp, or strictly proper probabilistic scoring rules that reward honest uncertainty?
+- **Per-pole hovertips:**
+  - *Business-Aligned Point Errors (RMSE / MAE):* Operational pipelines often need a single concrete number tied directly to inventory or dollar loss—point metrics keep evaluation simple and tied to cost.
+  - *Quantile & Interval Coverage Checks:* Pinball loss and empirical 50%/90% prediction-interval coverage bridge operational clarity with honest tail awareness.
+  - *Strictly Proper Probabilistic Scoring (Log / CRPS):* Point metrics hide catastrophic overconfidence—strictly proper scoring rules (Brier, log score, CRPS) mathematically guarantee forecasters maximize sharpness subject to calibration (Gneiting & Raftery).
+- **Primary citations:** G. W. Brier (1950), *Mon. Weather Rev.*; T. Gneiting & A. E. Raftery (2007), "Strictly Proper Scoring Rules, Prediction, and Estimation," *JASA*.
+
+#### `PR-50` — Non-Stationarity & Structural Breaks vs. Stationary Ergodicity
+- **Category:** Time Series, Spatial Statistics & Quantitative Finance
+- **Geometry:** `trilinear-line`
+- **Poles:** `Transform to Stationary Ergotic Core` | `Online Changepoint & Regime-Switching` | `Assume Perpetual Non-Stationary Drift`
+- **Hovertip (`issue`):** Most statistical theorems assume stationary or exchangeable data, yet real economies, climates, and ecosystems drift continuously—how do you model a moving target?
+- **Per-pole hovertips:**
+  - *Transform to Stationary Ergotic Core:* Differencing, detrending, and cointegration uncover enduring stable relationships beneath apparent non-stationarity (Engle & Granger).
+  - *Online Changepoint & Regime-Switching:* Hidden Markov regimes and Bayesian online changepoint detection adapt swiftly when the world shifts without forgetting all historical structure.
+  - *Assume Perpetual Non-Stationary Drift:* In living and social systems, the data-generating distribution never holds still; emphasize exponential forgetting, online adversarial regret bounds, and conformal adaptation.
+- **Primary citations:** R. F. Engle & C. W. J. Granger (1987), *Econometrica*; R. P. Adams & D. J. C. MacKay (2007), Bayesian Online Changepoint Detection; I. Gibbs & E. Candès (2021), *NeurIPS* (Adaptive Conformal Inference).
+
+#### `PR-51` — Statistical Data Visualization: Minimalist Integrity vs. Exploratory Interactivity
+- **Category:** Time Series, Spatial Statistics & Quantitative Finance
+- **Geometry:** `trilinear-line`
+- **Poles:** `Tufte–Cleveland Minimalist Static Precision` | `Layered Grammar of Graphics (Wilkinson/Wickham)` | `Interactive Exploratory Dashboards & Linked Views`
+- **Hovertip (`issue`):** Is a chart primarily a disciplined, high-data-ink statistical instrument for accurate quantitative comparison, or an interactive exploratory canvas?
+- **Per-pole hovertips:**
+  - *Tufte–Cleveland Minimalist Static Precision:* Maximize data-ink ratio, preserve visual encoding accuracy (position over area/angle), and strip away every decorative distraction (Tufte, Cleveland).
+  - *Layered Grammar of Graphics (Wilkinson/Wickham):* Formalizing plots as composable mappings from variables to aesthetics, facets, and statistical summaries unites rigor with expressive clarity.
+  - *Interactive Exploratory Dashboards & Linked Views:* Brushing, zooming, and linked dynamic slices uncover high-dimensional anomalies and subgroup clusters static figures can never show (Tukey's PRIM-9 legacy).
+- **Primary citations:** W. S. Cleveland & R. McGill (1984), *JASA*; E. R. Tufte (1983), *The Visual Display of Quantitative Information*; L. Wilkinson (1999), *The Grammar of Graphics*; H. Wickham (2010), *JCGS*.
+
+#### `PR-52` — High-Dimensional Signal Processing: Wavelets & Harmonic Dictionaries vs. Learned Representations
+- **Category:** Time Series, Spatial Statistics & Quantitative Finance
+- **Geometry:** `trilinear-line`
+- **Poles:** `Analytic Wavelets, Frames & Scattering` | `Physics-Structured Learned Dictionaries` | `End-to-End Deep Learned Representations`
+- **Hovertip (`issue`):** Should signal processing and applied harmonic analysis rely on mathematically designed multiscale bases (wavelets, curvelets, scattering transforms) or replace them entirely with data-learned neural embeddings?
+- **Per-pole hovertips:**
+  - *Analytic Wavelets, Frames & Scattering:* Daubechies wavelets and Mallat's scattering transform deliver provable stability to deformations, exact invertibility, and zero training-data fragility.
+  - *Physics-Structured Learned Dictionaries:* Unrolling sparse-coding and wavelet architectures into learned networks combines interpretable multiscale invariance with data adaptation.
+  - *End-to-End Deep Learned Representations:* Across speech, imaging, and seismic waveforms, task-trained deep representations consistently outperform fixed handcrafted filter banks.
+- **Primary citations:** I. Daubechies (1992), *Ten Lectures on Wavelets*; S. Mallat (2012), *Commun. Pure Appl. Math.* (Group Invariant Scattering); D. L. Donoho (1995).
+
+## 4. Canonical Archetypes (11 Archetypes)
 
 ### 1. The Classical Applied Mathematician & Asymptoticist
 - **Summary:** Distills physical and natural systems into dimensionless conservation equations, boundary-layer asymptotics, scaling laws, and clean dynamical skeletons.
@@ -3326,8 +4963,36 @@ Applied mathematics, statistics, and mathematical modeling bridge formal abstrac
 - **Summary:** Skeptical of thin-tailed equilibrium assumptions and false precision—focusing on heavy-tail extremes, heterogeneous networks, model humility, and ethical accountability in society.
 - **Primary Thinkers & Literature:** B. Mandelbrot (1963), A. Clauset & C. R. Shalizi (2009), M. E. J. Newman (2018), A. Saltelli et al. (2020), C. O'Neil (2016), J. Kleinberg et al. (2017).
 - **Stance Profile:**
-  - **Anchors High:** `PR-05` (*Stress-Testing & Scenario Exploration*), `PR-21` (*Fundamentally Stochastic Processes* / *Stochastic Perturbations*), `PR-22` (*Extremistan Power-Law & EVT First* / *Robust Heavy-Tail Diagnostics*), `PR-24` (*Degree-Heterogeneous Network Theory* & *Detailed Heterogeneous Agent Models*), `PR-27` (*Deep Single-Domain Immersion*), `PR-30` (*Ethical Impact & Refusal Duty First* / *Transparent Fairness-Accuracy Trade-Offs*), `PR-31` (*Foreground Full Uncertainty & Ignorance*), `PR-34` (*Live Deployment & Decision Outcomes Only*).
+  - **Anchors High:** `PR-05` (*Stress-Testing & Scenario Exploration*), `PR-21` (*Fundamentally Stochastic Processes* / *Stochastic Perturbations*), `PR-22` (*Extremistan Power-Law & EVT First* / *Robust Heavy-Tail Diagnostics*), `PR-24` (*Degree-Heterogeneous Network Theory* & *Detailed Heterogeneous Agent Models*), `PR-27` (*Deep Single-Domain Immersion*), `PR-30` (*Ethical Impact & Refusal Duty First* / *Transparent Fairness-Accuracy Trade-Offs*), `PR-31` (*Foreground Full Uncertainty & Ignorance*), `PR-34` (*Live Deployment & Decision Outcomes Only*), `PR-48` (*Econophysics, Microstructure & Agent Markets*), `PR-50` (*Assume Perpetual Non-Stationary Drift*).
   - **Anchors Low:** `PR-22` (*CLT Gaussianity Is Sound Default*), `PR-30` (*Purely Technical Accuracy Mandate*), `PR-31` (*Deliver Crisp Actionable Point Advice* hiding uncertainty).
+
+### 8. The Experimental-Design & Clinical-Trial Methodologist
+- **Summary:** Insists that clean evidence starts *before* data are ever collected—mastering randomization, blocking, adaptive clinical trials, anytime-valid testing, and ruthless vigilance against selection bias.
+- **Primary Thinkers & Literature:** R. A. Fisher (1935), G. E. P. Box et al. (2005), D. A. Berry (2012), X.-L. Meng (2018), A. Ramdas et al. (2023).
+- **Stance Profile:**
+  - **Anchors High:** `PR-12` (*No Causation Without Manipulation (RCT Gold Standard)*), `PR-15` (*Strict Split: Exploratory vs. Confirmatory* / *Mandatory Preregistration*), `PR-35` (*Strict Probability Sampling* / *Model-Assisted Calibration & MRP*), `PR-36` (High *Prioritizing Unbiased Small Probability Samples Over Massive Biased Big Data*), `PR-37` (*Classical Orthogonal & Response-Surface DoE* / *Batch-Sequential Hybrid*), `PR-38` (*Group-Sequential Alpha-Spending* or *Bayesian Adaptive Platform Trials*), `PR-39` (*Game-Theoretic e-Values & Safe Testing*), `PR-40` (*Complete-Case Caution & Design Prevention* & *Explicit MNAR Sensitivity*).
+  - **Anchors Low:** `PR-12` (*Observational Adjustment* without sensitivity checks), `PR-15` (*Tukeyan Open Exploratory Craft* for confirmatory claims).
+
+### 9. The Game Theorist & Operations-Research Optimizer
+- **Summary:** Designs incentive-compatible institutions, certified discrete schedules, and congestion-proof stochastic networks—fusing economic equilibrium theory with exact mathematical programming.
+- **Primary Thinkers & Literature:** J. von Neumann & O. Morgenstern (1944), G. B. Dantzig (1963), K. J. Arrow (1951), R. B. Myerson (1981), A. E. Roth (2002), F. P. Kelly (1979).
+- **Stance Profile:**
+  - **Anchors High:** `PR-05` (*Optimal Decision & Control*), `PR-16` (*Formulate Convex Problems Only* / *Convex Relaxations*), `PR-19` (*Distributionally Robust Optimization* / *Strict Minimax*), `PR-41` (*Exact Nash / Bayesian Equilibrium Analysis* or *Evolutionary & Learning Dynamics*), `PR-42` (*Exact MIP & Certified Optimality Gaps* / *Matheuristics*), `PR-43` (*Exact Discrete Stochastic Queueing* & *Heavy-Traffic Diffusion*), `PR-44` (*Full Multi-Objective Pareto Exploration* or *Explicit Scalar Cost*), `PR-45` (High *Impossibility Theorems & Incentive Compatibility*).
+  - **Anchors Low:** `PR-01` (*Algorithmic Black-Box Prediction First* ignoring strategic incentives), `PR-42` (*Fast Metaheuristics* when exact MIP applies).
+
+### 10. The Information Theorist & High-Dimensional Signal Analyst
+- **Summary:** Views inference, compression, and sensing through Shannon entropy, MDL, wavelets, compressed sensing, and exact high-dimensional random-matrix phase transitions.
+- **Primary Thinkers & Literature:** C. E. Shannon (1948), J. Rissanen (1978), I. Daubechies (1992), S. Mallat (2012), D. L. Donoho (2006, 2016), E. J. Candès (2006).
+- **Stance Profile:**
+  - **Anchors High:** `PR-09` (*Proportional High-Dim Limits (p/n → γ)* & *Strict Finite-Sample Non-Asymptotic Bounds*), `PR-16` (*Convex Relaxations + Local Refinement*), `PR-17` (*Classical Variational Regularization*), `PR-20` (High *Belief in Underlying Low-Dimensional Sparsity*), `PR-23` (High *MDL & Entropy as Modeling North Star*), `PR-26` (*Formal Theorem-Proof Guarantees Required*), `PR-33` (*Sharp Minimax Optimality* & *Elegant Closed-Form Scaling*), `PR-52` (*Analytic Wavelets, Frames & Scattering*).
+  - **Anchors Low:** `PR-26` (*Pragmatic Heuristics & Benchmarks First*), `PR-52` (*End-to-End Deep Learned Representations* without mathematical stability).
+
+### 11. The Spatial, Time-Series & Probabilistic Forecaster
+- **Summary:** Obsesses over calibrated out-of-sample probabilistic forecasts across space and time—combining state-space models, SPDE/Gaussian-process fields, changepoint awareness, and strictly proper scoring rules.
+- **Primary Thinkers & Literature:** G. E. P. Box & G. M. Jenkins (1970), G. Matheron (1963), N. Cressie (1993), T. Gneiting & A. E. Raftery (2007), F. Lindgren & H. Rue (2011), R. J. Hyndman (2021).
+- **Stance Profile:**
+  - **Anchors High:** `PR-05` (*Accurate Out-of-Sample Forecast*), `PR-14` (*Calibrated Predictive Accuracy*), `PR-29` (*Model Averaging & Stacking Ensembles*), `PR-31` (*Calibrated Probabilities + Plain Scenarios*), `PR-33` (*Decisive Out-of-Sample Calibration*), `PR-46` (*Interpretable ARIMA, ETS & State-Space* / *Hybrid Decomposition + GBDT*), `PR-47` (*Stochastic PDE & INLA Meshes* / *Sparse Local Approximations (Vecchia / NNGP)*), `PR-49` (*Strictly Proper Probabilistic Scoring (Log / CRPS)*), `PR-50` (*Online Changepoint & Regime-Switching*), `PR-51` (*Layered Grammar of Graphics* / *Tufte–Cleveland Minimalist Static Precision*).
+  - **Anchors Low:** `PR-49` (*Business-Aligned Point Errors* ignoring uncertainty), `PR-50` (*Transform to Stationary* blindly across structural breaks).
 
 ---
 
@@ -3335,12 +5000,12 @@ Applied mathematics, statistics, and mathematical modeling bridge formal abstrac
 
 | Skin | Domain | Categories | Topics | Canonical Archetypes |
 | :--- | :--- | :---: | :---: | :---: |
-| **1. Chemcapades** | Chemistry as a Science and Craft | 6 | 34 | 7 |
-| **2. Expericapades** | Experimental Physics | 6 | 34 | 7 |
-| **3. Theoricapades** | Pure & Theoretical Mathematics | 6 | 34 | 7 |
-| **4. Quantacapades** | Theoretical Physics & Quantum Foundations | 6 | 35 | 7 |
-| **5. Simulcapades** | Computational Physics & Scientific Simulation | 6 | 34 | 7 |
-| **6. Mattercapades** | Applied Physics, Materials & Energy | 6 | 34 | 7 |
-| **7. Praxicapades** | Applied Mathematics, Statistics & Modeling | 6 | 34 | 7 |
-| **Total** | **7 Scientific & Mathematical Domains** | **42** | **239** | **49** |
+| **1. Chemcapades** | Chemistry as a Science and Craft | 9 | 52 | 11 |
+| **2. Expericapades** | Experimental Physics | 9 | 52 | 11 |
+| **3. Theoricapades** | Pure & Theoretical Mathematics | 9 | 52 | 11 |
+| **4. Quantacapades** | Theoretical Physics & Quantum Foundations | 9 | 53 | 11 |
+| **5. Simulcapades** | Computational Physics & Scientific Simulation | 9 | 52 | 11 |
+| **6. Mattercapades** | Applied Physics, Materials & Energy | 9 | 52 | 11 |
+| **7. Praxicapades** | Applied Mathematics, Statistics & Modeling | 9 | 52 | 11 |
+| **Total** | **7 Scientific & Mathematical Domains** | **63** | **365** | **77** |
 
